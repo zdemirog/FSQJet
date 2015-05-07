@@ -1,0 +1,2596 @@
+16-May-2013 10:30:44 CEST  Initiating request to open file root://eoscms//eos/cms/store/user/ilknur/rootfiles_for_testing/2012_Data/Run2012A_MinimumBias_AOD_13Jul2012_v1.root
+130516 10:30:44 15388 Xrd: GoToAnotherServer: Going to: lxfsrg21a08.cern.ch:1095
+16-May-2013 10:30:45 CEST  Successfully opened file root://eoscms//eos/cms/store/user/ilknur/rootfiles_for_testing/2012_Data/Run2012A_MinimumBias_AOD_13Jul2012_v1.root
+New trigger menu found !!!
+HLT_L1SingleJet16_v1 454 does not exist in the current menu
+HLT_L1SingleJet16_v2 454 does not exist in the current menu
+HLT_L1SingleJet16_v3 454 does not exist in the current menu
+HLT_L1SingleJet16_v4 454 does not exist in the current menu
+HLT_L1SingleJet16_v5 454 does not exist in the current menu
+HLT_L1SingleJet16_v6 5 exists
+HLT_L1SingleJet36_v1 454 does not exist in the current menu
+HLT_L1SingleJet36_v2 454 does not exist in the current menu
+HLT_L1SingleJet36_v3 454 does not exist in the current menu
+HLT_L1SingleJet36_v4 454 does not exist in the current menu
+HLT_L1SingleJet36_v5 454 does not exist in the current menu
+HLT_L1SingleJet36_v6 6 exists
+HLT_SingleForJet15_v2 454 does not exist in the current menu
+HLT_SingleForJet25_v2 454 does not exist in the current menu
+HLT_ZeroBias_v6 454 does not exist in the current menu
+HLT_ZeroBiasPixel_DoubleTrack_v1 427 exists
+HLT_PFJet40_v1 454 does not exist in the current menu
+HLT_PFJet80_v1 454 does not exist in the current menu
+HLT_PFJet140_v1 454 does not exist in the current menu
+HLT_PFJet200_v1 454 does not exist in the current menu
+HLT_PFJet260_v1 454 does not exist in the current menu
+HLT_PFJet320_v1 454 does not exist in the current menu
+HLT_PFJet400_v1 454 does not exist in the current menu
+HLT_PFJet40_v2 454 does not exist in the current menu
+HLT_PFJet80_v2 454 does not exist in the current menu
+HLT_PFJet140_v2 454 does not exist in the current menu
+HLT_PFJet200_v2 454 does not exist in the current menu
+HLT_PFJet260_v2 454 does not exist in the current menu
+HLT_PFJet320_v2 454 does not exist in the current menu
+HLT_PFJet400_v2 454 does not exist in the current menu
+HLT_PFJet40_v3 8 exists
+HLT_PFJet80_v3 10 exists
+HLT_PFJet140_v3 11 exists
+HLT_PFJet200_v3 12 exists
+HLT_PFJet260_v3 13 exists
+HLT_PFJet320_v3 14 exists
+HLT_PFJet400_v3 16 exists
+HLT_PFJet40_v4 454 does not exist in the current menu
+HLT_PFJet80_v4 454 does not exist in the current menu
+HLT_PFJet140_v4 454 does not exist in the current menu
+HLT_PFJet200_v4 454 does not exist in the current menu
+HLT_PFJet260_v4 454 does not exist in the current menu
+HLT_PFJet320_v4 454 does not exist in the current menu
+HLT_PFJet400_v4 454 does not exist in the current menu
+HLT_PFJet40_v5 454 does not exist in the current menu
+HLT_PFJet80_v5 454 does not exist in the current menu
+HLT_PFJet140_v5 454 does not exist in the current menu
+HLT_PFJet200_v5 454 does not exist in the current menu
+HLT_PFJet260_v5 454 does not exist in the current menu
+HLT_PFJet320_v5 454 does not exist in the current menu
+HLT_PFJet400_v5 454 does not exist in the current menu
+Available TriggerNames are: 
+New trigger menu found !!!
+HLT_L1SingleJet16_v1 454 does not exist in the current menu
+HLT_L1SingleJet16_v2 454 does not exist in the current menu
+HLT_L1SingleJet16_v3 454 does not exist in the current menu
+HLT_L1SingleJet16_v4 454 does not exist in the current menu
+HLT_L1SingleJet16_v5 454 does not exist in the current menu
+HLT_L1SingleJet16_v6 5 exists
+HLT_L1SingleJet36_v1 454 does not exist in the current menu
+HLT_L1SingleJet36_v2 454 does not exist in the current menu
+HLT_L1SingleJet36_v3 454 does not exist in the current menu
+HLT_L1SingleJet36_v4 454 does not exist in the current menu
+HLT_L1SingleJet36_v5 454 does not exist in the current menu
+HLT_L1SingleJet36_v6 6 exists
+HLT_SingleForJet15_v2 454 does not exist in the current menu
+HLT_SingleForJet25_v2 454 does not exist in the current menu
+HLT_ZeroBias_v6 454 does not exist in the current menu
+HLT_ZeroBiasPixel_DoubleTrack_v1 427 exists
+HLT_PFJet40_v1 454 does not exist in the current menu
+HLT_PFJet80_v1 454 does not exist in the current menu
+HLT_PFJet140_v1 454 does not exist in the current menu
+HLT_PFJet200_v1 454 does not exist in the current menu
+HLT_PFJet260_v1 454 does not exist in the current menu
+HLT_PFJet320_v1 454 does not exist in the current menu
+HLT_PFJet400_v1 454 does not exist in the current menu
+HLT_PFJet40_v2 454 does not exist in the current menu
+HLT_PFJet80_v2 454 does not exist in the current menu
+HLT_PFJet140_v2 454 does not exist in the current menu
+HLT_PFJet200_v2 454 does not exist in the current menu
+HLT_PFJet260_v2 454 does not exist in the current menu
+HLT_PFJet320_v2 454 does not exist in the current menu
+HLT_PFJet400_v2 454 does not exist in the current menu
+HLT_PFJet40_v3 8 exists
+HLT_PFJet80_v3 10 exists
+HLT_PFJet140_v3 11 exists
+HLT_PFJet200_v3 12 exists
+HLT_PFJet260_v3 13 exists
+HLT_PFJet320_v3 14 exists
+HLT_PFJet400_v3 16 exists
+HLT_PFJet40_v4 454 does not exist in the current menu
+HLT_PFJet80_v4 454 does not exist in the current menu
+HLT_PFJet140_v4 454 does not exist in the current menu
+HLT_PFJet200_v4 454 does not exist in the current menu
+HLT_PFJet260_v4 454 does not exist in the current menu
+HLT_PFJet320_v4 454 does not exist in the current menu
+HLT_PFJet400_v4 454 does not exist in the current menu
+HLT_PFJet40_v5 454 does not exist in the current menu
+HLT_PFJet80_v5 454 does not exist in the current menu
+HLT_PFJet140_v5 454 does not exist in the current menu
+HLT_PFJet200_v5 454 does not exist in the current menu
+HLT_PFJet260_v5 454 does not exist in the current menu
+HLT_PFJet320_v5 454 does not exist in the current menu
+HLT_PFJet400_v5 454 does not exist in the current menu
+Available TriggerNames are: 
+HLTConfigData::dump: Triggers: 454
+  0 HLT_ZeroBias_part0_v1
+  1 HLT_ZeroBias_part1_v1
+  2 HLT_ZeroBias_part2_v1
+  3 HLT_ZeroBias_part3_v1
+  4 HLT_Activity_Ecal_SC7_v10
+  5 HLT_L1SingleJet16_v6
+  6 HLT_L1SingleJet36_v6
+  7 HLT_Jet20_NoL1FastJet_v1
+  8 HLT_PFJet40_v3
+  9 HLT_Jet50_NoL1FastJet_v1
+  10 HLT_PFJet80_v3
+  11 HLT_PFJet140_v3
+  12 HLT_PFJet200_v3
+  13 HLT_PFJet260_v3
+  14 HLT_PFJet320_v3
+  15 HLT_Jet370_NoJetID_v12
+  16 HLT_PFJet400_v3
+  17 HLT_MonoCentralPFJet80_PFMETnoMu95_NHEF0p95_v2
+  18 HLT_SingleJetC5_v1
+  19 HLT_SingleForJet25_v1
+  20 HLT_SingleForJet15_v1
+  21 HLT_DiPFJetAve40_v3
+  22 HLT_DiPFJetAve80_v3
+  23 HLT_DiPFJetAve140_v3
+  24 HLT_DiPFJetAve200_v3
+  25 HLT_DiPFJetAve260_v3
+  26 HLT_DiPFJetAve320_v3
+  27 HLT_DiPFJetAve400_v3
+  28 HLT_FatDiPFJetMass750_DR1p1_Deta1p5_v2
+  29 HLT_DoubleJet20_ForwardBackward_v1
+  30 HLT_DiJet80_DiJet60_DiJet20_v1
+  31 HLT_DiCentralJet20_BTagIP_MET65_HBHENoiseFiltered_dPhi1_v3
+  32 HLT_DiPFJet40_PFMETnoMu65_MJJ800VBF_AllJets_v2
+  33 HLT_DiPFJet40_PFMETnoMu65_MJJ600VBF_LeadingJets_v2
+  34 HLT_DiJet40Eta2p6_BTagIP3D_v2
+  35 HLT_DiJet80Eta2p6_BTagIP3DLoose_v2
+  36 HLT_DiJet40Eta2p6_BTagIP3DFastPV_v2
+  37 HLT_DiJet80Eta2p6_BTagIP3DFastPVLoose_v2
+  38 HLT_Jet60Eta1p7_Jet53Eta1p7_DiBTagIP3D_v2
+  39 HLT_Jet80Eta1p7_Jet70Eta1p7_DiBTagIP3D_v2
+  40 HLT_Jet160Eta2p4_Jet120Eta2p4_DiBTagIP3DLoose_v2
+  41 HLT_Jet60Eta1p7_Jet53Eta1p7_DiBTagIP3DFastPV_v2
+  42 HLT_Jet80Eta1p7_Jet70Eta1p7_DiBTagIP3DFastPV_v2
+  43 HLT_Jet160Eta2p4_Jet120Eta2p4_DiBTagIP3DFastPVLoose_v2
+  44 HLT_QuadJet50_v1
+  45 HLT_QuadJet60_DiJet20_v1
+  46 HLT_QuadJet70_v1
+  47 HLT_QuadJet80_v1
+  48 HLT_QuadJet90_v1
+  49 HLT_QuadJet75_55_35_20_BTagIP_VBF_v2
+  50 HLT_QuadJet75_55_38_20_BTagIP_VBF_v2
+  51 HLT_QuadPFJet75_55_35_20_BTagCSV_VBF_v2
+  52 HLT_QuadPFJet75_55_38_20_BTagCSV_VBF_v2
+  53 HLT_SixJet35_v1
+  54 HLT_SixJet45_v1
+  55 HLT_SixJet50_v1
+  56 HLT_EightJet35_v1
+  57 HLT_EightJet40_v1
+  58 HLT_ExclDiJet35_HFOR_v1
+  59 HLT_ExclDiJet35_HFAND_v1
+  60 HLT_ExclDiJet80_HFAND_v1
+  61 HLT_JetE30_NoBPTX_v10
+  62 HLT_JetE30_NoBPTX3BX_NoHalo_v12
+  63 HLT_JetE50_NoBPTX3BX_NoHalo_v7
+  64 HLT_JetE70_NoBPTX3BX_NoHalo_v1
+  65 HLT_HT200_AlphaT0p57_v2
+  66 HLT_HT200_v1
+  67 HLT_HT250_AlphaT0p55_v1
+  68 HLT_HT250_AlphaT0p57_v1
+  69 HLT_HT250_v1
+  70 HLT_HT250_DoubleDisplacedPFJet60_v2
+  71 HLT_HT250_DoubleDisplacedPFJet60_ChgFraction10_v2
+  72 HLT_HT250_SingleDisplacedPFJet60_v2
+  73 HLT_HT250_SingleDisplacedPFJet60_ChgFraction10_v2
+  74 HLT_HT300_AlphaT0p53_v1
+  75 HLT_HT300_AlphaT0p54_v7
+  76 HLT_HT300_v1
+  77 HLT_HT300_DoubleDisplacedPFJet60_v2
+  78 HLT_HT300_DoubleDisplacedPFJet60_ChgFraction10_v2
+  79 HLT_HT300_SingleDisplacedPFJet60_v2
+  80 HLT_HT300_SingleDisplacedPFJet60_ChgFraction10_v2
+  81 HLT_HT350_v1
+  82 HLT_HT350_AlphaT0p52_v1
+  83 HLT_HT350_AlphaT0p53_v12
+  84 HLT_HT400_v1
+  85 HLT_HT400_AlphaT0p51_v12
+  86 HLT_HT400_AlphaT0p52_v7
+  87 HLT_HT450_AlphaT0p51_v7
+  88 HLT_HT450_v1
+  89 HLT_HT500_v1
+  90 HLT_HT550_v1
+  91 HLT_HT650_v1
+  92 HLT_HT650_Track50_dEdx3p6_v4
+  93 HLT_HT650_Track60_dEdx3p7_v4
+  94 HLT_HT750_v1
+  95 HLT_PFHT350_v3
+  96 HLT_PFHT650_v5
+  97 HLT_PFHT650_DiCentralPFJet80_CenPFJet40_v3
+  98 HLT_PFHT700_v3
+  99 HLT_PFHT750_v3
+  100 HLT_PFMET150_v2
+  101 HLT_PFMET180_v2
+  102 HLT_DiCentralPFJet30_PFMHT80_v5
+  103 HLT_DiCentralPFJet50_PFMET80_v3
+  104 HLT_DiCentralPFJet30_CaloMET50_dPhi1_PFMHT80_HBHENoiseFiltered_v3
+  105 HLT_CentralPFJet80_CaloMET50_dPhi1_PFMHT80_HBHENoiseFiltered_v3
+  106 HLT_DiCentralJet20_CaloMET65_BTagCSV07_PFMHT80_v2
+  107 HLT_MET80_v2
+  108 HLT_MET80_Track50_dEdx3p6_v3
+  109 HLT_MET80_Track60_dEdx3p7_v3
+  110 HLT_MET120_v9
+  111 HLT_MET120_HBHENoiseCleaned_v2
+  112 HLT_MET200_v9
+  113 HLT_MET200_HBHENoiseCleaned_v2
+  114 HLT_MET300_v1
+  115 HLT_MET300_HBHENoiseCleaned_v2
+  116 HLT_MET400_v4
+  117 HLT_MET400_HBHENoiseCleaned_v2
+  118 HLT_L1SingleMuOpen_v6
+  119 HLT_L1SingleMu12_v1
+  120 HLT_L2Mu70_eta2p1_PFMET65_v2
+  121 HLT_L2Mu80_eta2p1_PFMET70_v2
+  122 HLT_L2Mu20_eta2p1_NoVertex_v1
+  123 HLT_L2Mu10_NoVertex_NoBPTX3BX_NoHalo_v1
+  124 HLT_L2Mu20_NoVertex_NoBPTX3BX_NoHalo_v1
+  125 HLT_L2Mu30_NoVertex_NoBPTX3BX_NoHalo_v1
+  126 HLT_L2TripleMu10_0_0_NoVertex_PFJet40Neutral_v2
+  127 HLT_DoubleDisplacedMu4_DiPFJet40Neutral_v2
+  128 HLT_Mu5_v18
+  129 HLT_Mu8_v16
+  130 HLT_Mu12_v16
+  131 HLT_Mu17_v3
+  132 HLT_Mu12_eta2p1_L1Mu10erJetC12WdEtaPhi1DiJetsC_v3
+  133 HLT_Mu15_eta2p1_v3
+  134 HLT_Mu24_eta2p1_v3
+  135 HLT_Mu30_eta2p1_v3
+  136 HLT_Mu40_eta2p1_v9
+  137 HLT_Mu50_eta2p1_v6
+  138 HLT_RelIso1p0Mu5_v2
+  139 HLT_RelIso1p0Mu17_v2
+  140 HLT_IsoMu15_eta2p1_L1ETM20_v3
+  141 HLT_IsoMu20_eta2p1_v3
+  142 HLT_IsoMu24_eta2p1_v11
+  143 HLT_IsoMu30_eta2p1_v11
+  144 HLT_IsoMu34_eta2p1_v9
+  145 HLT_IsoMu40_eta2p1_v6
+  146 HLT_Mu40_eta2p1_Track50_dEdx3p6_v3
+  147 HLT_Mu40_eta2p1_Track60_dEdx3p7_v3
+  148 HLT_L2DoubleMu23_NoVertex_v10
+  149 HLT_L2DoubleMu23_NoVertex_2Cha_Angle2p5_v2
+  150 HLT_L2DoubleMu38_NoVertex_2Cha_Angle2p5_v2
+  151 HLT_DoubleMu11_Acoplanarity03_v3
+  152 HLT_DoubleMu4_Jpsi_Displaced_v9
+  153 HLT_DoubleMu4_JpsiTk_Displaced_v3
+  154 HLT_DoubleMu3_4_Dimuon5_Bs_Central_v2
+  155 HLT_DoubleMu3p5_4_Dimuon5_Bs_Central_v2
+  156 HLT_DoubleMu4_Dimuon7_Bs_Forward_v2
+  157 HLT_DoubleMu3p5_LowMass_Displaced_v3
+  158 HLT_DoubleMu3p5_LowMassNonResonant_Displaced_v3
+  159 HLT_Dimuon0_Jpsi_v14
+  160 HLT_Dimuon0_Jpsi_NoVertexing_v11
+  161 HLT_Dimuon0_Upsilon_v14
+  162 HLT_Dimuon0_PsiPrime_v3
+  163 HLT_Dimuon5_Upsilon_v3
+  164 HLT_Dimuon5_PsiPrime_v3
+  165 HLT_Dimuon7_Upsilon_v3
+  166 HLT_Dimuon8_Jpsi_v3
+  167 HLT_Dimuon8_Upsilon_v3
+  168 HLT_Dimuon9_PsiPrime_v9
+  169 HLT_Dimuon10_Jpsi_v3
+  170 HLT_Dimuon11_Upsilon_v3
+  171 HLT_Dimuon0_Jpsi_Muon_v15
+  172 HLT_Dimuon0_Upsilon_Muon_v15
+  173 HLT_Dimuon3p5_SameSign_v3
+  174 HLT_DoubleMu4_Acoplanarity03_v3
+  175 HLT_Tau2Mu_ItTrack_v2
+  176 HLT_Mu13_Mu8_v16
+  177 HLT_Mu17_Mu8_v16
+  178 HLT_Mu17_TkMu8_v9
+  179 HLT_Mu22_TkMu8_v4
+  180 HLT_Mu22_TkMu22_v4
+  181 HLT_TripleMu5_v17
+  182 HLT_DoubleMu5_IsoMu5_v16
+  183 HLT_Mu5_L2Mu3_Jpsi_v3
+  184 HLT_Mu5_Track2_Jpsi_v17
+  185 HLT_Mu5_Track3p5_Jpsi_v3
+  186 HLT_Mu7_Track7_Jpsi_v18
+  187 HLT_Photon20_CaloIdVL_v1
+  188 HLT_Photon20_CaloIdVL_IsoL_v13
+  189 HLT_Photon22_R9Id90_HE10_Iso40_EBOnly_v2
+  190 HLT_Photon26_Photon18_v9
+  191 HLT_Photon26_R9Id85_Photon18_R9Id85_Mass60_v1
+  192 HLT_Photon26_R9Id85_Photon18_CaloId10_Iso50_Mass60_v3
+  193 HLT_Photon26_CaloId10_Iso50_Photon18_R9Id85_Mass60_v3
+  194 HLT_Photon26_CaloId10_Iso50_Photon18_CaloId10_Iso50_Mass60_v3
+  195 HLT_Photon26_R9Id85_OR_CaloId10_Iso50_Photon18_R9Id85_OR_CaloId10_Iso50_Mass60_v3
+  196 HLT_Photon26_R9Id85_OR_CaloId10_Iso50_Photon18_v2
+  197 HLT_Photon30_CaloIdVL_v11
+  198 HLT_Photon30_CaloIdVL_IsoL_v16
+  199 HLT_Photon36_R9Id90_HE10_Iso40_EBOnly_v2
+  200 HLT_Photon36_Photon22_v3
+  201 HLT_Photon36_R9Id85_Photon22_R9Id85_v1
+  202 HLT_Photon36_R9Id85_Photon22_CaloId10_Iso50_v3
+  203 HLT_Photon36_CaloId10_Iso50_Photon22_R9Id85_v3
+  204 HLT_Photon36_CaloId10_Iso50_Photon22_CaloId10_Iso50_v3
+  205 HLT_Photon36_R9Id85_OR_CaloId10_Iso50_Photon22_R9Id85_OR_CaloId10_Iso50_v3
+  206 HLT_Photon36_R9Id85_OR_CaloId10_Iso50_Photon22_v2
+  207 HLT_Photon50_CaloIdVL_v7
+  208 HLT_Photon50_CaloIdVL_IsoL_v14
+  209 HLT_Photon50_R9Id90_HE10_Iso40_EBOnly_v2
+  210 HLT_Photon60_CaloIdL_MHT70_v5
+  211 HLT_Photon60_CaloIdL_FJHT300_v1
+  212 HLT_Photon70_CaloIdXL_PFHT400_v2
+  213 HLT_Photon70_CaloIdXL_PFHT500_v2
+  214 HLT_Photon70_CaloIdXL_PFMET100_v2
+  215 HLT_Photon75_CaloIdVL_v10
+  216 HLT_Photon75_CaloIdVL_IsoL_v15
+  217 HLT_Photon75_R9Id90_HE10_Iso40_EBOnly_v2
+  218 HLT_Photon90_CaloIdVL_v7
+  219 HLT_Photon90_CaloIdVL_IsoL_v12
+  220 HLT_Photon90_R9Id90_HE10_Iso40_EBOnly_v2
+  221 HLT_Photon90EBOnly_CaloIdVL_IsoL_TriPFJet25_v10
+  222 HLT_Photon90EBOnly_CaloIdVL_IsoL_TriPFJet30_v10
+  223 HLT_Photon135_v4
+  224 HLT_Photon150_v1
+  225 HLT_Photon160_v1
+  226 HLT_Photon250_NoHE_v1
+  227 HLT_Photon300_NoHE_v1
+  228 HLT_DoublePhoton43_HEVT_v5
+  229 HLT_DoublePhoton48_HEVT_v5
+  230 HLT_DoublePhoton70_v3
+  231 HLT_DoublePhoton80_v4
+  232 HLT_DoublePhoton5_IsoVL_CEP_v13
+  233 HLT_L1SingleEG5_v5
+  234 HLT_L1SingleEG12_v5
+  235 HLT_L1ETM30_v1
+  236 HLT_L1ETM40_v1
+  237 HLT_L1ETM70_v1
+  238 HLT_L1ETM100_v1
+  239 HLT_Ele8_CaloIdT_TrkIdVL_v2
+  240 HLT_Ele8_CaloIdT_TrkIdVL_Jet30_v2
+  241 HLT_Ele8_CaloIdL_CaloIsoVL_v14
+  242 HLT_Ele8_CaloIdT_CaloIsoVL_TrkIdVL_TrkIsoVL_v12
+  243 HLT_Ele17_CaloIdL_CaloIsoVL_v14
+  244 HLT_Ele17_CaloIdT_CaloIsoVL_TrkIdVL_TrkIsoVL_v3
+  245 HLT_Ele17_CaloIdT_CaloIsoVL_TrkIdVL_TrkIsoVL_Ele8_CaloIdT_CaloIsoVL_TrkIdVL_TrkIsoVL_v15
+  246 HLT_Ele17_CaloIdVT_CaloIsoVT_TrkIdT_TrkIsoVT_Ele8_Mass50_v3
+  247 HLT_Ele20_CaloIdVT_CaloIsoVT_TrkIdT_TrkIsoVT_SC4_Mass50_v3
+  248 HLT_Ele22_CaloIdL_CaloIsoVL_v3
+  249 HLT_Ele27_CaloIdL_CaloIsoVL_TrkIdVL_TrkIsoVL_v8
+  250 HLT_Ele27_CaloIdT_CaloIsoVL_TrkIdVL_TrkIsoVL_Ele15_CaloIdT_CaloIsoVL_trackless_v4
+  251 HLT_Ele27_CaloIdT_CaloIsoVL_TrkIdVL_TrkIsoVL_HFT15_v4
+  252 HLT_Ele23_CaloIdT_CaloIsoVL_TrkIdVL_TrkIsoVL_HFT30_v4
+  253 HLT_Ele27_WP80_v8
+  254 HLT_Ele27_WP80_PFMET_MT50_v2
+  255 HLT_Ele30_CaloIdVT_TrkIdT_v3
+  256 HLT_Ele32_CaloIdL_CaloIsoVL_TrkIdVL_TrkIsoVL_v8
+  257 HLT_Ele32_CaloIdT_CaloIsoT_TrkIdT_TrkIsoT_SC17_Mass50_v3
+  258 HLT_Ele65_CaloIdVT_TrkIdT_v11
+  259 HLT_Ele80_CaloIdVT_TrkIdT_v8
+  260 HLT_Ele100_CaloIdVT_TrkIdT_v8
+  261 HLT_DoubleEle8_CaloIdT_TrkIdVL_v9
+  262 HLT_DoubleEle33_CaloIdL_v11
+  263 HLT_DoubleEle33_CaloIdL_GsfTrkIdVL_v3
+  264 HLT_DoubleEle33_CaloIdT_v7
+  265 HLT_Ele15_Ele8_Ele5_CaloIdL_TrkIdVL_v3
+  266 HLT_LooseIsoPFTau35_Trk20_Prong1_v2
+  267 HLT_LooseIsoPFTau35_Trk20_Prong1_MET70_v2
+  268 HLT_LooseIsoPFTau35_Trk20_Prong1_MET75_v2
+  269 HLT_IsoMu15_eta2p1_LooseIsoPFTau35_Trk20_Prong1_L1ETM20_v2
+  270 HLT_DoubleMediumIsoPFTau35_Trk5_eta2p1_Prong1_v2
+  271 HLT_DoubleMediumIsoPFTau35_Trk5_eta2p1_v2
+  272 HLT_DoubleMediumIsoPFTau25_Trk5_eta2p1_Jet30_v2
+  273 HLT_IsoMu18_eta2p1_MediumIsoPFTau25_Trk5_eta2p1_v3
+  274 HLT_BTagMu_DiJet20_Mu5_v2
+  275 HLT_BTagMu_DiJet40_Mu5_v2
+  276 HLT_BTagMu_DiJet70_Mu5_v2
+  277 HLT_BTagMu_DiJet110_Mu5_v2
+  278 HLT_BTagMu_Jet300_Mu5_v2
+  279 HLT_Mu7_Ele7_CaloIdT_CaloIsoVL_v3
+  280 HLT_Mu8_Ele17_CaloIdT_CaloIsoVL_TrkIdVL_TrkIsoVL_v4
+  281 HLT_Mu8_DiJet30_v3
+  282 HLT_Mu8_TriJet30_v3
+  283 HLT_Mu8_QuadJet30_v3
+  284 HLT_Mu12_DoubleCentralJet65_v3
+  285 HLT_Mu15_eta2p1_L1ETM20_v3
+  286 HLT_IsoMu24_eta2p1_CentralPFJet30_CentralPFJet25_v3
+  287 HLT_Mu24_eta2p1_CentralPFJet30_CentralPFJet25_v3
+  288 HLT_IsoMu24_eta2p1_PFJet30_PFJet25_Deta3_v3
+  289 HLT_Mu24_eta2p1_PFJet30_PFJet25_Deta3_v3
+  290 HLT_IsoMu24_eta2p1_CentralPFJet30_CentralPFJet25_PFMET20_v2
+  291 HLT_Ele27_WP80_CentralPFJet30_CentralPFJet25_v4
+  292 HLT_Ele27_WP80_PFJet30_PFJet25_Deta3_v4
+  293 HLT_Ele27_WP80_CentralPFJet30_CentralPFJet25_PFMET20_v2
+  294 HLT_IsoMu17_eta2p1_TriCentralPFJet30_v2
+  295 HLT_IsoMu20_eta2p1_CentralPFJet30_BTagIPIter_v2
+  296 HLT_IsoMu20_eta2p1_CentralPFJet30_v2
+  297 HLT_IsoMu20_eta2p1_DiCentralPFJet30_v2
+  298 HLT_IsoMu20_eta2p1_TriCentralPFJet30_v2
+  299 HLT_IsoMu20_eta2p1_TriCentralPFJet50_40_30_v2
+  300 HLT_IsoMu20_eta2p1_CentralPFNoPUJet30_BTagIPIter_v2
+  301 HLT_IsoMu20_eta2p1_CentralPFNoPUJet30_v2
+  302 HLT_IsoMu20_eta2p1_DiCentralPFNoPUJet30_v2
+  303 HLT_IsoMu20_eta2p1_TriCentralPFNoPUJet30_v2
+  304 HLT_IsoMu20_eta2p1_TriCentralPFNoPUJet50_40_30_v2
+  305 HLT_IsoMu20_eta2p1_WCandPt80_v3
+  306 HLT_Mu20_eta2p1_CentralPFJet30_BTagIPIter_v3
+  307 HLT_Mu20_eta2p1_TriCentralPFJet30_v3
+  308 HLT_Mu20_eta2p1_TriCentralPFJet50_40_30_v2
+  309 HLT_Mu20_eta2p1_CentralPFNoPUJet30_BTagIPIter_v2
+  310 HLT_Mu20_eta2p1_TriCentralPFNoPUJet30_v2
+  311 HLT_Mu20_eta2p1_TriCentralPFNoPUJet50_40_30_v2
+  312 HLT_Mu17_Ele8_CaloIdT_CaloIsoVL_TrkIdVL_TrkIsoVL_v4
+  313 HLT_Mu12_eta2p1_DiCentral_40_20_DiBTagIP3D1stTrack_v2
+  314 HLT_Mu12_eta2p1_DiCentral_40_20_BTagIP3D1stTrack_v2
+  315 HLT_Mu12_eta2p1_DiCentral_40_20_v2
+  316 HLT_Mu12_eta2p1_DiCentral_20_v2
+  317 HLT_Mu15_eta2p1_TriCentral_40_20_20_DiBTagIP3D1stTrack_v2
+  318 HLT_Mu15_eta2p1_TriCentral_40_20_20_BTagIP3D1stTrack_v2
+  319 HLT_Mu15_eta2p1_TriCentral_40_20_20_v2
+  320 HLT_Mu30_Ele30_CaloIdL_v3
+  321 HLT_IsoMu17_eta2p1_DiCentralPFJet30_PFHT350_PFMHT40_v3
+  322 HLT_IsoMu20_eta2p1_CentralPFJet80_v3
+  323 HLT_Mu18_eta2p1_LooseIsoPFTau20_v4
+  324 HLT_IsoMu18_eta2p1_LooseIsoPFTau20_v4
+  325 HLT_IsoMu20_eta2p1_LooseIsoPFTau20_v3
+  326 HLT_Ele20_CaloIdVT_CaloIsoRhoT_TrkIdT_TrkIsoT_LooseIsoPFTau20L1Jet_v4
+  327 HLT_Ele20_CaloIdVT_CaloIsoRhoT_TrkIdT_TrkIsoT_LooseIsoPFTau22L1Jet_v3
+  328 HLT_Ele20_CaloIdVT_TrkIdT_LooseIsoPFTau20_v4
+  329 HLT_Ele20_CaloIdVT_CaloIsoRhoT_TrkIdT_TrkIsoT_LooseIsoPFTau20_v4
+  330 HLT_Ele22_CaloIdVT_CaloIsoRhoT_TrkIdT_TrkIsoT_LooseIsoPFTau20_v3
+  331 HLT_Ele20_CaloIdVT_CaloIsoRhoT_TrkIdT_TrkIsoT_v3
+  332 HLT_DoubleRelIso1p0Mu5_Mass8_PFHT175_v2
+  333 HLT_DoubleRelIso1p0Mu5_Mass8_PFHT225_v2
+  334 HLT_DoubleMu8_Mass8_PFHT225_v3
+  335 HLT_DoubleMu8_Mass8_PFHT175_v3
+  336 HLT_RelIso1p0Mu5_Ele8_CaloIdT_TrkIdVL_Mass8_PFHT175_v2
+  337 HLT_RelIso1p0Mu5_Ele8_CaloIdT_TrkIdVL_Mass8_PFHT225_v2
+  338 HLT_Mu8_Ele8_CaloIdT_TrkIdVL_Mass8_PFHT175_v3
+  339 HLT_Mu8_Ele8_CaloIdT_TrkIdVL_Mass8_PFHT225_v3
+  340 HLT_PFHT350_Mu15_PFMET45_v3
+  341 HLT_PFHT350_Mu15_PFMET50_v3
+  342 HLT_PFHT400_Mu5_PFMET45_v3
+  343 HLT_PFHT400_Mu5_PFMET50_v3
+  344 HLT_Mu40_PFHT350_v3
+  345 HLT_Mu60_PFHT350_v3
+  346 HLT_Mu40_FJHT200_v3
+  347 HLT_DoubleMu5_Ele8_CaloIdT_TrkIdVL_v12
+  348 HLT_DoubleMu8_Ele8_CaloIdT_TrkIdVL_v1
+  349 HLT_Ele8_CaloIdT_CaloIsoVL_TrkIdVL_TrkIsoVL_Jet30_v3
+  350 HLT_Ele8_CaloIdT_TrkIdT_DiJet30_v13
+  351 HLT_Ele8_CaloIdT_TrkIdT_TriJet30_v13
+  352 HLT_Ele8_CaloIdT_TrkIdT_QuadJet30_v13
+  353 HLT_Ele17_CaloIdT_CaloIsoVL_TrkIdVL_TrkIsoVL_Jet30_v3
+  354 HLT_Ele25_CaloIdVT_TrkIdT_TriCentralPFJet30_v8
+  355 HLT_Ele25_CaloIdVT_TrkIdT_TriCentralPFJet50_40_30_v3
+  356 HLT_Ele25_CaloIdVT_CaloIsoT_TrkIdT_TrkIsoT_CentralPFJet30_v8
+  357 HLT_Ele25_CaloIdVT_CaloIsoT_TrkIdT_TrkIsoT_DiCentralPFJet30_v8
+  358 HLT_Ele25_CaloIdVT_CaloIsoT_TrkIdT_TrkIsoT_TriCentralPFJet30_v8
+  359 HLT_Ele25_CaloIdVT_CaloIsoT_TrkIdT_TrkIsoT_CentralPFJet30_BTagIPIter_v4
+  360 HLT_Ele25_CaloIdVT_CaloIsoT_TrkIdT_TrkIsoT_TriCentralPFJet50_40_30_v3
+  361 HLT_Ele25_CaloIdVT_TrkIdT_TriCentralPFNoPUJet30_v3
+  362 HLT_Ele25_CaloIdVT_TrkIdT_TriCentralPFNoPUJet50_40_30_v3
+  363 HLT_Ele25_CaloIdVT_CaloIsoT_TrkIdT_TrkIsoT_CentralPFNoPUJet30_v3
+  364 HLT_Ele25_CaloIdVT_CaloIsoT_TrkIdT_TrkIsoT_DiCentralPFNoPUJet30_v3
+  365 HLT_Ele25_CaloIdVT_CaloIsoT_TrkIdT_TrkIsoT_TriCentralPFNoPUJet30_v3
+  366 HLT_Ele25_CaloIdVT_CaloIsoT_TrkIdT_TrkIsoT_CentralPFNoPUJet30_BTagIPIter_v3
+  367 HLT_Ele25_CaloIdVT_CaloIsoT_TrkIdT_TrkIsoT_TriCentralPFNoPUJet50_40_30_v3
+  368 HLT_Ele27_WP80_CentralPFJet80_v4
+  369 HLT_Ele27_WP80_WCandPt80_v3
+  370 HLT_Ele30_CaloIdVT_TrkIdT_PFJet100_PFJet25_v3
+  371 HLT_Ele30_CaloIdVT_TrkIdT_PFJet150_PFJet25_v3
+  372 HLT_Ele30_CaloIdVT_TrkIdT_PFNoPUJet100_PFNoPUJet25_v2
+  373 HLT_Ele30_CaloIdVT_TrkIdT_PFNoPUJet150_PFNoPUJet25_v2
+  374 HLT_DoubleEle8_CaloIdT_TrkIdVL_Mass8_PFHT175_v3
+  375 HLT_DoubleEle8_CaloIdT_TrkIdVL_Mass8_PFHT225_v3
+  376 HLT_DoubleEle10_CaloIdL_TrkIdVL_Ele10_CaloIdT_TrkIdVL_v9
+  377 HLT_TripleEle10_CaloIdL_TrkIdVL_v15
+  378 HLT_RsqMR40_Rsq0p04_v2
+  379 HLT_RsqMR45_Rsq0p09_v1
+  380 HLT_RsqMR55_Rsq0p09_MR150_v2
+  381 HLT_RsqMR60_Rsq0p09_MR150_v2
+  382 HLT_RsqMR65_Rsq0p09_MR150_v1
+  383 HLT_Mu12_RsqMR30_Rsq0p04_MR200_v3
+  384 HLT_Mu12_RsqMR40_Rsq0p04_MR200_v3
+  385 HLT_Mu12_RsqMR45_Rsq0p04_MR200_v2
+  386 HLT_Ele12_CaloIdL_CaloIsoVL_TrkIdVL_TrkIsoVL_RsqMR30_Rsq0p04_MR200_v3
+  387 HLT_Ele12_CaloIdL_CaloIsoVL_TrkIdVL_TrkIsoVL_RsqMR45_Rsq0p04_MR200_v2
+  388 HLT_Ele12_CaloIdL_CaloIsoVL_TrkIdVL_TrkIsoVL_RsqMR40_Rsq0p04_MR200_v3
+  389 HLT_Ele12_CaloIdL_CaloIsoVL_TrkIdVL_TrkIsoVL_DoubleCentralJet65_v3
+  390 HLT_Photon40_CaloIdL_RsqMR35_Rsq0p09_MR150_v1
+  391 HLT_Photon40_CaloIdL_RsqMR40_Rsq0p09_MR150_v1
+  392 HLT_Photon40_CaloIdL_RsqMR45_Rsq0p09_MR150_v1
+  393 HLT_Photon40_CaloIdL_RsqMR50_Rsq0p09_MR150_v1
+  394 HLT_DoublePhoton40_CaloIdL_Rsq0p035_v1
+  395 HLT_DoublePhoton40_CaloIdL_Rsq0p06_v1
+  396 HLT_Mu22_Photon22_CaloIdL_v3
+  397 HLT_Mu8_DoubleEle8_CaloIdT_TrkIdVL_v3
+  398 HLT_Mu8_Ele8_CaloIdT_TrkIdVL_Ele8_CaloIdL_TrkIdVL_v3
+  399 HLT_DoubleMu14_Mass8_PFMET40_v3
+  400 HLT_DoubleMu14_Mass8_PFMET50_v3
+  401 HLT_DoubleEle14_CaloIdT_TrkIdVL_Mass8_PFMET40_v3
+  402 HLT_DoubleEle14_CaloIdT_TrkIdVL_Mass8_PFMET50_v3
+  403 HLT_Mu14_Ele14_CaloIdT_TrkIdVL_Mass8_PFMET40_v3
+  404 HLT_Mu14_Ele14_CaloIdT_TrkIdVL_Mass8_PFMET50_v3
+  405 HLT_PFHT350_PFMET100_v3
+  406 HLT_PFHT400_PFMET100_v3
+  407 HLT_CleanPFHT350_Ele5_CaloIdT_CaloIsoVL_TrkIdT_TrkIsoVL_PFMET45_v3
+  408 HLT_CleanPFHT350_Ele5_CaloIdT_CaloIsoVL_TrkIdT_TrkIsoVL_PFMET50_v3
+  409 HLT_CleanPFHT300_Ele15_CaloIdT_CaloIsoVL_TrkIdT_TrkIsoVL_PFMET45_v3
+  410 HLT_CleanPFHT300_Ele15_CaloIdT_CaloIsoVL_TrkIdT_TrkIsoVL_PFMET50_v3
+  411 HLT_CleanPFHT300_Ele40_CaloIdVT_TrkIdT_v3
+  412 HLT_CleanPFHT300_Ele60_CaloIdVT_TrkIdT_v3
+  413 HLT_Ele5_SC5_Jpsi_Mass2to15_v1
+  414 HLT_PixelTracks_Multiplicity70_v2
+  415 HLT_PixelTracks_Multiplicity80_v11
+  416 HLT_PixelTracks_Multiplicity90_v2
+  417 HLT_BeamGas_HF_Beam1_v4
+  418 HLT_BeamGas_HF_Beam2_v4
+  419 HLT_BeamHalo_v12
+  420 HLT_IsoTrackHE_v14
+  421 HLT_IsoTrackHB_v13
+  422 HLT_HcalPhiSym_v10
+  423 HLT_HcalNZS_v9
+  424 HLT_GlobalRunHPDNoise_v7
+  425 HLT_L1Tech_HBHEHO_totalOR_v5
+  426 HLT_L1Tech_HCAL_HF_single_channel_v3
+  427 HLT_ZeroBiasPixel_DoubleTrack_v1
+  428 HLT_Physics_v4
+  429 HLT_Physics5E33_48b_v1
+  430 HLT_Physics5E33_84b_v1
+  431 HLT_DTCalibration_v2
+  432 HLT_EcalCalibration_v3
+  433 HLT_HcalCalibration_v3
+  434 HLT_TrackerCalibration_v3
+  435 HLT_Random_v2
+  436 HLT_L1SingleMuOpen_AntiBPTX_v5
+  437 HLT_L1TrackerCosmics_v6
+  438 HLT_LogMonitor_v2
+  439 HLT_DTErrors_v3
+  440 HLT_L1DoubleJet36Central_v6
+  441 AlCa_EcalPi0EBonly_v2
+  442 AlCa_EcalPi0EEonly_v2
+  443 AlCa_EcalEtaEBonly_v2
+  444 AlCa_EcalEtaEEonly_v2
+  445 AlCa_EcalPhiSym_v11
+  446 AlCa_RPCMuonNoTriggers_v8
+  447 AlCa_RPCMuonNoHits_v8
+  448 AlCa_RPCMuonNormalisation_v8
+  449 AlCa_LumiPixels_v4
+  450 AlCa_LumiPixels_ZeroBias_v1
+  451 AlCa_LumiPixels_Random_v1
+  452 DQM_FEDIntegrity_v8
+  453 HLTriggerFinalPath
+Begin processing the 1st record. Run 190539, Event 168292391, LumiSection 241 at 16-May-2013 10:30:50.314 CEST
+Burada 1
+ Burada 2
+ Burada 3
+ Burada 4
+ tower :1388 PFJets 24
+ 3 tower et :0.709444 tower eta -0.0357674 tower phi0.141115
+ 3 tower et :0.36429 tower eta -0.0120949 tower phi2.04882
+ 3 tower et :0.405207 tower eta -0.0301648 tower phi2.75336
+ 3 tower et :1.14355 tower eta -0.0435235 tower phi2.83616
+ 3 tower et :0.62686 tower eta -0.0660395 tower phi-0.693915
+ 3 tower et :0.804935 tower eta -0.0435235 tower phi-0.305433
+ 3 tower et :0.236139 tower eta -0.15504 tower phi0.598841
+ 3 tower et :0.256863 tower eta -0.172419 tower phi0.668064
+ 3 tower et :0.510246 tower eta -0.159605 tower phi1.3535
+ 3 tower et :0.204045 tower eta -0.136992 tower phi1.47123
+ 3 tower et :0.214624 tower eta -0.171497 tower phi2.15264
+ 3 tower et :0.28805 tower eta -0.101659 tower phi-2.93067
+ 3 tower et :0.29086 tower eta -0.10159 tower phi-2.87188
+ 3 tower et :0.221058 tower eta -0.136434 tower phi-1.35611
+ 3 tower et :0.773248 tower eta -0.13057 tower phi-1.09083
+ 3 tower et :1.4314 tower eta -0.205426 tower phi0.191177
+ 3 tower et :0.419172 tower eta -0.206941 tower phi0.284325
+ 3 tower et :0.247236 tower eta -0.224349 tower phi0.353506
+ 3 tower et :0.299425 tower eta -0.21647 tower phi0.499693
+ 3 tower et :0.447227 tower eta -0.207118 tower phi0.541349
+ 3 tower et :0.317616 tower eta -0.210452 tower phi0.750626
+ 3 tower et :0.874228 tower eta -0.21643 tower phi1.16549
+ 3 tower et :0.205008 tower eta -0.189013 tower phi2.36384
+ 3 tower et :0.255468 tower eta -0.223407 tower phi2.64404
+ 3 tower et :0.572075 tower eta -0.25814 tower phi2.75592
+ 3 tower et :0.213106 tower eta -0.24063 tower phi-3.09983
+ 3 tower et :0.265094 tower eta -0.21437 tower phi-1.7394
+ 3 tower et :0.277056 tower eta -0.293266 tower phi1.97956
+ 3 tower et :0.235818 tower eta -0.310656 tower phi2.32927
+ 3 tower et :0.658833 tower eta -0.280013 tower phi2.60268
+ 3 tower et :0.609692 tower eta -0.281671 tower phi2.75294
+ 3 tower et :0.416226 tower eta -0.315307 tower phi-2.49375
+ 3 tower et :0.217769 tower eta -0.292501 tower phi-2.43656
+ 3 tower et :0.239039 tower eta -0.292419 tower phi-1.5629
+ 3 tower et :0.259909 tower eta -0.363221 tower phi0.474523
+ 3 tower et :0.250556 tower eta -0.432771 tower phi1.28062
+ 3 tower et :0.204985 tower eta -0.414335 tower phi-0.762963
+ 3 tower et :0.249873 tower eta -0.471015 tower phi0.0561454
+ 3 tower et :0.964529 tower eta -0.478741 tower phi0.218166
+ 3 tower et :0.828923 tower eta -0.503164 tower phi-2.56635
+ 3 tower et :0.217139 tower eta -0.505105 tower phi-2.22599
+ 3 tower et :0.227075 tower eta -0.487607 tower phi-1.80835
+ 3 tower et :0.213039 tower eta -0.453114 tower phi-1.60127
+ 3 tower et :0.41252 tower eta -0.481195 tower phi-1.54569
+ 3 tower et :0.248707 tower eta -0.521393 tower phi-1.30441
+ 3 tower et :0.292466 tower eta -0.523099 tower phi-0.0647518
+ 3 tower et :0.247458 tower eta -0.609758 tower phi0.68544
+ 3 tower et :0.247297 tower eta -0.599951 tower phi0.761793
+ 3 tower et :0.300724 tower eta -0.575899 tower phi1.17998
+ 3 tower et :0.48151 tower eta -0.541144 tower phi1.59583
+ 3 tower et :0.487291 tower eta -0.553671 tower phi2.25255
+ 3 tower et :0.176692 tower eta -0.608252 tower phi2.67877
+ 3 tower et :0.561103 tower eta -0.539544 tower phi-2.47098
+ 3 tower et :0.222481 tower eta -0.538552 tower phi-1.30441
+ 3 tower et :0.866701 tower eta -0.56172 tower phi-0.211415
+ 3 tower et :0.808187 tower eta -0.55812 tower phi-0.059302
+ 3 tower et :0.219102 tower eta -0.63612 tower phi0.0562493
+ 3 tower et :0.302499 tower eta -0.626843 tower phi0.284502
+ 3 tower et :0.330119 tower eta -0.695691 tower phi1.87711
+ 3 tower et :0.168809 tower eta -0.693594 tower phi-1.94961
+ 3 tower et :0.168661 tower eta -0.625449 tower phi-0.659221
+ 3 tower et :0.47032 tower eta -0.676544 tower phi-0.53837
+ 3 tower et :0.353267 tower eta -0.64161 tower phi-0.151191
+ 3 tower et :0.570652 tower eta -0.739841 tower phi0.392699
+ 3 tower et :0.475724 tower eta -0.747422 tower phi1.00165
+ 3 tower et :0.195711 tower eta -0.781503 tower phi1.17364
+ 3 tower et :0.224783 tower eta -0.711993 tower phi2.04903
+ 3 tower et :0.209159 tower eta -0.753527 tower phi-2.90617
+ 3 tower et :0.872673 tower eta -0.73984 tower phi-2.22529
+ 3 tower et :0.35434 tower eta -0.757737 tower phi-1.8571
+ 3 tower et :0.549094 tower eta -0.826867 tower phi0.392699
+ 3 tower et :0.406488 tower eta -0.866358 tower phi0.502694
+ 3 tower et :0.741229 tower eta -0.803391 tower phi1.38293
+ 3 tower et :0.222829 tower eta -0.837661 tower phi1.6307
+ 3 tower et :0.244382 tower eta -0.852805 tower phi-1.86222
+ 3 tower et :0.157643 tower eta -0.817611 tower phi-1.39025
+ 3 tower et :0.729498 tower eta -0.826867 tower phi-1.09083
+ 3 tower et :0.143921 tower eta -0.922094 tower phi0.0219173
+ 3 tower et :0.375873 tower eta -0.919715 tower phi1.08895
+ 3 tower et :0.261423 tower eta -0.889979 tower phi1.52188
+ 3 tower et :0.620199 tower eta -0.932095 tower phi1.69409
+ 3 tower et :0.53002 tower eta -0.913891 tower phi2.31256
+ 3 tower et :0.685114 tower eta -0.913891 tower phi2.57436
+ 3 tower et :0.200265 tower eta -0.925847 tower phi-2.9786
+ 3 tower et :1.25084 tower eta -0.909244 tower phi-2.93292
+ 3 tower et :0.578583 tower eta -0.904531 tower phi-2.86827
+ 3 tower et :0.314603 tower eta -0.945742 tower phi-2.10484
+ 3 tower et :0.136439 tower eta -0.938004 tower phi-2.07033
+ 3 tower et :0.172152 tower eta -0.93802 tower phi-1.96674
+ 3 tower et :0.283307 tower eta -0.954004 tower phi-1.40743
+ 3 tower et :0.269554 tower eta -1.04272 tower phi0.073978
+ 3 tower et :0.135348 tower eta -1.04333 tower phi0.250276
+ 3 tower et :0.211434 tower eta -0.99257 tower phi0.599335
+ 3 tower et :0.665554 tower eta -1.00939 tower phi0.675268
+ 3 tower et :0.130696 tower eta -0.992012 tower phi0.720375
+ 3 tower et :0.236987 tower eta -0.994599 tower phi1.28107
+ 3 tower et :0.182047 tower eta -1.00108 tower phi1.62273
+ 3 tower et :0.289548 tower eta -0.977948 tower phi-2.8283
+ 3 tower et :0.153796 tower eta -0.972925 tower phi-2.33249
+ 3 tower et :0.142196 tower eta -1.02455 tower phi-0.762488
+ 3 tower et :0.301654 tower eta -1.12924 tower phi0.423295
+ 3 tower et :0.277492 tower eta -1.08404 tower phi0.824309
+ 3 tower et :0.158203 tower eta -1.10712 tower phi-2.49105
+ 3 tower et :0.247696 tower eta -1.07507 tower phi-2.34975
+ 3 tower et :0.311832 tower eta -1.10359 tower phi-1.32106
+ 3 tower et :0.12322 tower eta -1.07529 tower phi-0.779792
+ 3 tower et :0.223229 tower eta -1.186 tower phi1.28126
+ 3 tower et :0.119928 tower eta -1.16848 tower phi1.87336
+ 3 tower et :4.12671 tower eta -1.17495 tower phi-3.01069
+ 3 tower et :0.122052 tower eta -1.20131 tower phi-2.78472
+ 3 tower et :0.564977 tower eta -1.17495 tower phi-2.31256
+ 3 tower et :0.19752 tower eta -1.14863 tower phi-2.03561
+ 3 tower et :0.316832 tower eta -1.18548 tower phi-1.28589
+ 3 tower et :0.128615 tower eta -1.14995 tower phi-0.555149
+ 3 tower et :0.338865 tower eta -1.1863 tower phi-0.405399
+ 3 tower et :0.419195 tower eta -1.2183 tower phi-0.292488
+ 3 tower et :0.127494 tower eta -1.21922 tower phi-0.206009
+ 3 tower et :0.588347 tower eta -1.2844 tower phi0.277628
+ 3 tower et :0.534382 tower eta -1.30614 tower phi0.978318
+ 3 tower et :0.275315 tower eta -1.2374 tower phi1.2813
+ 3 tower et :0.72997 tower eta -1.26274 tower phi-2.1507
+ 3 tower et :0.736963 tower eta -1.25334 tower phi-2.03365
+ 3 tower et :0.43898 tower eta -1.28334 tower phi-1.94908
+ 3 tower et :0.426439 tower eta -1.29135 tower phi-0.81421
+ 3 tower et :0.387466 tower eta -1.25167 tower phi-0.779627
+ 3 tower et :0.153702 tower eta -1.27884 tower phi-0.49105
+ 3 tower et :0.272527 tower eta -1.32626 tower phi0.135546
+ 3 tower et :0.691748 tower eta -1.34836 tower phi0.916298
+ 3 tower et :0.708619 tower eta -1.34981 tower phi1.00576
+ 3 tower et :0.24509 tower eta -1.32313 tower phi1.96318
+ 3 tower et :0.19594 tower eta -1.33669 tower phi2.29554
+ 3 tower et :0.860637 tower eta -1.38522 tower phi-2.73878
+ 3 tower et :0.162723 tower eta -1.35875 tower phi-2.32374
+ 3 tower et :0.897862 tower eta -1.34837 tower phi-1.87623
+ 3 tower et :0.133419 tower eta -1.33589 tower phi-1.36317
+ 3 tower et :0.81331 tower eta -1.38924 tower phi-0.801316
+ 3 tower et :0.108721 tower eta -1.45913 tower phi0.00520028
+ 3 tower et :0.189798 tower eta -1.47683 tower phi0.686219
+ 3 tower et :0.376122 tower eta -1.40889 tower phi1.20883
+ 3 tower et :0.116743 tower eta -1.4079 tower phi2.18813
+ 3 tower et :0.127127 tower eta -1.46762 tower phi-2.84398
+ 3 tower et :0.20652 tower eta -1.42562 tower phi-2.77677
+ 3 tower et :0.114082 tower eta -1.47529 tower phi-2.60826
+ 3 tower et :0.391428 tower eta -1.40611 tower phi-0.807539
+ 3 tower et :0.472297 tower eta -1.40641 tower phi-0.766488
+ 3 tower et :0.104453 tower eta -1.44119 tower phi-0.589445
+ 3 tower et :0.160123 tower eta -1.46896 tower phi-0.29227
+ 3 tower et :0.178778 tower eta -1.45365 tower phi-0.0180438
+ 3 tower et :0.217309 tower eta -1.52984 tower phi1.45819
+ 3 tower et :0.229121 tower eta -1.51396 tower phi-2.0184
+ 3 tower et :0.402894 tower eta -1.60936 tower phi2.57436
+ 3 tower et :0.1996 tower eta -1.62496 tower phi2.64077
+ 3 tower et :0.418677 tower eta -1.60936 tower phi2.74889
+ 3 tower et :0.556892 tower eta -1.60936 tower phi-1.9635
+ 3 tower et :0.904658 tower eta -1.60936 tower phi-0.654498
+ 3 tower et :0.293605 tower eta -1.69638 tower phi0.479966
+ 3 tower et :0.935702 tower eta -1.69638 tower phi2.66163
+ 3 tower et :0.289006 tower eta -1.69638 tower phi2.74889
+ 3 tower et :0.179273 tower eta -1.67501 tower phi3.13451
+ 3 tower et :0.318721 tower eta -1.69638 tower phi-2.92343
+ 3 tower et :1.18731 tower eta -1.70409 tower phi-1.78949
+ 3 tower et :0.374435 tower eta -1.69638 tower phi-1.7017
+ 3 tower et :0.17175 tower eta -1.67036 tower phi-1.63171
+ 3 tower et :0.381423 tower eta -1.74392 tower phi-1.35252
+ 3 tower et :0.468294 tower eta -1.71534 tower phi-1.07421
+ 3 tower et :0.873494 tower eta -1.69638 tower phi-1.00356
+ 3 tower et :0.162756 tower eta -1.74847 tower phi-0.920894
+ 3 tower et :0.705732 tower eta -1.67911 tower phi-0.590494
+ 3 tower et :0.357901 tower eta -1.69638 tower phi-0.0436333
+ 3 tower et :0.301763 tower eta -1.78615 tower phi0.610865
+ 3 tower et :0.270139 tower eta -1.78615 tower phi1.309
+ 3 tower et :0.302475 tower eta -1.78615 tower phi1.48353
+ 3 tower et :0.682936 tower eta -1.78615 tower phi2.70526
+ 3 tower et :0.267038 tower eta -1.78615 tower phi2.87979
+ 3 tower et :0.34375 tower eta -1.78615 tower phi3.05433
+ 3 tower et :0.349534 tower eta -1.78615 tower phi-1.13446
+ 3 tower et :0.60998 tower eta -1.78615 tower phi-0.0872667
+ 3 tower et :0.217563 tower eta -1.93333 tower phi0.641704
+ 3 tower et :0.258754 tower eta -1.88106 tower phi0.959931
+ 3 tower et :2.58112 tower eta -1.88106 tower phi1.13446
+ 3 tower et :2.65259 tower eta -1.88106 tower phi1.309
+ 3 tower et :0.247365 tower eta -1.88106 tower phi2.35619
+ 3 tower et :0.58663 tower eta -1.88106 tower phi-3.05433
+ 3 tower et :0.557239 tower eta -1.88106 tower phi-2.18166
+ 3 tower et :0.225713 tower eta -1.84088 tower phi-1.93621
+ 3 tower et :0.698448 tower eta -1.88106 tower phi-1.8326
+ 3 tower et :0.217363 tower eta -1.90186 tower phi-1.52615
+ 3 tower et :0.3229 tower eta -1.88106 tower phi-1.309
+ 3 tower et :0.221813 tower eta -1.89508 tower phi-0.965172
+ 3 tower et :0.831814 tower eta -1.88106 tower phi-0.2618
+ 3 tower et :0.917902 tower eta -1.89273 tower phi-0.0828511
+ 3 tower et :0.279431 tower eta -1.9874 tower phi0.0872664
+ 3 tower et :0.322235 tower eta -1.9874 tower phi0.261799
+ 3 tower et :0.535486 tower eta -1.9874 tower phi1.8326
+ 3 tower et :0.377952 tower eta -1.9874 tower phi2.00713
+ 3 tower et :0.453456 tower eta -1.9874 tower phi-2.87979
+ 3 tower et :0.171841 tower eta -1.93738 tower phi-2.62474
+ 3 tower et :0.208916 tower eta -1.97515 tower phi-2.56543
+ 3 tower et :0.170384 tower eta -1.9631 tower phi-1.52334
+ 3 tower et :0.484765 tower eta -1.9874 tower phi-1.309
+ 3 tower et :2.75925 tower eta -1.99848 tower phi-0.953964
+ 3 tower et :1.14883 tower eta -1.99135 tower phi-0.825254
+ 3 tower et :0.292956 tower eta -1.97487 tower phi-0.19122
+ 3 tower et :2.39114 tower eta -1.99535 tower phi-0.0683432
+ 3 tower et :0.352506 tower eta -2.10819 tower phi0.0872665
+ 3 tower et :0.13688 tower eta -2.147 tower phi0.285699
+ 3 tower et :0.139674 tower eta -2.09542 tower phi0.428904
+ 3 tower et :1.65306 tower eta -2.10819 tower phi1.48353
+ 3 tower et :0.613666 tower eta -2.10819 tower phi2.35619
+ 3 tower et :0.314695 tower eta -2.10819 tower phi2.53073
+ 3 tower et :0.289268 tower eta -2.10819 tower phi2.87979
+ 3 tower et :0.628948 tower eta -2.10819 tower phi-3.05433
+ 3 tower et :0.2282 tower eta -2.10819 tower phi-2.87979
+ 3 tower et :0.385872 tower eta -2.10819 tower phi-2.53073
+ 3 tower et :0.193629 tower eta -2.11698 tower phi-2.35224
+ 3 tower et :0.174106 tower eta -2.08631 tower phi-1.40743
+ 3 tower et :0.663311 tower eta -2.10196 tower phi-1.26447
+ 3 tower et :5.0681 tower eta -2.12665 tower phi-1.1257
+ 3 tower et :34.9259 tower eta -2.08602 tower phi-0.951476
+ 3 tower et :7.32709 tower eta -2.10831 tower phi-0.841697
+ 3 tower et :0.865145 tower eta -2.10556 tower phi-0.448886
+ 3 tower et :0.458694 tower eta -2.11804 tower phi-0.0470831
+ 3 tower et :0.269084 tower eta -2.24735 tower phi0.0872664
+ 3 tower et :0.57273 tower eta -2.24735 tower phi0.261799
+ 3 tower et :0.11378 tower eta -2.33246 tower phi0.398108
+ 3 tower et :0.363002 tower eta -2.24735 tower phi0.610865
+ 3 tower et :0.320998 tower eta -2.24735 tower phi1.13446
+ 3 tower et :0.705271 tower eta -2.24138 tower phi1.28178
+ 3 tower et :0.602267 tower eta -2.30395 tower phi1.68366
+ 3 tower et :0.166323 tower eta -2.30462 tower phi1.78022
+ 3 tower et :1.39809 tower eta -2.25525 tower phi2.37373
+ 3 tower et :0.417518 tower eta -2.26349 tower phi2.51912
+ 3 tower et :1.61217 tower eta -2.24735 tower phi2.70526
+ 3 tower et :0.545524 tower eta -2.26152 tower phi2.89976
+ 3 tower et :0.747269 tower eta -2.24735 tower phi3.05433
+ 3 tower et :0.174615 tower eta -2.24735 tower phi-2.53073
+ 3 tower et :0.496951 tower eta -2.19575 tower phi-2.2664
+ 3 tower et :0.393403 tower eta -2.24735 tower phi-1.8326
+ 3 tower et :2.94097 tower eta -2.23641 tower phi-1.30921
+ 3 tower et :3.11827 tower eta -2.22735 tower phi-1.13118
+ 3 tower et :0.606337 tower eta -2.19766 tower phi-0.956245
+ 3 tower et :0.423353 tower eta -2.24735 tower phi-0.785398
+ 3 tower et :0.427774 tower eta -2.23106 tower phi-0.589824
+ 3 tower et :0.226209 tower eta -2.24735 tower phi-0.436332
+ 3 tower et :0.204315 tower eta -2.25587 tower phi-0.346642
+ 3 tower et :0.339165 tower eta -2.24735 tower phi-0.0872667
+ 3 tower et :0.144876 tower eta -2.40614 tower phi0.112983
+ 3 tower et :0.344612 tower eta -2.39428 tower phi0.262036
+ 3 tower et :0.290233 tower eta -2.46171 tower phi0.581751
+ 3 tower et :0.46563 tower eta -2.44268 tower phi1.29902
+ 3 tower et :0.385005 tower eta -2.38246 tower phi1.70659
+ 3 tower et :0.345957 tower eta -2.4063 tower phi2.04303
+ 3 tower et :1.2815 tower eta -2.40845 tower phi2.36059
+ 3 tower et :0.404768 tower eta -2.41081 tower phi2.53073
+ 3 tower et :0.720195 tower eta -2.41081 tower phi2.70526
+ 3 tower et :0.525848 tower eta -2.38741 tower phi2.89858
+ 3 tower et :1.33621 tower eta -2.41751 tower phi3.05836
+ 3 tower et :0.991769 tower eta -2.44667 tower phi-3.08801
+ 3 tower et :0.155271 tower eta -2.41081 tower phi-2.87979
+ 3 tower et :0.350356 tower eta -2.41081 tower phi-2.70526
+ 3 tower et :0.248711 tower eta -2.44273 tower phi-2.53907
+ 3 tower et :0.336613 tower eta -2.39933 tower phi-2.35037
+ 3 tower et :0.238606 tower eta -2.41081 tower phi-2.00713
+ 3 tower et :0.144151 tower eta -2.41081 tower phi-1.8326
+ 3 tower et :0.878312 tower eta -2.41081 tower phi-1.309
+ 3 tower et :1.34813 tower eta -2.41081 tower phi-1.13446
+ 3 tower et :0.57089 tower eta -2.41081 tower phi-0.959931
+ 3 tower et :1.78757 tower eta -2.41081 tower phi-0.785398
+ 3 tower et :0.188188 tower eta -2.41081 tower phi-0.610865
+ 3 tower et :0.310066 tower eta -2.3866 tower phi-0.041097
+ 3 tower et :0.205383 tower eta -2.57541 tower phi0.0872665
+ 3 tower et :0.174393 tower eta -2.58596 tower phi0.324488
+ 3 tower et :0.511349 tower eta -2.59218 tower phi0.411676
+ 3 tower et :0.222549 tower eta -2.67576 tower phi0.580742
+ 3 tower et :0.135532 tower eta -2.59981 tower phi0.686289
+ 3 tower et :0.173228 tower eta -2.63198 tower phi1.14152
+ 3 tower et :0.214735 tower eta -2.57541 tower phi1.48353
+ 3 tower et :0.190367 tower eta -2.65276 tower phi1.60917
+ 3 tower et :0.236108 tower eta -2.62748 tower phi1.7986
+ 3 tower et :0.875753 tower eta -2.55771 tower phi2.02734
+ 3 tower et :0.223394 tower eta -2.57541 tower phi2.70526
+ 3 tower et :0.140647 tower eta -2.57541 tower phi2.87979
+ 3 tower et :0.959727 tower eta -2.56665 tower phi3.04893
+ 3 tower et :0.344522 tower eta -2.57541 tower phi-3.05433
+ 3 tower et :0.988705 tower eta -2.58571 tower phi-2.86608
+ 3 tower et :0.366999 tower eta -2.62944 tower phi-2.76447
+ 3 tower et :0.134383 tower eta -2.57541 tower phi-2.53073
+ 3 tower et :1.23976 tower eta -2.54597 tower phi-1.98045
+ 3 tower et :0.171521 tower eta -2.57541 tower phi-1.8326
+ 3 tower et :0.821089 tower eta -2.57541 tower phi-1.13446
+ 3 tower et :1.46484 tower eta -2.54674 tower phi-1.03717
+ 3 tower et :0.471943 tower eta -2.57688 tower phi-0.789376
+ 3 tower et :0.335758 tower eta -2.57541 tower phi-0.610866
+ 3 tower et :0.390991 tower eta -2.55535 tower phi-0.501045
+ 3 tower et :0.119882 tower eta -2.49671 tower phi-0.21296
+ 3 tower et :0.114166 tower eta -2.56326 tower phi-0.167696
+ 3 tower et :0.525894 tower eta -2.78452 tower phi0.0872664
+ 3 tower et :0.618429 tower eta -2.77016 tower phi0.249687
+ 3 tower et :0.838456 tower eta -2.77106 tower phi0.475876
+ 3 tower et :1.17999 tower eta -2.7593 tower phi0.572978
+ 3 tower et :0.496665 tower eta -2.78452 tower phi0.959931
+ 3 tower et :0.431994 tower eta -2.76885 tower phi1.31259
+ 3 tower et :0.43582 tower eta -2.78452 tower phi1.48353
+ 3 tower et :0.186801 tower eta -2.78452 tower phi1.65806
+ 3 tower et :0.726302 tower eta -2.8067 tower phi1.84197
+ 3 tower et :0.139555 tower eta -2.78452 tower phi2.00713
+ 3 tower et :0.505294 tower eta -2.72885 tower phi2.20345
+ 3 tower et :0.312601 tower eta -2.78452 tower phi2.35619
+ 3 tower et :0.214385 tower eta -2.78452 tower phi2.53073
+ 3 tower et :2.55717 tower eta -2.70937 tower phi2.72145
+ 3 tower et :1.03771 tower eta -2.80549 tower phi2.90363
+ 3 tower et :1.10493 tower eta -2.80616 tower phi3.04756
+ 3 tower et :0.432049 tower eta -2.78453 tower phi-3.05433
+ 3 tower et :0.485845 tower eta -2.78452 tower phi-2.87979
+ 3 tower et :0.16253 tower eta -2.78452 tower phi-2.70526
+ 3 tower et :0.3528 tower eta -2.78452 tower phi-2.53073
+ 3 tower et :0.449147 tower eta -2.77997 tower phi-2.35396
+ 3 tower et :0.50752 tower eta -2.75836 tower phi-2.15757
+ 3 tower et :0.577078 tower eta -2.76774 tower phi-2.01753
+ 3 tower et :0.178268 tower eta -2.78452 tower phi-1.8326
+ 3 tower et :0.432575 tower eta -2.75378 tower phi-1.64257
+ 3 tower et :0.70676 tower eta -2.78453 tower phi-1.48353
+ 3 tower et :0.126823 tower eta -2.78452 tower phi-1.309
+ 3 tower et :0.13855 tower eta -2.78452 tower phi-1.13446
+ 3 tower et :0.452134 tower eta -2.7408 tower phi-0.935632
+ 3 tower et :0.36222 tower eta -2.71107 tower phi-0.794477
+ 3 tower et :0.178213 tower eta -2.78452 tower phi-0.610865
+ 3 tower et :0.548943 tower eta -2.78452 tower phi-0.436333
+ 3 tower et :0.219422 tower eta -2.73976 tower phi-0.13843
+ 3 tower et :0.141192 tower eta -2.87446 tower phi0.261799
+ 3 tower et :0.168576 tower eta -2.87445 tower phi0.436332
+ 3 tower et :0.126384 tower eta -2.87445 tower phi0.610865
+ 3 tower et :0.141354 tower eta -2.87445 tower phi0.785398
+ 3 tower et :0.239421 tower eta -2.87446 tower phi0.959931
+ 3 tower et :0.227943 tower eta -2.90309 tower phi1.10326
+ 3 tower et :0.102829 tower eta -2.87445 tower phi1.309
+ 3 tower et :0.175357 tower eta -2.87445 tower phi1.48353
+ 3 tower et :0.319006 tower eta -2.87445 tower phi1.65806
+ 3 tower et :0.35576 tower eta -2.87446 tower phi1.8326
+ 3 tower et :0.127632 tower eta -2.87445 tower phi2.00713
+ 3 tower et :0.153307 tower eta -2.87445 tower phi2.18166
+ 3 tower et :0.376443 tower eta -2.87446 tower phi2.35619
+ 3 tower et :0.513331 tower eta -2.87446 tower phi2.53073
+ 3 tower et :1.43428 tower eta -2.87181 tower phi2.74195
+ 3 tower et :0.344018 tower eta -2.88629 tower phi2.87138
+ 3 tower et :0.300075 tower eta -2.85732 tower phi3.09513
+ 3 tower et :0.355291 tower eta -2.87446 tower phi-3.05433
+ 3 tower et :0.625487 tower eta -2.87654 tower phi-2.86152
+ 3 tower et :0.113934 tower eta -2.85208 tower phi-2.75483
+ 3 tower et :0.42764 tower eta -2.87445 tower phi-2.53073
+ 3 tower et :0.546965 tower eta -2.87446 tower phi-2.35619
+ 3 tower et :0.361821 tower eta -2.87446 tower phi-2.18166
+ 3 tower et :0.0916593 tower eta -2.87445 tower phi-2.00713
+ 3 tower et :0.163038 tower eta -2.87445 tower phi-1.8326
+ 3 tower et :0.792997 tower eta -2.88574 tower phi-1.4681
+ 3 tower et :0.115989 tower eta -2.87445 tower phi-1.309
+ 3 tower et :0.140306 tower eta -2.87445 tower phi-1.13446
+ 3 tower et :0.0948216 tower eta -2.87445 tower phi-0.959931
+ 3 tower et :0.606952 tower eta -2.87445 tower phi-0.785398
+ 3 tower et :0.247055 tower eta -2.87426 tower phi-0.637642
+ 3 tower et :0.364688 tower eta -2.87445 tower phi-0.436333
+ 3 tower et :0.36117 tower eta -2.87445 tower phi-0.2618
+ 3 tower et :0.368479 tower eta -2.87446 tower phi-0.0872667
+ 3 tower et :1.53573 tower eta -3.0515 tower phi0.436332
+ 3 tower et :0.880994 tower eta -3.0515 tower phi0.785398
+ 3 tower et :1.83507 tower eta -3.0515 tower phi1.48353
+ 3 tower et :0.380022 tower eta -3.0515 tower phi2.00713
+ 3 tower et :0.955954 tower eta -3.0515 tower phi2.53073
+ 3 tower et :0.323423 tower eta -3.0515 tower phi2.87979
+ 3 tower et :0.4928 tower eta -3.0515 tower phi-2.53073
+ 3 tower et :0.452705 tower eta -3.0515 tower phi-2.18166
+ 3 tower et :0.654268 tower eta -3.0515 tower phi-2.00713
+ 3 tower et :2.21161 tower eta -3.0515 tower phi-1.8326
+ 3 tower et :0.257095 tower eta -3.0515 tower phi-1.309
+ 3 tower et :1.48648 tower eta -3.0515 tower phi-0.959931
+ 3 tower et :1.23181 tower eta -3.0515 tower phi-0.785398
+ 3 tower et :1.09853 tower eta -3.0515 tower phi-0.610865
+ 3 tower et :0.241577 tower eta -3.2265 tower phi0.0872664
+ 3 tower et :0.0607801 tower eta -3.2265 tower phi0.261799
+ 3 tower et :0.444374 tower eta -3.2265 tower phi0.785398
+ 3 tower et :0.245722 tower eta -3.2265 tower phi1.13446
+ 3 tower et :0.329862 tower eta -3.2265 tower phi1.309
+ 3 tower et :2.56686 tower eta -3.2265 tower phi1.65806
+ 3 tower et :0.446954 tower eta -3.2265 tower phi2.00713
+ 3 tower et :0.345036 tower eta -3.2265 tower phi2.18166
+ 3 tower et :0.732563 tower eta -3.2265 tower phi2.53073
+ 3 tower et :0.148332 tower eta -3.2265 tower phi-2.70526
+ 3 tower et :0.129905 tower eta -3.2265 tower phi-2.35619
+ 3 tower et :0.17844 tower eta -3.2265 tower phi-2.18166
+ 3 tower et :0.679944 tower eta -3.2265 tower phi-2.00713
+ 3 tower et :0.314514 tower eta -3.2265 tower phi-1.8326
+ 3 tower et :0.360546 tower eta -3.2265 tower phi-1.65806
+ 3 tower et :0.416118 tower eta -3.2265 tower phi-1.13446
+ 3 tower et :0.549463 tower eta -3.2265 tower phi-0.785398
+ 3 tower et :0.392413 tower eta -3.2265 tower phi-0.436332
+ 3 tower et :0.351009 tower eta -3.2265 tower phi-0.261799
+ 3 tower et :0.586707 tower eta -3.2265 tower phi-0.0872663
+ 3 tower et :0.777585 tower eta -3.4015 tower phi0.0872666
+ 3 tower et :1.06201 tower eta -3.4015 tower phi0.436332
+ 3 tower et :1.37083 tower eta -3.4015 tower phi0.785398
+ 3 tower et :0.844004 tower eta -3.4015 tower phi0.959931
+ 3 tower et :0.930618 tower eta -3.4015 tower phi1.309
+ 3 tower et :0.663441 tower eta -3.4015 tower phi1.65806
+ 3 tower et :0.181828 tower eta -3.4015 tower phi1.8326
+ 3 tower et :0.606278 tower eta -3.4015 tower phi2.00713
+ 3 tower et :0.594566 tower eta -3.4015 tower phi2.18166
+ 3 tower et :0.189052 tower eta -3.4015 tower phi-3.05433
+ 3 tower et :0.200696 tower eta -3.4015 tower phi-2.53073
+ 3 tower et :0.257757 tower eta -3.4015 tower phi-2.35619
+ 3 tower et :1.06787 tower eta -3.4015 tower phi-2.00713
+ 3 tower et :0.173546 tower eta -3.4015 tower phi-1.8326
+ 3 tower et :0.202792 tower eta -3.4015 tower phi-1.65806
+ 3 tower et :0.767567 tower eta -3.4015 tower phi-1.309
+ 3 tower et :0.145064 tower eta -3.4015 tower phi-1.13446
+ 3 tower et :0.190594 tower eta -3.4015 tower phi-0.959931
+ 3 tower et :1.00953 tower eta -3.4015 tower phi-0.785398
+ 3 tower et :0.180894 tower eta -3.4015 tower phi-0.261799
+ 3 tower et :0.496876 tower eta -3.4015 tower phi-0.0872664
+ 3 tower et :0.147056 tower eta -3.5765 tower phi0.0872664
+ 3 tower et :2.05892 tower eta -3.5765 tower phi0.436332
+ 3 tower et :0.30025 tower eta -3.5765 tower phi0.610865
+ 3 tower et :0.580077 tower eta -3.5765 tower phi0.785398
+ 3 tower et :1.02617 tower eta -3.5765 tower phi0.959931
+ 3 tower et :0.346277 tower eta -3.5765 tower phi1.309
+ 3 tower et :0.247069 tower eta -3.5765 tower phi1.48353
+ 3 tower et :0.169279 tower eta -3.5765 tower phi1.8326
+ 3 tower et :0.138917 tower eta -3.5765 tower phi2.00713
+ 3 tower et :0.668469 tower eta -3.5765 tower phi2.18166
+ 3 tower et :0.294884 tower eta -3.5765 tower phi2.35619
+ 3 tower et :0.183532 tower eta -3.5765 tower phi2.53073
+ 3 tower et :0.397437 tower eta -3.5765 tower phi2.70526
+ 3 tower et :0.123845 tower eta -3.5765 tower phi2.87979
+ 3 tower et :0.197223 tower eta -3.5765 tower phi3.05433
+ 3 tower et :0.154684 tower eta -3.5765 tower phi-3.05433
+ 3 tower et :0.302224 tower eta -3.5765 tower phi-2.87979
+ 3 tower et :0.374372 tower eta -3.5765 tower phi-2.70526
+ 3 tower et :0.822529 tower eta -3.5765 tower phi-2.53073
+ 3 tower et :0.541071 tower eta -3.5765 tower phi-2.35619
+ 3 tower et :0.650976 tower eta -3.5765 tower phi-2.00713
+ 3 tower et :0.257905 tower eta -3.5765 tower phi-1.8326
+ 3 tower et :0.304105 tower eta -3.5765 tower phi-1.65806
+ 3 tower et :0.239731 tower eta -3.5765 tower phi-1.13446
+ 3 tower et :0.276691 tower eta -3.5765 tower phi-0.959931
+ 3 tower et :0.257448 tower eta -3.5765 tower phi-0.785398
+ 3 tower et :0.552391 tower eta -3.5765 tower phi-0.610865
+ 3 tower et :0.93365 tower eta -3.5765 tower phi-0.436332
+ 3 tower et :0.697648 tower eta -3.5765 tower phi-0.261799
+ 3 tower et :0.757137 tower eta -3.5765 tower phi-0.0872666
+ 3 tower et :1.21271 tower eta -3.7515 tower phi0.261799
+ 3 tower et :2.8722 tower eta -3.7515 tower phi0.436332
+ 3 tower et :0.62185 tower eta -3.7515 tower phi0.610865
+ 3 tower et :3.27442 tower eta -3.7515 tower phi0.785398
+ 3 tower et :0.210387 tower eta -3.7515 tower phi1.13446
+ 3 tower et :0.369055 tower eta -3.7515 tower phi1.309
+ 3 tower et :0.564787 tower eta -3.7515 tower phi1.48353
+ 3 tower et :0.186324 tower eta -3.7515 tower phi1.65806
+ 3 tower et :0.162661 tower eta -3.7515 tower phi1.8326
+ 3 tower et :0.132877 tower eta -3.7515 tower phi2.00713
+ 3 tower et :0.386588 tower eta -3.7515 tower phi2.18166
+ 3 tower et :0.0348715 tower eta -3.7515 tower phi2.35619
+ 3 tower et :0.253636 tower eta -3.7515 tower phi2.53073
+ 3 tower et :0.872412 tower eta -3.7515 tower phi2.70526
+ 3 tower et :0.328413 tower eta -3.7515 tower phi-3.05433
+ 3 tower et :0.460934 tower eta -3.7515 tower phi-2.87979
+ 3 tower et :0.179464 tower eta -3.7515 tower phi-2.70526
+ 3 tower et :0.6045 tower eta -3.7515 tower phi-2.35619
+ 3 tower et :2.31953 tower eta -3.7515 tower phi-2.18166
+ 3 tower et :0.329997 tower eta -3.7515 tower phi-2.00713
+ 3 tower et :0.255561 tower eta -3.7515 tower phi-1.8326
+ 3 tower et :0.416398 tower eta -3.7515 tower phi-1.65806
+ 3 tower et :0.234584 tower eta -3.7515 tower phi-1.48353
+ 3 tower et :0.216036 tower eta -3.7515 tower phi-1.309
+ 3 tower et :0.212117 tower eta -3.7515 tower phi-1.13446
+ 3 tower et :0.154975 tower eta -3.7515 tower phi-0.785398
+ 3 tower et :0.389684 tower eta -3.7515 tower phi-0.610865
+ 3 tower et :0.520873 tower eta -3.7515 tower phi-0.0872664
+ 3 tower et :0.173769 tower eta -3.926 tower phi0.0872663
+ 3 tower et :0.262715 tower eta -3.926 tower phi0.2618
+ 3 tower et :0.27732 tower eta -3.926 tower phi0.436332
+ 3 tower et :0.0251691 tower eta -3.926 tower phi0.610865
+ 3 tower et :0.337997 tower eta -3.926 tower phi0.785398
+ 3 tower et :0.0759751 tower eta -3.926 tower phi0.959931
+ 3 tower et :0.0965272 tower eta -3.926 tower phi1.13446
+ 3 tower et :0.29924 tower eta -3.926 tower phi1.309
+ 3 tower et :0.156219 tower eta -3.926 tower phi1.48353
+ 3 tower et :1.4962 tower eta -3.926 tower phi1.8326
+ 3 tower et :0.847928 tower eta -3.926 tower phi2.00713
+ 3 tower et :0.351637 tower eta -3.926 tower phi2.18166
+ 3 tower et :0.348041 tower eta -3.926 tower phi2.35619
+ 3 tower et :0.36178 tower eta -3.926 tower phi2.53073
+ 3 tower et :1.07921 tower eta -3.926 tower phi2.70526
+ 3 tower et :0.745806 tower eta -3.926 tower phi2.87979
+ 3 tower et :0.200562 tower eta -3.926 tower phi3.05433
+ 3 tower et :0.239351 tower eta -3.926 tower phi-2.87979
+ 3 tower et :0.0872591 tower eta -3.926 tower phi-2.70526
+ 3 tower et :0.11133 tower eta -3.926 tower phi-2.53073
+ 3 tower et :0.278378 tower eta -3.926 tower phi-2.35619
+ 3 tower et :1.36374 tower eta -3.926 tower phi-2.18166
+ 3 tower et :0.504524 tower eta -3.926 tower phi-2.00713
+ 3 tower et :0.16043 tower eta -3.926 tower phi-1.8326
+ 3 tower et :0.428983 tower eta -3.926 tower phi-1.65806
+ 3 tower et :0.420599 tower eta -3.926 tower phi-1.48353
+ 3 tower et :0.292871 tower eta -3.926 tower phi-1.309
+ 3 tower et :0.106905 tower eta -3.926 tower phi-1.13446
+ 3 tower et :0.239179 tower eta -3.926 tower phi-0.785398
+ 3 tower et :0.745679 tower eta -3.926 tower phi-0.610865
+ 3 tower et :1.36962 tower eta -3.926 tower phi-0.436332
+ 3 tower et :0.272305 tower eta -3.926 tower phi-0.261799
+ 3 tower et :0.172642 tower eta -3.926 tower phi-0.0872666
+ 3 tower et :0.742488 tower eta -4.102 tower phi0.261799
+ 3 tower et :0.172031 tower eta -4.102 tower phi0.436332
+ 3 tower et :0.481216 tower eta -4.102 tower phi0.610865
+ 3 tower et :0.456715 tower eta -4.102 tower phi0.785398
+ 3 tower et :0.0722759 tower eta -4.102 tower phi0.959931
+ 3 tower et :1.18902 tower eta -4.102 tower phi1.13446
+ 3 tower et :0.0532229 tower eta -4.102 tower phi1.309
+ 3 tower et :0.115724 tower eta -4.102 tower phi1.48353
+ 3 tower et :0.346475 tower eta -4.102 tower phi1.65806
+ 3 tower et :0.736216 tower eta -4.102 tower phi1.8326
+ 3 tower et :1.11169 tower eta -4.102 tower phi2.00713
+ 3 tower et :0.358149 tower eta -4.102 tower phi2.18166
+ 3 tower et :0.725557 tower eta -4.102 tower phi2.35619
+ 3 tower et :0.513105 tower eta -4.102 tower phi2.53073
+ 3 tower et :0.66653 tower eta -4.102 tower phi2.70526
+ 3 tower et :0.508842 tower eta -4.102 tower phi2.87979
+ 3 tower et :0.0834041 tower eta -4.102 tower phi-3.05433
+ 3 tower et :0.381236 tower eta -4.102 tower phi-2.87979
+ 3 tower et :0.197551 tower eta -4.102 tower phi-2.70526
+ 3 tower et :0.297688 tower eta -4.102 tower phi-2.53073
+ 3 tower et :0.186932 tower eta -4.102 tower phi-2.35619
+ 3 tower et :0.176919 tower eta -4.102 tower phi-2.18166
+ 3 tower et :0.104251 tower eta -4.102 tower phi-2.00713
+ 3 tower et :0.17707 tower eta -4.102 tower phi-1.8326
+ 3 tower et :0.15182 tower eta -4.102 tower phi-1.48353
+ 3 tower et :0.160962 tower eta -4.102 tower phi-1.309
+ 3 tower et :0.124257 tower eta -4.102 tower phi-1.13446
+ 3 tower et :0.464638 tower eta -4.102 tower phi-0.959931
+ 3 tower et :0.176507 tower eta -4.102 tower phi-0.785398
+ 3 tower et :0.858145 tower eta -4.102 tower phi-0.436332
+ 3 tower et :0.185881 tower eta -4.102 tower phi-0.261799
+ 3 tower et :0.496203 tower eta -4.102 tower phi-0.0872666
+ 3 tower et :0.336117 tower eta -4.277 tower phi0.0872664
+ 3 tower et :0.0816915 tower eta -4.277 tower phi0.261799
+ 3 tower et :0.307025 tower eta -4.277 tower phi0.436332
+ 3 tower et :0.0520935 tower eta -4.277 tower phi0.610865
+ 3 tower et :0.043162 tower eta -4.277 tower phi0.785398
+ 3 tower et :0.246233 tower eta -4.277 tower phi0.959931
+ 3 tower et :0.191619 tower eta -4.277 tower phi1.13446
+ 3 tower et :0.243855 tower eta -4.277 tower phi1.309
+ 3 tower et :0.192233 tower eta -4.277 tower phi1.65806
+ 3 tower et :0.262791 tower eta -4.277 tower phi1.8326
+ 3 tower et :0.199652 tower eta -4.277 tower phi2.00713
+ 3 tower et :0.643633 tower eta -4.277 tower phi2.18166
+ 3 tower et :0.433713 tower eta -4.277 tower phi2.35619
+ 3 tower et :0.499712 tower eta -4.277 tower phi2.70526
+ 3 tower et :0.184162 tower eta -4.277 tower phi2.87979
+ 3 tower et :0.257208 tower eta -4.277 tower phi3.05433
+ 3 tower et :0.0996981 tower eta -4.277 tower phi-2.87979
+ 3 tower et :0.402961 tower eta -4.277 tower phi-2.70526
+ 3 tower et :0.708858 tower eta -4.277 tower phi-2.53073
+ 3 tower et :0.080652 tower eta -4.277 tower phi-2.35619
+ 3 tower et :0.493675 tower eta -4.277 tower phi-2.18166
+ 3 tower et :0.299434 tower eta -4.277 tower phi-1.8326
+ 3 tower et :0.207685 tower eta -4.277 tower phi-1.65806
+ 3 tower et :0.475342 tower eta -4.277 tower phi-1.48353
+ 3 tower et :0.233212 tower eta -4.277 tower phi-1.309
+ 3 tower et :0.208957 tower eta -4.277 tower phi-1.13446
+ 3 tower et :0.296346 tower eta -4.277 tower phi-0.959931
+ 3 tower et :0.0692229 tower eta -4.277 tower phi-0.785398
+ 3 tower et :0.119268 tower eta -4.277 tower phi-0.610865
+ 3 tower et :0.424186 tower eta -4.277 tower phi-0.436332
+ 3 tower et :0.250023 tower eta -4.277 tower phi-0.261799
+ 3 tower et :0.819712 tower eta -4.277 tower phi-0.0872665
+ 3 tower et :0.0988878 tower eta -4.4505 tower phi0.261799
+ 3 tower et :0.161944 tower eta -4.4505 tower phi0.436332
+ 3 tower et :0.19609 tower eta -4.4505 tower phi0.785398
+ 3 tower et :0.0125575 tower eta -4.4505 tower phi0.959931
+ 3 tower et :0.503821 tower eta -4.4505 tower phi1.13446
+ 3 tower et :0.151402 tower eta -4.4505 tower phi1.309
+ 3 tower et :0.0811453 tower eta -4.4505 tower phi1.48353
+ 3 tower et :0.13552 tower eta -4.4505 tower phi1.65806
+ 3 tower et :0.616313 tower eta -4.4505 tower phi1.8326
+ 3 tower et :0.0822385 tower eta -4.4505 tower phi2.00713
+ 3 tower et :0.399 tower eta -4.4505 tower phi2.18166
+ 3 tower et :0.0637779 tower eta -4.4505 tower phi2.35619
+ 3 tower et :0.186144 tower eta -4.4505 tower phi2.53073
+ 3 tower et :0.426825 tower eta -4.4505 tower phi2.70526
+ 3 tower et :0.657486 tower eta -4.4505 tower phi2.87979
+ 3 tower et :0.21725 tower eta -4.4505 tower phi3.05433
+ 3 tower et :0.35354 tower eta -4.4505 tower phi-3.05433
+ 3 tower et :0.806181 tower eta -4.4505 tower phi-2.87979
+ 3 tower et :1.67164 tower eta -4.4505 tower phi-2.70526
+ 3 tower et :0.572507 tower eta -4.4505 tower phi-2.53073
+ 3 tower et :0.264031 tower eta -4.4505 tower phi-2.35619
+ 3 tower et :0.147797 tower eta -4.4505 tower phi-2.18166
+ 3 tower et :0.233876 tower eta -4.4505 tower phi-2.00713
+ 3 tower et :0.30646 tower eta -4.4505 tower phi-1.8326
+ 3 tower et :0.0488396 tower eta -4.4505 tower phi-1.65806
+ 3 tower et :0.369192 tower eta -4.4505 tower phi-1.48353
+ 3 tower et :0.228575 tower eta -4.4505 tower phi-1.309
+ 3 tower et :0.0182078 tower eta -4.4505 tower phi-0.959931
+ 3 tower et :0.191846 tower eta -4.4505 tower phi-0.610865
+ 3 tower et :0.13286 tower eta -4.4505 tower phi-0.261799
+ 3 tower et :0.275092 tower eta -4.4505 tower phi-0.0872667
+ 3 tower et :0.038867 tower eta -4.627 tower phi0.0872665
+ 3 tower et :0.198218 tower eta -4.627 tower phi0.610865
+ 3 tower et :0.259336 tower eta -4.627 tower phi0.785398
+ 3 tower et :0.230959 tower eta -4.627 tower phi0.959931
+ 3 tower et :0.765249 tower eta -4.627 tower phi1.13446
+ 3 tower et :0.20755 tower eta -4.627 tower phi1.309
+ 3 tower et :0.0740932 tower eta -4.627 tower phi1.48353
+ 3 tower et :0.10446 tower eta -4.627 tower phi1.65806
+ 3 tower et :0.0264381 tower eta -4.627 tower phi1.8326
+ 3 tower et :0.0414736 tower eta -4.627 tower phi2.18166
+ 3 tower et :0.180566 tower eta -4.627 tower phi2.35619
+ 3 tower et :0.171838 tower eta -4.627 tower phi2.53073
+ 3 tower et :0.732309 tower eta -4.627 tower phi2.70526
+ 3 tower et :0.356523 tower eta -4.627 tower phi2.87979
+ 3 tower et :0.655912 tower eta -4.627 tower phi3.05433
+ 3 tower et :0.794201 tower eta -4.627 tower phi-3.05433
+ 3 tower et :0.304127 tower eta -4.627 tower phi-2.87979
+ 3 tower et :0.58691 tower eta -4.627 tower phi-2.70526
+ 3 tower et :0.171887 tower eta -4.627 tower phi-2.53073
+ 3 tower et :0.0231388 tower eta -4.627 tower phi-2.35619
+ 3 tower et :0.190123 tower eta -4.627 tower phi-2.18166
+ 3 tower et :0.236644 tower eta -4.627 tower phi-2.00713
+ 3 tower et :0.280786 tower eta -4.627 tower phi-1.8326
+ 3 tower et :0.0123569 tower eta -4.627 tower phi-1.65806
+ 3 tower et :0.0678655 tower eta -4.627 tower phi-1.48353
+ 3 tower et :0.2003 tower eta -4.627 tower phi-1.309
+ 3 tower et :0.115345 tower eta -4.627 tower phi-1.13446
+ 3 tower et :0.243204 tower eta -4.627 tower phi-0.959931
+ 3 tower et :0.0985865 tower eta -4.627 tower phi-0.785398
+ 3 tower et :0.164894 tower eta -4.627 tower phi-0.610865
+ 3 tower et :0.265623 tower eta -4.627 tower phi-0.0872665
+ 3 tower et :0.164738 tower eta -4.8025 tower phi0.698132
+ 3 tower et :0.0267348 tower eta -4.8025 tower phi1.0472
+ 3 tower et :0.578811 tower eta -4.8025 tower phi1.39626
+ 3 tower et :0.0657643 tower eta -4.8025 tower phi1.74533
+ 3 tower et :0.354569 tower eta -4.8025 tower phi2.0944
+ 3 tower et :0.270789 tower eta -4.8025 tower phi2.44346
+ 3 tower et :0.617001 tower eta -4.8025 tower phi2.79253
+ 3 tower et :0.0640681 tower eta -4.8025 tower phi-3.14159
+ 3 tower et :0.290185 tower eta -4.8025 tower phi-2.79253
+ 3 tower et :0.567865 tower eta -4.8025 tower phi-2.44346
+ 3 tower et :0.345618 tower eta -4.8025 tower phi-2.09439
+ 3 tower et :0.115189 tower eta -4.8025 tower phi-1.74533
+ 3 tower et :0.193676 tower eta -4.8025 tower phi-1.39626
+ 3 tower et :0.0866126 tower eta -4.8025 tower phi-1.0472
+ 3 tower et :0.171273 tower eta -4.8025 tower phi-0.698132
+ 3 tower et :0.237117 tower eta -4.8025 tower phi-0.349066
+ 3 tower et :0.177031 tower eta -4.8025 tower phi6.8756e-08
+ 3 tower et :0.397589 tower eta -5.03999 tower phi0.349067
+ 3 tower et :0.316976 tower eta -5.03999 tower phi0.698132
+ 3 tower et :0.273622 tower eta -5.03999 tower phi1.0472
+ 3 tower et :1.68592 tower eta -5.03999 tower phi1.39626
+ 3 tower et :0.449312 tower eta -5.03999 tower phi1.74533
+ 3 tower et :0.284391 tower eta -5.03999 tower phi2.0944
+ 3 tower et :0.262345 tower eta -5.03999 tower phi2.44346
+ 3 tower et :0.623224 tower eta -5.03999 tower phi2.79253
+ 3 tower et :0.433032 tower eta -5.03999 tower phi-3.14159
+ 3 tower et :0.713834 tower eta -5.03999 tower phi-2.79253
+ 3 tower et :1.39802 tower eta -5.03999 tower phi-2.44346
+ 3 tower et :0.35828 tower eta -5.03999 tower phi-2.09439
+ 3 tower et :0.334933 tower eta -5.03999 tower phi-1.74533
+ 3 tower et :0.159287 tower eta -5.03999 tower phi-1.39626
+ 3 tower et :0.116383 tower eta -5.03999 tower phi-1.0472
+ 3 tower et :0.331232 tower eta -5.03999 tower phi-0.698131
+ 3 tower et :0.846669 tower eta -5.03999 tower phi-0.349065
+ 3 tower et :0.184445 tower eta -5.04001 tower phi-7.49932e-07
+ 3 tower et :0.263303 tower eta 0.0768018 tower phi0.370843
+ 3 tower et :0.229442 tower eta 0.0824219 tower phi3.05126
+ 3 tower et :0.262112 tower eta 0.0472706 tower phi-2.60339
+ 3 tower et :0.425629 tower eta 0.0472954 tower phi-2.48259
+ 3 tower et :0.41893 tower eta 0.0652923 tower phi-2.30993
+ 3 tower et :0.309387 tower eta 0.0116124 tower phi-1.9444
+ 3 tower et :0.623354 tower eta 0.0471313 tower phi-0.907458
+ 3 tower et :0.26519 tower eta 0.08323 tower phi-0.723168
+ 3 tower et :0.673557 tower eta 0.01125 tower phi-0.593493
+ 3 tower et :1.19563 tower eta 0.13057 tower phi0.392699
+ 3 tower et :0.765862 tower eta 0.125619 tower phi0.551654
+ 3 tower et :0.253292 tower eta 0.135609 tower phi0.81079
+ 3 tower et :0.235872 tower eta 0.100997 tower phi2.57763
+ 3 tower et :0.290162 tower eta 0.152221 tower phi3.10294
+ 3 tower et :0.849988 tower eta 0.158199 tower phi-2.45474
+ 3 tower et :0.461443 tower eta 0.140769 tower phi-1.95246
+ 3 tower et :0.35685 tower eta 0.153127 tower phi-1.36877
+ 3 tower et :0.67048 tower eta 0.166732 tower phi-0.792223
+ 3 tower et :0.367596 tower eta 0.134101 tower phi-0.210504
+ 3 tower et :0.304696 tower eta 0.239739 tower phi0.534115
+ 3 tower et :0.238929 tower eta 0.238938 tower phi-3.11125
+ 3 tower et :0.270061 tower eta 0.18783 tower phi-2.55164
+ 3 tower et :0.255067 tower eta 0.187495 tower phi-0.364491
+ 3 tower et :0.469217 tower eta 0.309594 tower phi0.271819
+ 3 tower et :0.272434 tower eta 0.309307 tower phi0.672426
+ 3 tower et :1.21576 tower eta 0.30466 tower phi2.57436
+ 3 tower et :0.723902 tower eta 0.30466 tower phi-3.09796
+ 3 tower et :1.52513 tower eta 0.30466 tower phi-1.78896
+ 3 tower et :0.673819 tower eta 0.30466 tower phi-1.26536
+ 3 tower et :0.228758 tower eta 0.291999 tower phi-0.844117
+ 3 tower et :0.630925 tower eta 0.297837 tower phi-0.313455
+ 3 tower et :0.35226 tower eta 0.28003 tower phi-0.146308
+ 3 tower et :0.400813 tower eta 0.372127 tower phi0.0675067
+ 3 tower et :0.291228 tower eta 0.415461 tower phi0.49164
+ 3 tower et :0.38631 tower eta 0.408906 tower phi2.65083
+ 3 tower et :1.19168 tower eta 0.391702 tower phi-2.74889
+ 3 tower et :0.564878 tower eta 0.42041 tower phi-2.46254
+ 3 tower et :0.210025 tower eta 0.361136 tower phi-2.32711
+ 3 tower et :0.258292 tower eta 0.430867 tower phi-0.898516
+ 3 tower et :0.277257 tower eta 0.370829 tower phi-0.792245
+ 3 tower et :0.208228 tower eta 0.361009 tower phi-0.339335
+ 3 tower et :1.38473 tower eta 0.478741 tower phi0.829032
+ 3 tower et :0.258369 tower eta 0.453341 tower phi0.987957
+ 3 tower et :0.421066 tower eta 0.469114 tower phi-2.64127
+ 3 tower et :0.789387 tower eta 0.479861 tower phi-2.58853
+ 3 tower et :0.645515 tower eta 0.4759 tower phi-2.4674
+ 3 tower et :0.387547 tower eta 0.50464 tower phi-2.32913
+ 3 tower et :0.300836 tower eta 0.487229 tower phi-1.53647
+ 3 tower et :0.465252 tower eta 0.602539 tower phi1.87885
+ 3 tower et :0.954115 tower eta 0.565777 tower phi2.13803
+ 3 tower et :2.20044 tower eta 0.55538 tower phi3.00131
+ 3 tower et :0.191641 tower eta 0.557145 tower phi3.08103
+ 3 tower et :0.269055 tower eta 0.572364 tower phi-2.77946
+ 3 tower et :0.242609 tower eta 0.5559 tower phi-2.66355
+ 3 tower et :0.233598 tower eta 0.539215 tower phi-2.5863
+ 3 tower et :0.210184 tower eta 0.538601 tower phi-2.3272
+ 3 tower et :1.88689 tower eta 0.565777 tower phi-0.305433
+ 3 tower et :1.24162 tower eta 0.565318 tower phi-0.225953
+ 3 tower et :0.203978 tower eta 0.692737 tower phi0.00897972
+ 3 tower et :0.196167 tower eta 0.632475 tower phi0.513579
+ 3 tower et :0.314496 tower eta 0.694696 tower phi1.23325
+ 3 tower et :0.268092 tower eta 0.626165 tower phi1.54532
+ 3 tower et :0.169286 tower eta 0.67829 tower phi1.7401
+ 3 tower et :0.281834 tower eta 0.641809 tower phi-2.37916
+ 3 tower et :0.164197 tower eta 0.675965 tower phi-1.85517
+ 3 tower et :0.702747 tower eta 0.65281 tower phi-1.26536
+ 3 tower et :0.451942 tower eta 0.686917 tower phi-0.55068
+ 3 tower et :0.692665 tower eta 0.676127 tower phi-0.287809
+ 3 tower et :0.180657 tower eta 0.770588 tower phi0.384997
+ 3 tower et :0.18677 tower eta 0.746262 tower phi1.07422
+ 3 tower et :0.226926 tower eta 0.746116 tower phi2.2371
+ 3 tower et :0.341422 tower eta 0.777183 tower phi-3.01534
+ 3 tower et :0.244165 tower eta 0.777898 tower phi-2.74509
+ 3 tower et :0.192647 tower eta 0.709858 tower phi-0.826989
+ 3 tower et :0.152801 tower eta 0.869664 tower phi0.288801
+ 3 tower et :0.437698 tower eta 0.847335 tower phi0.49458
+ 3 tower et :0.262748 tower eta 0.836306 tower phi0.799579
+ 3 tower et :0.20914 tower eta 0.853731 tower phi1.02227
+ 3 tower et :0.447653 tower eta 0.83716 tower phi1.07414
+ 3 tower et :2.10875 tower eta 0.839145 tower phi2.14062
+ 3 tower et :0.342134 tower eta 0.855971 tower phi2.3149
+ 3 tower et :0.18497 tower eta 0.868887 tower phi-2.8833
+ 3 tower et :0.25755 tower eta 0.810432 tower phi-2.77262
+ 3 tower et :0.218414 tower eta 0.868638 tower phi-2.67612
+ 3 tower et :0.255373 tower eta 0.862049 tower phi-2.44839
+ 3 tower et :0.322964 tower eta 0.869498 tower phi-1.82082
+ 3 tower et :0.19396 tower eta 0.852509 tower phi-1.40366
+ 3 tower et :0.337715 tower eta 0.858005 tower phi-1.27846
+ 3 tower et :0.207557 tower eta 0.852008 tower phi-0.827122
+ 3 tower et :0.407293 tower eta 0.907827 tower phi0.383662
+ 3 tower et :0.141485 tower eta 0.905319 tower phi0.827555
+ 3 tower et :0.194408 tower eta 0.920778 tower phi1.3684
+ 3 tower et :0.651825 tower eta 0.913891 tower phi2.39983
+ 3 tower et :0.234817 tower eta 0.95558 tower phi-2.06576
+ 3 tower et :0.219684 tower eta 0.920306 tower phi-1.73452
+ 3 tower et :0.266562 tower eta 0.886784 tower phi-1.57929
+ 3 tower et :0.180878 tower eta 0.912264 tower phi-0.792647
+ 3 tower et :0.128911 tower eta 1.02138 tower phi0.478638
+ 3 tower et :0.450811 tower eta 0.974958 tower phi1.27707
+ 3 tower et :0.521784 tower eta 1.00091 tower phi1.78896
+ 3 tower et :0.19537 tower eta 1.00891 tower phi2.1586
+ 3 tower et :0.210808 tower eta 0.979992 tower phi2.54257
+ 3 tower et :0.137844 tower eta 0.989038 tower phi-2.32758
+ 3 tower et :0.651839 tower eta 1.03079 tower phi-1.67047
+ 3 tower et :1.0473 tower eta 0.975318 tower phi-1.46988
+ 3 tower et :0.268654 tower eta 1.03406 tower phi-1.15111
+ 3 tower et :0.221205 tower eta 0.989523 tower phi-0.152009
+ 3 tower et :0.209152 tower eta 1.09214 tower phi0.112845
+ 3 tower et :0.171353 tower eta 1.10008 tower phi0.319588
+ 3 tower et :0.121062 tower eta 1.10999 tower phi0.602632
+ 3 tower et :0.489139 tower eta 1.07624 tower phi0.656186
+ 3 tower et :0.414044 tower eta 1.07871 tower phi1.60104
+ 3 tower et :0.17454 tower eta 1.0695 tower phi1.89682
+ 3 tower et :0.215954 tower eta 1.09481 tower phi2.08925
+ 3 tower et :0.244027 tower eta 1.05967 tower phi2.24522
+ 3 tower et :0.209825 tower eta 1.07397 tower phi3.09411
+ 3 tower et :0.412065 tower eta 1.11032 tower phi-3.02303
+ 3 tower et :0.192591 tower eta 1.10921 tower phi-2.32256
+ 3 tower et :0.17674 tower eta 1.10982 tower phi-2.06591
+ 3 tower et :0.131765 tower eta 1.05793 tower phi-1.82101
+ 3 tower et :0.994395 tower eta 1.09345 tower phi-1.49011
+ 3 tower et :0.206358 tower eta 1.09289 tower phi-1.44947
+ 3 tower et :0.158619 tower eta 1.12644 tower phi-0.620209
+ 3 tower et :0.227134 tower eta 1.12717 tower phi-0.603017
+ 3 tower et :0.134043 tower eta 1.20256 tower phi2.16514
+ 3 tower et :0.260974 tower eta 1.17804 tower phi2.57697
+ 3 tower et :0.166643 tower eta 1.19161 tower phi2.66405
+ 3 tower et :0.402914 tower eta 1.21147 tower phi3.07419
+ 3 tower et :0.169023 tower eta 1.17599 tower phi-2.57685
+ 3 tower et :0.273097 tower eta 1.16634 tower phi-2.10049
+ 3 tower et :0.250898 tower eta 1.1994 tower phi-1.76929
+ 3 tower et :0.413762 tower eta 1.17495 tower phi-1.61443
+ 3 tower et :0.468088 tower eta 1.18142 tower phi-1.29406
+ 3 tower et :0.40745 tower eta 1.17495 tower phi-0.741765
+ 3 tower et :0.150744 tower eta 1.23483 tower phi0.39211
+ 3 tower et :0.292269 tower eta 1.26096 tower phi0.821289
+ 3 tower et :0.238257 tower eta 1.30479 tower phi0.883323
+ 3 tower et :0.280406 tower eta 1.23784 tower phi1.35398
+ 3 tower et :0.166286 tower eta 1.27691 tower phi1.94518
+ 3 tower et :1.08254 tower eta 1.26196 tower phi2.05076
+ 3 tower et :0.555288 tower eta 1.26196 tower phi2.22529
+ 3 tower et :0.60182 tower eta 1.26196 tower phi2.48709
+ 3 tower et :0.57201 tower eta 1.26196 tower phi2.66163
+ 3 tower et :0.220402 tower eta 1.30348 tower phi-2.55239
+ 3 tower et :0.118931 tower eta 1.23404 tower phi-2.43139
+ 3 tower et :0.267975 tower eta 1.28962 tower phi-1.35223
+ 3 tower et :0.136709 tower eta 1.28641 tower phi-0.223403
+ 3 tower et :0.103991 tower eta 1.32046 tower phi0.357469
+ 3 tower et :0.299404 tower eta 1.37664 tower phi0.661964
+ 3 tower et :0.159178 tower eta 1.33342 tower phi1.695
+ 3 tower et :5.66794 tower eta 1.34837 tower phi1.87623
+ 3 tower et :0.415216 tower eta 1.37348 tower phi2.15621
+ 3 tower et :1.34105 tower eta 1.34912 tower phi2.31196
+ 3 tower et :0.105947 tower eta 1.322 tower phi2.43849
+ 3 tower et :0.151384 tower eta 1.32034 tower phi2.83969
+ 3 tower et :0.0996622 tower eta 1.38697 tower phi-3.12926
+ 3 tower et :0.759822 tower eta 1.38755 tower phi-3.00683
+ 3 tower et :0.284731 tower eta 1.32676 tower phi-2.20626
+ 3 tower et :0.148914 tower eta 1.3206 tower phi-2.16967
+ 3 tower et :0.562146 tower eta 1.38338 tower phi-2.04883
+ 3 tower et :0.4138 tower eta 1.34837 tower phi-1.9635
+ 3 tower et :1.13774 tower eta 1.35729 tower phi-1.89253
+ 3 tower et :0.984236 tower eta 1.34837 tower phi-1.7017
+ 3 tower et :0.450624 tower eta 1.34837 tower phi-1.09083
+ 3 tower et :0.485725 tower eta 1.34837 tower phi-0.916298
+ 3 tower et :0.126579 tower eta 1.37246 tower phi-0.184844
+ 3 tower et :0.148649 tower eta 1.45056 tower phi0.20343
+ 3 tower et :0.305887 tower eta 1.44931 tower phi0.475859
+ 3 tower et :0.165552 tower eta 1.40661 tower phi0.671507
+ 3 tower et :0.351224 tower eta 1.45248 tower phi0.887183
+ 3 tower et :0.114922 tower eta 1.42586 tower phi1.33656
+ 3 tower et :4.09897 tower eta 1.44614 tower phi2.1437
+ 3 tower et :11.2127 tower eta 1.44057 tower phi2.22583
+ 3 tower et :1.14697 tower eta 1.4429 tower phi2.3072
+ 3 tower et :0.577264 tower eta 1.4632 tower phi2.6735
+ 3 tower et :0.340343 tower eta 1.45576 tower phi-3.02
+ 3 tower et :0.13813 tower eta 1.43081 tower phi-2.16361
+ 3 tower et :0.190834 tower eta 1.40667 tower phi-1.9744
+ 3 tower et :0.170547 tower eta 1.42409 tower phi-1.69065
+ 3 tower et :0.127505 tower eta 1.42242 tower phi-1.55945
+ 3 tower et :0.226472 tower eta 1.42174 tower phi-1.27533
+ 3 tower et :0.0997629 tower eta 1.43342 tower phi-0.810496
+ 3 tower et :0.451472 tower eta 1.43833 tower phi-0.647069
+ 3 tower et :0.161099 tower eta 1.40638 tower phi-0.377595
+ 3 tower et :0.18951 tower eta 1.44066 tower phi-0.147823
+ 3 tower et :0.212001 tower eta 1.41358 tower phi-0.0580386
+ 3 tower et :0.438317 tower eta 1.52233 tower phi0.0436332
+ 3 tower et :1.99011 tower eta 1.52233 tower phi0.741765
+ 3 tower et :0.700607 tower eta 1.52233 tower phi2.05076
+ 3 tower et :0.346115 tower eta 1.52233 tower phi2.13803
+ 3 tower et :5.30177 tower eta 1.52442 tower phi2.2251
+ 3 tower et :1.9803 tower eta 1.52155 tower phi2.31633
+ 3 tower et :0.39337 tower eta 1.50064 tower phi-2.99021
+ 3 tower et :0.620497 tower eta 1.52233 tower phi-2.22529
+ 3 tower et :0.487345 tower eta 1.52233 tower phi-0.741765
+ 3 tower et :0.741797 tower eta 1.60936 tower phi0.0436332
+ 3 tower et :0.687006 tower eta 1.60936 tower phi0.218166
+ 3 tower et :0.432648 tower eta 1.60936 tower phi1.78896
+ 3 tower et :0.551966 tower eta 1.60936 tower phi2.05076
+ 3 tower et :1.66488 tower eta 1.59167 tower phi2.22634
+ 3 tower et :0.331172 tower eta 1.60936 tower phi2.39983
+ 3 tower et :0.774779 tower eta 1.60936 tower phi2.57436
+ 3 tower et :0.405092 tower eta 1.65765 tower phi2.92652
+ 3 tower et :0.18147 tower eta 1.63326 tower phi3.11398
+ 3 tower et :0.571723 tower eta 1.60588 tower phi-2.89456
+ 3 tower et :0.920765 tower eta 1.62741 tower phi-2.80746
+ 3 tower et :0.576985 tower eta 1.61873 tower phi-2.78107
+ 3 tower et :0.4402 tower eta 1.60936 tower phi-2.66163
+ 3 tower et :0.35907 tower eta 1.60936 tower phi-2.31256
+ 3 tower et :0.540104 tower eta 1.59635 tower phi-1.2428
+ 3 tower et :0.366979 tower eta 1.69638 tower phi0.567232
+ 3 tower et :0.168295 tower eta 1.67711 tower phi1.69926
+ 3 tower et :0.375449 tower eta 1.69638 tower phi1.87623
+ 3 tower et :1.85413 tower eta 1.69638 tower phi2.05076
+ 3 tower et :0.62481 tower eta 1.71149 tower phi2.17323
+ 3 tower et :0.173651 tower eta 1.66615 tower phi2.2754
+ 3 tower et :0.396867 tower eta 1.72088 tower phi-2.97003
+ 3 tower et :0.209842 tower eta 1.75764 tower phi-2.40365
+ 3 tower et :0.867498 tower eta 1.69638 tower phi-2.22529
+ 3 tower et :0.400107 tower eta 1.78615 tower phi0.436332
+ 3 tower et :0.518771 tower eta 1.78615 tower phi1.309
+ 3 tower et :0.325071 tower eta 1.80515 tower phi1.49753
+ 3 tower et :0.385043 tower eta 1.78615 tower phi1.65806
+ 3 tower et :0.518776 tower eta 1.78967 tower phi1.8023
+ 3 tower et :0.279022 tower eta 1.78615 tower phi2.35619
+ 3 tower et :0.273082 tower eta 1.76139 tower phi-0.257379
+ 3 tower et :0.309977 tower eta 1.78615 tower phi-0.0872668
+ 3 tower et :0.324102 tower eta 1.88106 tower phi0.0872664
+ 3 tower et :0.278601 tower eta 1.88106 tower phi0.436332
+ 3 tower et :0.16847 tower eta 1.93787 tower phi0.773053
+ 3 tower et :0.156541 tower eta 1.89983 tower phi0.969481
+ 3 tower et :0.252471 tower eta 1.85671 tower phi2.13096
+ 3 tower et :0.527861 tower eta 1.91039 tower phi2.56292
+ 3 tower et :0.279136 tower eta 1.88106 tower phi2.87979
+ 3 tower et :0.146938 tower eta 1.86634 tower phi-2.94135
+ 3 tower et :0.250411 tower eta 1.88106 tower phi-2.00713
+ 3 tower et :0.948777 tower eta 1.88106 tower phi-1.8326
+ 3 tower et :0.287489 tower eta 1.87467 tower phi-1.42551
+ 3 tower et :0.162159 tower eta 1.90049 tower phi-1.00388
+ 3 tower et :0.307757 tower eta 1.88106 tower phi-0.436333
+ 3 tower et :0.184062 tower eta 1.99183 tower phi0.106367
+ 3 tower et :0.145049 tower eta 2.04828 tower phi1.29595
+ 3 tower et :0.404565 tower eta 2.04371 tower phi1.67121
+ 3 tower et :0.375274 tower eta 1.99727 tower phi2.32708
+ 3 tower et :0.673125 tower eta 1.9874 tower phi2.53073
+ 3 tower et :1.04198 tower eta 2.00488 tower phi2.6919
+ 3 tower et :0.443787 tower eta 1.9874 tower phi-1.8326
+ 3 tower et :0.216068 tower eta 2.03311 tower phi-0.862094
+ 3 tower et :0.899642 tower eta 1.9874 tower phi-0.2618
+ 3 tower et :0.35509 tower eta 2.14884 tower phi0.0857561
+ 3 tower et :0.187241 tower eta 2.16405 tower phi0.331276
+ 3 tower et :0.199052 tower eta 2.10819 tower phi0.610865
+ 3 tower et :2.23205 tower eta 2.11691 tower phi0.787561
+ 3 tower et :1.60319 tower eta 2.11877 tower phi0.943157
+ 3 tower et :0.405713 tower eta 2.10819 tower phi1.13446
+ 3 tower et :0.376728 tower eta 2.1763 tower phi1.78896
+ 3 tower et :0.283354 tower eta 2.10819 tower phi2.53073
+ 3 tower et :0.839504 tower eta 2.10819 tower phi2.70526
+ 3 tower et :0.349694 tower eta 2.10819 tower phi2.87979
+ 3 tower et :0.623955 tower eta 2.10819 tower phi3.05433
+ 3 tower et :0.201596 tower eta 2.05761 tower phi-2.93282
+ 3 tower et :0.335325 tower eta 2.10819 tower phi-1.8326
+ 3 tower et :0.234218 tower eta 2.10819 tower phi-1.65806
+ 3 tower et :0.276769 tower eta 2.10819 tower phi-0.610865
+ 3 tower et :0.235875 tower eta 2.10819 tower phi-0.0872667
+ 3 tower et :0.183536 tower eta 2.21699 tower phi0.0505703
+ 3 tower et :0.231039 tower eta 2.24735 tower phi0.261799
+ 3 tower et :0.335911 tower eta 2.24735 tower phi0.436332
+ 3 tower et :0.457342 tower eta 2.24735 tower phi0.610865
+ 3 tower et :1.15497 tower eta 2.24809 tower phi0.783586
+ 3 tower et :0.447197 tower eta 2.24735 tower phi0.959931
+ 3 tower et :0.21202 tower eta 2.24735 tower phi1.48353
+ 3 tower et :0.214932 tower eta 2.24735 tower phi2.53073
+ 3 tower et :0.30084 tower eta 2.24735 tower phi2.70526
+ 3 tower et :0.29284 tower eta 2.26598 tower phi2.88892
+ 3 tower et :0.314428 tower eta 2.26985 tower phi-2.56984
+ 3 tower et :0.237789 tower eta 2.24735 tower phi-2.18166
+ 3 tower et :0.148293 tower eta 2.27956 tower phi-2.05374
+ 3 tower et :0.301906 tower eta 2.24735 tower phi-1.65806
+ 3 tower et :0.65067 tower eta 2.26169 tower phi-0.486342
+ 3 tower et :0.577033 tower eta 2.24735 tower phi-0.2618
+ 3 tower et :0.214865 tower eta 2.17705 tower phi-0.0340081
+ 3 tower et :0.369675 tower eta 2.41081 tower phi0.261799
+ 3 tower et :0.230264 tower eta 2.41081 tower phi0.436332
+ 3 tower et :0.253634 tower eta 2.39387 tower phi0.657615
+ 3 tower et :0.237715 tower eta 2.41081 tower phi0.785398
+ 3 tower et :0.168583 tower eta 2.41081 tower phi1.13446
+ 3 tower et :1.42117 tower eta 2.43556 tower phi1.31592
+ 3 tower et :0.739695 tower eta 2.41834 tower phi1.50539
+ 3 tower et :0.229354 tower eta 2.41081 tower phi1.65806
+ 3 tower et :1.68594 tower eta 2.43259 tower phi2.16238
+ 3 tower et :0.200125 tower eta 2.51345 tower phi2.52183
+ 3 tower et :0.118147 tower eta 2.3556 tower phi2.78546
+ 3 tower et :0.291224 tower eta 2.41081 tower phi2.87979
+ 3 tower et :0.172961 tower eta 2.41081 tower phi3.05433
+ 3 tower et :0.241312 tower eta 2.35188 tower phi-2.95822
+ 3 tower et :0.244233 tower eta 2.40044 tower phi-2.94784
+ 3 tower et :0.196103 tower eta 2.41081 tower phi-2.35619
+ 3 tower et :0.438808 tower eta 2.44686 tower phi-2.15383
+ 3 tower et :1.09519 tower eta 2.39854 tower phi-2.04413
+ 3 tower et :0.188191 tower eta 2.41081 tower phi-1.8326
+ 3 tower et :0.163313 tower eta 2.43954 tower phi-1.69474
+ 3 tower et :0.177021 tower eta 2.41081 tower phi-1.48353
+ 3 tower et :0.322293 tower eta 2.41081 tower phi-1.309
+ 3 tower et :0.21628 tower eta 2.41081 tower phi-1.13446
+ 3 tower et :0.314136 tower eta 2.41081 tower phi-0.959931
+ 3 tower et :0.377858 tower eta 2.38103 tower phi-0.628057
+ 3 tower et :0.68113 tower eta 2.40288 tower phi-0.417869
+ 3 tower et :0.437695 tower eta 2.41081 tower phi-0.2618
+ 3 tower et :0.25814 tower eta 2.41081 tower phi-0.0872667
+ 3 tower et :0.968325 tower eta 2.57422 tower phi0.0782927
+ 3 tower et :0.343338 tower eta 2.57541 tower phi0.261799
+ 3 tower et :0.351181 tower eta 2.58037 tower phi0.445504
+ 3 tower et :0.126875 tower eta 2.57541 tower phi0.610865
+ 3 tower et :0.699406 tower eta 2.57541 tower phi0.785398
+ 3 tower et :0.21377 tower eta 2.57541 tower phi1.13446
+ 3 tower et :0.57297 tower eta 2.6215 tower phi1.27597
+ 3 tower et :1.00228 tower eta 2.58821 tower phi1.51968
+ 3 tower et :1.16642 tower eta 2.59922 tower phi1.62745
+ 3 tower et :0.179197 tower eta 2.57541 tower phi2.00713
+ 3 tower et :1.52452 tower eta 2.61601 tower phi2.20443
+ 3 tower et :0.35334 tower eta 2.58138 tower phi2.36602
+ 3 tower et :0.272815 tower eta 2.57606 tower phi2.62248
+ 3 tower et :0.513869 tower eta 2.61243 tower phi2.6766
+ 3 tower et :0.0767318 tower eta 2.64693 tower phi3.12691
+ 3 tower et :1.01104 tower eta 2.5852 tower phi-3.05881
+ 3 tower et :0.758878 tower eta 2.57541 tower phi-2.87979
+ 3 tower et :0.133602 tower eta 2.57541 tower phi-2.70526
+ 3 tower et :0.114726 tower eta 2.57412 tower phi-2.50896
+ 3 tower et :0.157286 tower eta 2.54309 tower phi-2.37853
+ Burada 5
+Burada 1
+ Burada 2
+ Burada 3
+ Burada 4
+ tower :1388 PFJets 21
+ 3 tower et :0.709444 tower eta -0.0357674 tower phi0.141115
+ 3 tower et :0.36429 tower eta -0.0120949 tower phi2.04882
+ 3 tower et :0.405207 tower eta -0.0301648 tower phi2.75336
+ 3 tower et :1.14355 tower eta -0.0435235 tower phi2.83616
+ 3 tower et :0.62686 tower eta -0.0660395 tower phi-0.693915
+ 3 tower et :0.804935 tower eta -0.0435235 tower phi-0.305433
+ 3 tower et :0.236139 tower eta -0.15504 tower phi0.598841
+ 3 tower et :0.256863 tower eta -0.172419 tower phi0.668064
+ 3 tower et :0.510246 tower eta -0.159605 tower phi1.3535
+ 3 tower et :0.204045 tower eta -0.136992 tower phi1.47123
+ 3 tower et :0.214624 tower eta -0.171497 tower phi2.15264
+ 3 tower et :0.28805 tower eta -0.101659 tower phi-2.93067
+ 3 tower et :0.29086 tower eta -0.10159 tower phi-2.87188
+ 3 tower et :0.221058 tower eta -0.136434 tower phi-1.35611
+ 3 tower et :0.773248 tower eta -0.13057 tower phi-1.09083
+ 3 tower et :1.4314 tower eta -0.205426 tower phi0.191177
+ 3 tower et :0.419172 tower eta -0.206941 tower phi0.284325
+ 3 tower et :0.247236 tower eta -0.224349 tower phi0.353506
+ 3 tower et :0.299425 tower eta -0.21647 tower phi0.499693
+ 3 tower et :0.447227 tower eta -0.207118 tower phi0.541349
+ 3 tower et :0.317616 tower eta -0.210452 tower phi0.750626
+ 3 tower et :0.874228 tower eta -0.21643 tower phi1.16549
+ 3 tower et :0.205008 tower eta -0.189013 tower phi2.36384
+ 3 tower et :0.255468 tower eta -0.223407 tower phi2.64404
+ 3 tower et :0.572075 tower eta -0.25814 tower phi2.75592
+ 3 tower et :0.213106 tower eta -0.24063 tower phi-3.09983
+ 3 tower et :0.265094 tower eta -0.21437 tower phi-1.7394
+ 3 tower et :0.277056 tower eta -0.293266 tower phi1.97956
+ 3 tower et :0.235818 tower eta -0.310656 tower phi2.32927
+ 3 tower et :0.658833 tower eta -0.280013 tower phi2.60268
+ 3 tower et :0.609692 tower eta -0.281671 tower phi2.75294
+ 3 tower et :0.416226 tower eta -0.315307 tower phi-2.49375
+ 3 tower et :0.217769 tower eta -0.292501 tower phi-2.43656
+ 3 tower et :0.239039 tower eta -0.292419 tower phi-1.5629
+ 3 tower et :0.259909 tower eta -0.363221 tower phi0.474523
+ 3 tower et :0.250556 tower eta -0.432771 tower phi1.28062
+ 3 tower et :0.204985 tower eta -0.414335 tower phi-0.762963
+ 3 tower et :0.249873 tower eta -0.471015 tower phi0.0561454
+ 3 tower et :0.964529 tower eta -0.478741 tower phi0.218166
+ 3 tower et :0.828923 tower eta -0.503164 tower phi-2.56635
+ 3 tower et :0.217139 tower eta -0.505105 tower phi-2.22599
+ 3 tower et :0.227075 tower eta -0.487607 tower phi-1.80835
+ 3 tower et :0.213039 tower eta -0.453114 tower phi-1.60127
+ 3 tower et :0.41252 tower eta -0.481195 tower phi-1.54569
+ 3 tower et :0.248707 tower eta -0.521393 tower phi-1.30441
+ 3 tower et :0.292466 tower eta -0.523099 tower phi-0.0647518
+ 3 tower et :0.247458 tower eta -0.609758 tower phi0.68544
+ 3 tower et :0.247297 tower eta -0.599951 tower phi0.761793
+ 3 tower et :0.300724 tower eta -0.575899 tower phi1.17998
+ 3 tower et :0.48151 tower eta -0.541144 tower phi1.59583
+ 3 tower et :0.487291 tower eta -0.553671 tower phi2.25255
+ 3 tower et :0.176692 tower eta -0.608252 tower phi2.67877
+ 3 tower et :0.561103 tower eta -0.539544 tower phi-2.47098
+ 3 tower et :0.222481 tower eta -0.538552 tower phi-1.30441
+ 3 tower et :0.866701 tower eta -0.56172 tower phi-0.211415
+ 3 tower et :0.808187 tower eta -0.55812 tower phi-0.059302
+ 3 tower et :0.219102 tower eta -0.63612 tower phi0.0562493
+ 3 tower et :0.302499 tower eta -0.626843 tower phi0.284502
+ 3 tower et :0.330119 tower eta -0.695691 tower phi1.87711
+ 3 tower et :0.168809 tower eta -0.693594 tower phi-1.94961
+ 3 tower et :0.168661 tower eta -0.625449 tower phi-0.659221
+ 3 tower et :0.47032 tower eta -0.676544 tower phi-0.53837
+ 3 tower et :0.353267 tower eta -0.64161 tower phi-0.151191
+ 3 tower et :0.570652 tower eta -0.739841 tower phi0.392699
+ 3 tower et :0.475724 tower eta -0.747422 tower phi1.00165
+ 3 tower et :0.195711 tower eta -0.781503 tower phi1.17364
+ 3 tower et :0.224783 tower eta -0.711993 tower phi2.04903
+ 3 tower et :0.209159 tower eta -0.753527 tower phi-2.90617
+ 3 tower et :0.872673 tower eta -0.73984 tower phi-2.22529
+ 3 tower et :0.35434 tower eta -0.757737 tower phi-1.8571
+ 3 tower et :0.549094 tower eta -0.826867 tower phi0.392699
+ 3 tower et :0.406488 tower eta -0.866358 tower phi0.502694
+ 3 tower et :0.741229 tower eta -0.803391 tower phi1.38293
+ 3 tower et :0.222829 tower eta -0.837661 tower phi1.6307
+ 3 tower et :0.244382 tower eta -0.852805 tower phi-1.86222
+ 3 tower et :0.157643 tower eta -0.817611 tower phi-1.39025
+ 3 tower et :0.729498 tower eta -0.826867 tower phi-1.09083
+ 3 tower et :0.143921 tower eta -0.922094 tower phi0.0219173
+ 3 tower et :0.375873 tower eta -0.919715 tower phi1.08895
+ 3 tower et :0.261423 tower eta -0.889979 tower phi1.52188
+ 3 tower et :0.620199 tower eta -0.932095 tower phi1.69409
+ 3 tower et :0.53002 tower eta -0.913891 tower phi2.31256
+ 3 tower et :0.685114 tower eta -0.913891 tower phi2.57436
+ 3 tower et :0.200265 tower eta -0.925847 tower phi-2.9786
+ 3 tower et :1.25084 tower eta -0.909244 tower phi-2.93292
+ 3 tower et :0.578583 tower eta -0.904531 tower phi-2.86827
+ 3 tower et :0.314603 tower eta -0.945742 tower phi-2.10484
+ 3 tower et :0.136439 tower eta -0.938004 tower phi-2.07033
+ 3 tower et :0.172152 tower eta -0.93802 tower phi-1.96674
+ 3 tower et :0.283307 tower eta -0.954004 tower phi-1.40743
+ 3 tower et :0.269554 tower eta -1.04272 tower phi0.073978
+ 3 tower et :0.135348 tower eta -1.04333 tower phi0.250276
+ 3 tower et :0.211434 tower eta -0.99257 tower phi0.599335
+ 3 tower et :0.665554 tower eta -1.00939 tower phi0.675268
+ 3 tower et :0.130696 tower eta -0.992012 tower phi0.720375
+ 3 tower et :0.236987 tower eta -0.994599 tower phi1.28107
+ 3 tower et :0.182047 tower eta -1.00108 tower phi1.62273
+ 3 tower et :0.289548 tower eta -0.977948 tower phi-2.8283
+ 3 tower et :0.153796 tower eta -0.972925 tower phi-2.33249
+ 3 tower et :0.142196 tower eta -1.02455 tower phi-0.762488
+ 3 tower et :0.301654 tower eta -1.12924 tower phi0.423295
+ 3 tower et :0.277492 tower eta -1.08404 tower phi0.824309
+ 3 tower et :0.158203 tower eta -1.10712 tower phi-2.49105
+ 3 tower et :0.247696 tower eta -1.07507 tower phi-2.34975
+ 3 tower et :0.311832 tower eta -1.10359 tower phi-1.32106
+ 3 tower et :0.12322 tower eta -1.07529 tower phi-0.779792
+ 3 tower et :0.223229 tower eta -1.186 tower phi1.28126
+ 3 tower et :0.119928 tower eta -1.16848 tower phi1.87336
+ 3 tower et :4.12671 tower eta -1.17495 tower phi-3.01069
+ 3 tower et :0.122052 tower eta -1.20131 tower phi-2.78472
+ 3 tower et :0.564977 tower eta -1.17495 tower phi-2.31256
+ 3 tower et :0.19752 tower eta -1.14863 tower phi-2.03561
+ 3 tower et :0.316832 tower eta -1.18548 tower phi-1.28589
+ 3 tower et :0.128615 tower eta -1.14995 tower phi-0.555149
+ 3 tower et :0.338865 tower eta -1.1863 tower phi-0.405399
+ 3 tower et :0.419195 tower eta -1.2183 tower phi-0.292488
+ 3 tower et :0.127494 tower eta -1.21922 tower phi-0.206009
+ 3 tower et :0.588347 tower eta -1.2844 tower phi0.277628
+ 3 tower et :0.534382 tower eta -1.30614 tower phi0.978318
+ 3 tower et :0.275315 tower eta -1.2374 tower phi1.2813
+ 3 tower et :0.72997 tower eta -1.26274 tower phi-2.1507
+ 3 tower et :0.736963 tower eta -1.25334 tower phi-2.03365
+ 3 tower et :0.43898 tower eta -1.28334 tower phi-1.94908
+ 3 tower et :0.426439 tower eta -1.29135 tower phi-0.81421
+ 3 tower et :0.387466 tower eta -1.25167 tower phi-0.779627
+ 3 tower et :0.153702 tower eta -1.27884 tower phi-0.49105
+ 3 tower et :0.272527 tower eta -1.32626 tower phi0.135546
+ 3 tower et :0.691748 tower eta -1.34836 tower phi0.916298
+ 3 tower et :0.708619 tower eta -1.34981 tower phi1.00576
+ 3 tower et :0.24509 tower eta -1.32313 tower phi1.96318
+ 3 tower et :0.19594 tower eta -1.33669 tower phi2.29554
+ 3 tower et :0.860637 tower eta -1.38522 tower phi-2.73878
+ 3 tower et :0.162723 tower eta -1.35875 tower phi-2.32374
+ 3 tower et :0.897862 tower eta -1.34837 tower phi-1.87623
+ 3 tower et :0.133419 tower eta -1.33589 tower phi-1.36317
+ 3 tower et :0.81331 tower eta -1.38924 tower phi-0.801316
+ 3 tower et :0.108721 tower eta -1.45913 tower phi0.00520028
+ 3 tower et :0.189798 tower eta -1.47683 tower phi0.686219
+ 3 tower et :0.376122 tower eta -1.40889 tower phi1.20883
+ 3 tower et :0.116743 tower eta -1.4079 tower phi2.18813
+ 3 tower et :0.127127 tower eta -1.46762 tower phi-2.84398
+ 3 tower et :0.20652 tower eta -1.42562 tower phi-2.77677
+ 3 tower et :0.114082 tower eta -1.47529 tower phi-2.60826
+ 3 tower et :0.391428 tower eta -1.40611 tower phi-0.807539
+ 3 tower et :0.472297 tower eta -1.40641 tower phi-0.766488
+ 3 tower et :0.104453 tower eta -1.44119 tower phi-0.589445
+ 3 tower et :0.160123 tower eta -1.46896 tower phi-0.29227
+ 3 tower et :0.178778 tower eta -1.45365 tower phi-0.0180438
+ 3 tower et :0.217309 tower eta -1.52984 tower phi1.45819
+ 3 tower et :0.229121 tower eta -1.51396 tower phi-2.0184
+ 3 tower et :0.402894 tower eta -1.60936 tower phi2.57436
+ 3 tower et :0.1996 tower eta -1.62496 tower phi2.64077
+ 3 tower et :0.418677 tower eta -1.60936 tower phi2.74889
+ 3 tower et :0.556892 tower eta -1.60936 tower phi-1.9635
+ 3 tower et :0.904658 tower eta -1.60936 tower phi-0.654498
+ 3 tower et :0.293605 tower eta -1.69638 tower phi0.479966
+ 3 tower et :0.935702 tower eta -1.69638 tower phi2.66163
+ 3 tower et :0.289006 tower eta -1.69638 tower phi2.74889
+ 3 tower et :0.179273 tower eta -1.67501 tower phi3.13451
+ 3 tower et :0.318721 tower eta -1.69638 tower phi-2.92343
+ 3 tower et :1.18731 tower eta -1.70409 tower phi-1.78949
+ 3 tower et :0.374435 tower eta -1.69638 tower phi-1.7017
+ 3 tower et :0.17175 tower eta -1.67036 tower phi-1.63171
+ 3 tower et :0.381423 tower eta -1.74392 tower phi-1.35252
+ 3 tower et :0.468294 tower eta -1.71534 tower phi-1.07421
+ 3 tower et :0.873494 tower eta -1.69638 tower phi-1.00356
+ 3 tower et :0.162756 tower eta -1.74847 tower phi-0.920894
+ 3 tower et :0.705732 tower eta -1.67911 tower phi-0.590494
+ 3 tower et :0.357901 tower eta -1.69638 tower phi-0.0436333
+ 3 tower et :0.301763 tower eta -1.78615 tower phi0.610865
+ 3 tower et :0.270139 tower eta -1.78615 tower phi1.309
+ 3 tower et :0.302475 tower eta -1.78615 tower phi1.48353
+ 3 tower et :0.682936 tower eta -1.78615 tower phi2.70526
+ 3 tower et :0.267038 tower eta -1.78615 tower phi2.87979
+ 3 tower et :0.34375 tower eta -1.78615 tower phi3.05433
+ 3 tower et :0.349534 tower eta -1.78615 tower phi-1.13446
+ 3 tower et :0.60998 tower eta -1.78615 tower phi-0.0872667
+ 3 tower et :0.217563 tower eta -1.93333 tower phi0.641704
+ 3 tower et :0.258754 tower eta -1.88106 tower phi0.959931
+ 3 tower et :2.58112 tower eta -1.88106 tower phi1.13446
+ 3 tower et :2.65259 tower eta -1.88106 tower phi1.309
+ 3 tower et :0.247365 tower eta -1.88106 tower phi2.35619
+ 3 tower et :0.58663 tower eta -1.88106 tower phi-3.05433
+ 3 tower et :0.557239 tower eta -1.88106 tower phi-2.18166
+ 3 tower et :0.225713 tower eta -1.84088 tower phi-1.93621
+ 3 tower et :0.698448 tower eta -1.88106 tower phi-1.8326
+ 3 tower et :0.217363 tower eta -1.90186 tower phi-1.52615
+ 3 tower et :0.3229 tower eta -1.88106 tower phi-1.309
+ 3 tower et :0.221813 tower eta -1.89508 tower phi-0.965172
+ 3 tower et :0.831814 tower eta -1.88106 tower phi-0.2618
+ 3 tower et :0.917902 tower eta -1.89273 tower phi-0.0828511
+ 3 tower et :0.279431 tower eta -1.9874 tower phi0.0872664
+ 3 tower et :0.322235 tower eta -1.9874 tower phi0.261799
+ 3 tower et :0.535486 tower eta -1.9874 tower phi1.8326
+ 3 tower et :0.377952 tower eta -1.9874 tower phi2.00713
+ 3 tower et :0.453456 tower eta -1.9874 tower phi-2.87979
+ 3 tower et :0.171841 tower eta -1.93738 tower phi-2.62474
+ 3 tower et :0.208916 tower eta -1.97515 tower phi-2.56543
+ 3 tower et :0.170384 tower eta -1.9631 tower phi-1.52334
+ 3 tower et :0.484765 tower eta -1.9874 tower phi-1.309
+ 3 tower et :2.75925 tower eta -1.99848 tower phi-0.953964
+ 3 tower et :1.14883 tower eta -1.99135 tower phi-0.825254
+ 3 tower et :0.292956 tower eta -1.97487 tower phi-0.19122
+ 3 tower et :2.39114 tower eta -1.99535 tower phi-0.0683432
+ 3 tower et :0.352506 tower eta -2.10819 tower phi0.0872665
+ 3 tower et :0.13688 tower eta -2.147 tower phi0.285699
+ 3 tower et :0.139674 tower eta -2.09542 tower phi0.428904
+ 3 tower et :1.65306 tower eta -2.10819 tower phi1.48353
+ 3 tower et :0.613666 tower eta -2.10819 tower phi2.35619
+ 3 tower et :0.314695 tower eta -2.10819 tower phi2.53073
+ 3 tower et :0.289268 tower eta -2.10819 tower phi2.87979
+ 3 tower et :0.628948 tower eta -2.10819 tower phi-3.05433
+ 3 tower et :0.2282 tower eta -2.10819 tower phi-2.87979
+ 3 tower et :0.385872 tower eta -2.10819 tower phi-2.53073
+ 3 tower et :0.193629 tower eta -2.11698 tower phi-2.35224
+ 3 tower et :0.174106 tower eta -2.08631 tower phi-1.40743
+ 3 tower et :0.663311 tower eta -2.10196 tower phi-1.26447
+ 3 tower et :5.0681 tower eta -2.12665 tower phi-1.1257
+ 3 tower et :34.9259 tower eta -2.08602 tower phi-0.951476
+ 3 tower et :7.32709 tower eta -2.10831 tower phi-0.841697
+ 3 tower et :0.865145 tower eta -2.10556 tower phi-0.448886
+ 3 tower et :0.458694 tower eta -2.11804 tower phi-0.0470831
+ 3 tower et :0.269084 tower eta -2.24735 tower phi0.0872664
+ 3 tower et :0.57273 tower eta -2.24735 tower phi0.261799
+ 3 tower et :0.11378 tower eta -2.33246 tower phi0.398108
+ 3 tower et :0.363002 tower eta -2.24735 tower phi0.610865
+ 3 tower et :0.320998 tower eta -2.24735 tower phi1.13446
+ 3 tower et :0.705271 tower eta -2.24138 tower phi1.28178
+ 3 tower et :0.602267 tower eta -2.30395 tower phi1.68366
+ 3 tower et :0.166323 tower eta -2.30462 tower phi1.78022
+ 3 tower et :1.39809 tower eta -2.25525 tower phi2.37373
+ 3 tower et :0.417518 tower eta -2.26349 tower phi2.51912
+ 3 tower et :1.61217 tower eta -2.24735 tower phi2.70526
+ 3 tower et :0.545524 tower eta -2.26152 tower phi2.89976
+ 3 tower et :0.747269 tower eta -2.24735 tower phi3.05433
+ 3 tower et :0.174615 tower eta -2.24735 tower phi-2.53073
+ 3 tower et :0.496951 tower eta -2.19575 tower phi-2.2664
+ 3 tower et :0.393403 tower eta -2.24735 tower phi-1.8326
+ 3 tower et :2.94097 tower eta -2.23641 tower phi-1.30921
+ 3 tower et :3.11827 tower eta -2.22735 tower phi-1.13118
+ 3 tower et :0.606337 tower eta -2.19766 tower phi-0.956245
+ 3 tower et :0.423353 tower eta -2.24735 tower phi-0.785398
+ 3 tower et :0.427774 tower eta -2.23106 tower phi-0.589824
+ 3 tower et :0.226209 tower eta -2.24735 tower phi-0.436332
+ 3 tower et :0.204315 tower eta -2.25587 tower phi-0.346642
+ 3 tower et :0.339165 tower eta -2.24735 tower phi-0.0872667
+ 3 tower et :0.144876 tower eta -2.40614 tower phi0.112983
+ 3 tower et :0.344612 tower eta -2.39428 tower phi0.262036
+ 3 tower et :0.290233 tower eta -2.46171 tower phi0.581751
+ 3 tower et :0.46563 tower eta -2.44268 tower phi1.29902
+ 3 tower et :0.385005 tower eta -2.38246 tower phi1.70659
+ 3 tower et :0.345957 tower eta -2.4063 tower phi2.04303
+ 3 tower et :1.2815 tower eta -2.40845 tower phi2.36059
+ 3 tower et :0.404768 tower eta -2.41081 tower phi2.53073
+ 3 tower et :0.720195 tower eta -2.41081 tower phi2.70526
+ 3 tower et :0.525848 tower eta -2.38741 tower phi2.89858
+ 3 tower et :1.33621 tower eta -2.41751 tower phi3.05836
+ 3 tower et :0.991769 tower eta -2.44667 tower phi-3.08801
+ 3 tower et :0.155271 tower eta -2.41081 tower phi-2.87979
+ 3 tower et :0.350356 tower eta -2.41081 tower phi-2.70526
+ 3 tower et :0.248711 tower eta -2.44273 tower phi-2.53907
+ 3 tower et :0.336613 tower eta -2.39933 tower phi-2.35037
+ 3 tower et :0.238606 tower eta -2.41081 tower phi-2.00713
+ 3 tower et :0.144151 tower eta -2.41081 tower phi-1.8326
+ 3 tower et :0.878312 tower eta -2.41081 tower phi-1.309
+ 3 tower et :1.34813 tower eta -2.41081 tower phi-1.13446
+ 3 tower et :0.57089 tower eta -2.41081 tower phi-0.959931
+ 3 tower et :1.78757 tower eta -2.41081 tower phi-0.785398
+ 3 tower et :0.188188 tower eta -2.41081 tower phi-0.610865
+ 3 tower et :0.310066 tower eta -2.3866 tower phi-0.041097
+ 3 tower et :0.205383 tower eta -2.57541 tower phi0.0872665
+ 3 tower et :0.174393 tower eta -2.58596 tower phi0.324488
+ 3 tower et :0.511349 tower eta -2.59218 tower phi0.411676
+ 3 tower et :0.222549 tower eta -2.67576 tower phi0.580742
+ 3 tower et :0.135532 tower eta -2.59981 tower phi0.686289
+ 3 tower et :0.173228 tower eta -2.63198 tower phi1.14152
+ 3 tower et :0.214735 tower eta -2.57541 tower phi1.48353
+ 3 tower et :0.190367 tower eta -2.65276 tower phi1.60917
+ 3 tower et :0.236108 tower eta -2.62748 tower phi1.7986
+ 3 tower et :0.875753 tower eta -2.55771 tower phi2.02734
+ 3 tower et :0.223394 tower eta -2.57541 tower phi2.70526
+ 3 tower et :0.140647 tower eta -2.57541 tower phi2.87979
+ 3 tower et :0.959727 tower eta -2.56665 tower phi3.04893
+ 3 tower et :0.344522 tower eta -2.57541 tower phi-3.05433
+ 3 tower et :0.988705 tower eta -2.58571 tower phi-2.86608
+ 3 tower et :0.366999 tower eta -2.62944 tower phi-2.76447
+ 3 tower et :0.134383 tower eta -2.57541 tower phi-2.53073
+ 3 tower et :1.23976 tower eta -2.54597 tower phi-1.98045
+ 3 tower et :0.171521 tower eta -2.57541 tower phi-1.8326
+ 3 tower et :0.821089 tower eta -2.57541 tower phi-1.13446
+ 3 tower et :1.46484 tower eta -2.54674 tower phi-1.03717
+ 3 tower et :0.471943 tower eta -2.57688 tower phi-0.789376
+ 3 tower et :0.335758 tower eta -2.57541 tower phi-0.610866
+ 3 tower et :0.390991 tower eta -2.55535 tower phi-0.501045
+ 3 tower et :0.119882 tower eta -2.49671 tower phi-0.21296
+ 3 tower et :0.114166 tower eta -2.56326 tower phi-0.167696
+ 3 tower et :0.525894 tower eta -2.78452 tower phi0.0872664
+ 3 tower et :0.618429 tower eta -2.77016 tower phi0.249687
+ 3 tower et :0.838456 tower eta -2.77106 tower phi0.475876
+ 3 tower et :1.17999 tower eta -2.7593 tower phi0.572978
+ 3 tower et :0.496665 tower eta -2.78452 tower phi0.959931
+ 3 tower et :0.431994 tower eta -2.76885 tower phi1.31259
+ 3 tower et :0.43582 tower eta -2.78452 tower phi1.48353
+ 3 tower et :0.186801 tower eta -2.78452 tower phi1.65806
+ 3 tower et :0.726302 tower eta -2.8067 tower phi1.84197
+ 3 tower et :0.139555 tower eta -2.78452 tower phi2.00713
+ 3 tower et :0.505294 tower eta -2.72885 tower phi2.20345
+ 3 tower et :0.312601 tower eta -2.78452 tower phi2.35619
+ 3 tower et :0.214385 tower eta -2.78452 tower phi2.53073
+ 3 tower et :2.55717 tower eta -2.70937 tower phi2.72145
+ 3 tower et :1.03771 tower eta -2.80549 tower phi2.90363
+ 3 tower et :1.10493 tower eta -2.80616 tower phi3.04756
+ 3 tower et :0.432049 tower eta -2.78453 tower phi-3.05433
+ 3 tower et :0.485845 tower eta -2.78452 tower phi-2.87979
+ 3 tower et :0.16253 tower eta -2.78452 tower phi-2.70526
+ 3 tower et :0.3528 tower eta -2.78452 tower phi-2.53073
+ 3 tower et :0.449147 tower eta -2.77997 tower phi-2.35396
+ 3 tower et :0.50752 tower eta -2.75836 tower phi-2.15757
+ 3 tower et :0.577078 tower eta -2.76774 tower phi-2.01753
+ 3 tower et :0.178268 tower eta -2.78452 tower phi-1.8326
+ 3 tower et :0.432575 tower eta -2.75378 tower phi-1.64257
+ 3 tower et :0.70676 tower eta -2.78453 tower phi-1.48353
+ 3 tower et :0.126823 tower eta -2.78452 tower phi-1.309
+ 3 tower et :0.13855 tower eta -2.78452 tower phi-1.13446
+ 3 tower et :0.452134 tower eta -2.7408 tower phi-0.935632
+ 3 tower et :0.36222 tower eta -2.71107 tower phi-0.794477
+ 3 tower et :0.178213 tower eta -2.78452 tower phi-0.610865
+ 3 tower et :0.548943 tower eta -2.78452 tower phi-0.436333
+ 3 tower et :0.219422 tower eta -2.73976 tower phi-0.13843
+ 3 tower et :0.141192 tower eta -2.87446 tower phi0.261799
+ 3 tower et :0.168576 tower eta -2.87445 tower phi0.436332
+ 3 tower et :0.126384 tower eta -2.87445 tower phi0.610865
+ 3 tower et :0.141354 tower eta -2.87445 tower phi0.785398
+ 3 tower et :0.239421 tower eta -2.87446 tower phi0.959931
+ 3 tower et :0.227943 tower eta -2.90309 tower phi1.10326
+ 3 tower et :0.102829 tower eta -2.87445 tower phi1.309
+ 3 tower et :0.175357 tower eta -2.87445 tower phi1.48353
+ 3 tower et :0.319006 tower eta -2.87445 tower phi1.65806
+ 3 tower et :0.35576 tower eta -2.87446 tower phi1.8326
+ 3 tower et :0.127632 tower eta -2.87445 tower phi2.00713
+ 3 tower et :0.153307 tower eta -2.87445 tower phi2.18166
+ 3 tower et :0.376443 tower eta -2.87446 tower phi2.35619
+ 3 tower et :0.513331 tower eta -2.87446 tower phi2.53073
+ 3 tower et :1.43428 tower eta -2.87181 tower phi2.74195
+ 3 tower et :0.344018 tower eta -2.88629 tower phi2.87138
+ 3 tower et :0.300075 tower eta -2.85732 tower phi3.09513
+ 3 tower et :0.355291 tower eta -2.87446 tower phi-3.05433
+ 3 tower et :0.625487 tower eta -2.87654 tower phi-2.86152
+ 3 tower et :0.113934 tower eta -2.85208 tower phi-2.75483
+ 3 tower et :0.42764 tower eta -2.87445 tower phi-2.53073
+ 3 tower et :0.546965 tower eta -2.87446 tower phi-2.35619
+ 3 tower et :0.361821 tower eta -2.87446 tower phi-2.18166
+ 3 tower et :0.0916593 tower eta -2.87445 tower phi-2.00713
+ 3 tower et :0.163038 tower eta -2.87445 tower phi-1.8326
+ 3 tower et :0.792997 tower eta -2.88574 tower phi-1.4681
+ 3 tower et :0.115989 tower eta -2.87445 tower phi-1.309
+ 3 tower et :0.140306 tower eta -2.87445 tower phi-1.13446
+ 3 tower et :0.0948216 tower eta -2.87445 tower phi-0.959931
+ 3 tower et :0.606952 tower eta -2.87445 tower phi-0.785398
+ 3 tower et :0.247055 tower eta -2.87426 tower phi-0.637642
+ 3 tower et :0.364688 tower eta -2.87445 tower phi-0.436333
+ 3 tower et :0.36117 tower eta -2.87445 tower phi-0.2618
+ 3 tower et :0.368479 tower eta -2.87446 tower phi-0.0872667
+ 3 tower et :1.53573 tower eta -3.0515 tower phi0.436332
+ 3 tower et :0.880994 tower eta -3.0515 tower phi0.785398
+ 3 tower et :1.83507 tower eta -3.0515 tower phi1.48353
+ 3 tower et :0.380022 tower eta -3.0515 tower phi2.00713
+ 3 tower et :0.955954 tower eta -3.0515 tower phi2.53073
+ 3 tower et :0.323423 tower eta -3.0515 tower phi2.87979
+ 3 tower et :0.4928 tower eta -3.0515 tower phi-2.53073
+ 3 tower et :0.452705 tower eta -3.0515 tower phi-2.18166
+ 3 tower et :0.654268 tower eta -3.0515 tower phi-2.00713
+ 3 tower et :2.21161 tower eta -3.0515 tower phi-1.8326
+ 3 tower et :0.257095 tower eta -3.0515 tower phi-1.309
+ 3 tower et :1.48648 tower eta -3.0515 tower phi-0.959931
+ 3 tower et :1.23181 tower eta -3.0515 tower phi-0.785398
+ 3 tower et :1.09853 tower eta -3.0515 tower phi-0.610865
+ 3 tower et :0.241577 tower eta -3.2265 tower phi0.0872664
+ 3 tower et :0.0607801 tower eta -3.2265 tower phi0.261799
+ 3 tower et :0.444374 tower eta -3.2265 tower phi0.785398
+ 3 tower et :0.245722 tower eta -3.2265 tower phi1.13446
+ 3 tower et :0.329862 tower eta -3.2265 tower phi1.309
+ 3 tower et :2.56686 tower eta -3.2265 tower phi1.65806
+ 3 tower et :0.446954 tower eta -3.2265 tower phi2.00713
+ 3 tower et :0.345036 tower eta -3.2265 tower phi2.18166
+ 3 tower et :0.732563 tower eta -3.2265 tower phi2.53073
+ 3 tower et :0.148332 tower eta -3.2265 tower phi-2.70526
+ 3 tower et :0.129905 tower eta -3.2265 tower phi-2.35619
+ 3 tower et :0.17844 tower eta -3.2265 tower phi-2.18166
+ 3 tower et :0.679944 tower eta -3.2265 tower phi-2.00713
+ 3 tower et :0.314514 tower eta -3.2265 tower phi-1.8326
+ 3 tower et :0.360546 tower eta -3.2265 tower phi-1.65806
+ 3 tower et :0.416118 tower eta -3.2265 tower phi-1.13446
+ 3 tower et :0.549463 tower eta -3.2265 tower phi-0.785398
+ 3 tower et :0.392413 tower eta -3.2265 tower phi-0.436332
+ 3 tower et :0.351009 tower eta -3.2265 tower phi-0.261799
+ 3 tower et :0.586707 tower eta -3.2265 tower phi-0.0872663
+ 3 tower et :0.777585 tower eta -3.4015 tower phi0.0872666
+ 3 tower et :1.06201 tower eta -3.4015 tower phi0.436332
+ 3 tower et :1.37083 tower eta -3.4015 tower phi0.785398
+ 3 tower et :0.844004 tower eta -3.4015 tower phi0.959931
+ 3 tower et :0.930618 tower eta -3.4015 tower phi1.309
+ 3 tower et :0.663441 tower eta -3.4015 tower phi1.65806
+ 3 tower et :0.181828 tower eta -3.4015 tower phi1.8326
+ 3 tower et :0.606278 tower eta -3.4015 tower phi2.00713
+ 3 tower et :0.594566 tower eta -3.4015 tower phi2.18166
+ 3 tower et :0.189052 tower eta -3.4015 tower phi-3.05433
+ 3 tower et :0.200696 tower eta -3.4015 tower phi-2.53073
+ 3 tower et :0.257757 tower eta -3.4015 tower phi-2.35619
+ 3 tower et :1.06787 tower eta -3.4015 tower phi-2.00713
+ 3 tower et :0.173546 tower eta -3.4015 tower phi-1.8326
+ 3 tower et :0.202792 tower eta -3.4015 tower phi-1.65806
+ 3 tower et :0.767567 tower eta -3.4015 tower phi-1.309
+ 3 tower et :0.145064 tower eta -3.4015 tower phi-1.13446
+ 3 tower et :0.190594 tower eta -3.4015 tower phi-0.959931
+ 3 tower et :1.00953 tower eta -3.4015 tower phi-0.785398
+ 3 tower et :0.180894 tower eta -3.4015 tower phi-0.261799
+ 3 tower et :0.496876 tower eta -3.4015 tower phi-0.0872664
+ 3 tower et :0.147056 tower eta -3.5765 tower phi0.0872664
+ 3 tower et :2.05892 tower eta -3.5765 tower phi0.436332
+ 3 tower et :0.30025 tower eta -3.5765 tower phi0.610865
+ 3 tower et :0.580077 tower eta -3.5765 tower phi0.785398
+ 3 tower et :1.02617 tower eta -3.5765 tower phi0.959931
+ 3 tower et :0.346277 tower eta -3.5765 tower phi1.309
+ 3 tower et :0.247069 tower eta -3.5765 tower phi1.48353
+ 3 tower et :0.169279 tower eta -3.5765 tower phi1.8326
+ 3 tower et :0.138917 tower eta -3.5765 tower phi2.00713
+ 3 tower et :0.668469 tower eta -3.5765 tower phi2.18166
+ 3 tower et :0.294884 tower eta -3.5765 tower phi2.35619
+ 3 tower et :0.183532 tower eta -3.5765 tower phi2.53073
+ 3 tower et :0.397437 tower eta -3.5765 tower phi2.70526
+ 3 tower et :0.123845 tower eta -3.5765 tower phi2.87979
+ 3 tower et :0.197223 tower eta -3.5765 tower phi3.05433
+ 3 tower et :0.154684 tower eta -3.5765 tower phi-3.05433
+ 3 tower et :0.302224 tower eta -3.5765 tower phi-2.87979
+ 3 tower et :0.374372 tower eta -3.5765 tower phi-2.70526
+ 3 tower et :0.822529 tower eta -3.5765 tower phi-2.53073
+ 3 tower et :0.541071 tower eta -3.5765 tower phi-2.35619
+ 3 tower et :0.650976 tower eta -3.5765 tower phi-2.00713
+ 3 tower et :0.257905 tower eta -3.5765 tower phi-1.8326
+ 3 tower et :0.304105 tower eta -3.5765 tower phi-1.65806
+ 3 tower et :0.239731 tower eta -3.5765 tower phi-1.13446
+ 3 tower et :0.276691 tower eta -3.5765 tower phi-0.959931
+ 3 tower et :0.257448 tower eta -3.5765 tower phi-0.785398
+ 3 tower et :0.552391 tower eta -3.5765 tower phi-0.610865
+ 3 tower et :0.93365 tower eta -3.5765 tower phi-0.436332
+ 3 tower et :0.697648 tower eta -3.5765 tower phi-0.261799
+ 3 tower et :0.757137 tower eta -3.5765 tower phi-0.0872666
+ 3 tower et :1.21271 tower eta -3.7515 tower phi0.261799
+ 3 tower et :2.8722 tower eta -3.7515 tower phi0.436332
+ 3 tower et :0.62185 tower eta -3.7515 tower phi0.610865
+ 3 tower et :3.27442 tower eta -3.7515 tower phi0.785398
+ 3 tower et :0.210387 tower eta -3.7515 tower phi1.13446
+ 3 tower et :0.369055 tower eta -3.7515 tower phi1.309
+ 3 tower et :0.564787 tower eta -3.7515 tower phi1.48353
+ 3 tower et :0.186324 tower eta -3.7515 tower phi1.65806
+ 3 tower et :0.162661 tower eta -3.7515 tower phi1.8326
+ 3 tower et :0.132877 tower eta -3.7515 tower phi2.00713
+ 3 tower et :0.386588 tower eta -3.7515 tower phi2.18166
+ 3 tower et :0.0348715 tower eta -3.7515 tower phi2.35619
+ 3 tower et :0.253636 tower eta -3.7515 tower phi2.53073
+ 3 tower et :0.872412 tower eta -3.7515 tower phi2.70526
+ 3 tower et :0.328413 tower eta -3.7515 tower phi-3.05433
+ 3 tower et :0.460934 tower eta -3.7515 tower phi-2.87979
+ 3 tower et :0.179464 tower eta -3.7515 tower phi-2.70526
+ 3 tower et :0.6045 tower eta -3.7515 tower phi-2.35619
+ 3 tower et :2.31953 tower eta -3.7515 tower phi-2.18166
+ 3 tower et :0.329997 tower eta -3.7515 tower phi-2.00713
+ 3 tower et :0.255561 tower eta -3.7515 tower phi-1.8326
+ 3 tower et :0.416398 tower eta -3.7515 tower phi-1.65806
+ 3 tower et :0.234584 tower eta -3.7515 tower phi-1.48353
+ 3 tower et :0.216036 tower eta -3.7515 tower phi-1.309
+ 3 tower et :0.212117 tower eta -3.7515 tower phi-1.13446
+ 3 tower et :0.154975 tower eta -3.7515 tower phi-0.785398
+ 3 tower et :0.389684 tower eta -3.7515 tower phi-0.610865
+ 3 tower et :0.520873 tower eta -3.7515 tower phi-0.0872664
+ 3 tower et :0.173769 tower eta -3.926 tower phi0.0872663
+ 3 tower et :0.262715 tower eta -3.926 tower phi0.2618
+ 3 tower et :0.27732 tower eta -3.926 tower phi0.436332
+ 3 tower et :0.0251691 tower eta -3.926 tower phi0.610865
+ 3 tower et :0.337997 tower eta -3.926 tower phi0.785398
+ 3 tower et :0.0759751 tower eta -3.926 tower phi0.959931
+ 3 tower et :0.0965272 tower eta -3.926 tower phi1.13446
+ 3 tower et :0.29924 tower eta -3.926 tower phi1.309
+ 3 tower et :0.156219 tower eta -3.926 tower phi1.48353
+ 3 tower et :1.4962 tower eta -3.926 tower phi1.8326
+ 3 tower et :0.847928 tower eta -3.926 tower phi2.00713
+ 3 tower et :0.351637 tower eta -3.926 tower phi2.18166
+ 3 tower et :0.348041 tower eta -3.926 tower phi2.35619
+ 3 tower et :0.36178 tower eta -3.926 tower phi2.53073
+ 3 tower et :1.07921 tower eta -3.926 tower phi2.70526
+ 3 tower et :0.745806 tower eta -3.926 tower phi2.87979
+ 3 tower et :0.200562 tower eta -3.926 tower phi3.05433
+ 3 tower et :0.239351 tower eta -3.926 tower phi-2.87979
+ 3 tower et :0.0872591 tower eta -3.926 tower phi-2.70526
+ 3 tower et :0.11133 tower eta -3.926 tower phi-2.53073
+ 3 tower et :0.278378 tower eta -3.926 tower phi-2.35619
+ 3 tower et :1.36374 tower eta -3.926 tower phi-2.18166
+ 3 tower et :0.504524 tower eta -3.926 tower phi-2.00713
+ 3 tower et :0.16043 tower eta -3.926 tower phi-1.8326
+ 3 tower et :0.428983 tower eta -3.926 tower phi-1.65806
+ 3 tower et :0.420599 tower eta -3.926 tower phi-1.48353
+ 3 tower et :0.292871 tower eta -3.926 tower phi-1.309
+ 3 tower et :0.106905 tower eta -3.926 tower phi-1.13446
+ 3 tower et :0.239179 tower eta -3.926 tower phi-0.785398
+ 3 tower et :0.745679 tower eta -3.926 tower phi-0.610865
+ 3 tower et :1.36962 tower eta -3.926 tower phi-0.436332
+ 3 tower et :0.272305 tower eta -3.926 tower phi-0.261799
+ 3 tower et :0.172642 tower eta -3.926 tower phi-0.0872666
+ 3 tower et :0.742488 tower eta -4.102 tower phi0.261799
+ 3 tower et :0.172031 tower eta -4.102 tower phi0.436332
+ 3 tower et :0.481216 tower eta -4.102 tower phi0.610865
+ 3 tower et :0.456715 tower eta -4.102 tower phi0.785398
+ 3 tower et :0.0722759 tower eta -4.102 tower phi0.959931
+ 3 tower et :1.18902 tower eta -4.102 tower phi1.13446
+ 3 tower et :0.0532229 tower eta -4.102 tower phi1.309
+ 3 tower et :0.115724 tower eta -4.102 tower phi1.48353
+ 3 tower et :0.346475 tower eta -4.102 tower phi1.65806
+ 3 tower et :0.736216 tower eta -4.102 tower phi1.8326
+ 3 tower et :1.11169 tower eta -4.102 tower phi2.00713
+ 3 tower et :0.358149 tower eta -4.102 tower phi2.18166
+ 3 tower et :0.725557 tower eta -4.102 tower phi2.35619
+ 3 tower et :0.513105 tower eta -4.102 tower phi2.53073
+ 3 tower et :0.66653 tower eta -4.102 tower phi2.70526
+ 3 tower et :0.508842 tower eta -4.102 tower phi2.87979
+ 3 tower et :0.0834041 tower eta -4.102 tower phi-3.05433
+ 3 tower et :0.381236 tower eta -4.102 tower phi-2.87979
+ 3 tower et :0.197551 tower eta -4.102 tower phi-2.70526
+ 3 tower et :0.297688 tower eta -4.102 tower phi-2.53073
+ 3 tower et :0.186932 tower eta -4.102 tower phi-2.35619
+ 3 tower et :0.176919 tower eta -4.102 tower phi-2.18166
+ 3 tower et :0.104251 tower eta -4.102 tower phi-2.00713
+ 3 tower et :0.17707 tower eta -4.102 tower phi-1.8326
+ 3 tower et :0.15182 tower eta -4.102 tower phi-1.48353
+ 3 tower et :0.160962 tower eta -4.102 tower phi-1.309
+ 3 tower et :0.124257 tower eta -4.102 tower phi-1.13446
+ 3 tower et :0.464638 tower eta -4.102 tower phi-0.959931
+ 3 tower et :0.176507 tower eta -4.102 tower phi-0.785398
+ 3 tower et :0.858145 tower eta -4.102 tower phi-0.436332
+ 3 tower et :0.185881 tower eta -4.102 tower phi-0.261799
+ 3 tower et :0.496203 tower eta -4.102 tower phi-0.0872666
+ 3 tower et :0.336117 tower eta -4.277 tower phi0.0872664
+ 3 tower et :0.0816915 tower eta -4.277 tower phi0.261799
+ 3 tower et :0.307025 tower eta -4.277 tower phi0.436332
+ 3 tower et :0.0520935 tower eta -4.277 tower phi0.610865
+ 3 tower et :0.043162 tower eta -4.277 tower phi0.785398
+ 3 tower et :0.246233 tower eta -4.277 tower phi0.959931
+ 3 tower et :0.191619 tower eta -4.277 tower phi1.13446
+ 3 tower et :0.243855 tower eta -4.277 tower phi1.309
+ 3 tower et :0.192233 tower eta -4.277 tower phi1.65806
+ 3 tower et :0.262791 tower eta -4.277 tower phi1.8326
+ 3 tower et :0.199652 tower eta -4.277 tower phi2.00713
+ 3 tower et :0.643633 tower eta -4.277 tower phi2.18166
+ 3 tower et :0.433713 tower eta -4.277 tower phi2.35619
+ 3 tower et :0.499712 tower eta -4.277 tower phi2.70526
+ 3 tower et :0.184162 tower eta -4.277 tower phi2.87979
+ 3 tower et :0.257208 tower eta -4.277 tower phi3.05433
+ 3 tower et :0.0996981 tower eta -4.277 tower phi-2.87979
+ 3 tower et :0.402961 tower eta -4.277 tower phi-2.70526
+ 3 tower et :0.708858 tower eta -4.277 tower phi-2.53073
+ 3 tower et :0.080652 tower eta -4.277 tower phi-2.35619
+ 3 tower et :0.493675 tower eta -4.277 tower phi-2.18166
+ 3 tower et :0.299434 tower eta -4.277 tower phi-1.8326
+ 3 tower et :0.207685 tower eta -4.277 tower phi-1.65806
+ 3 tower et :0.475342 tower eta -4.277 tower phi-1.48353
+ 3 tower et :0.233212 tower eta -4.277 tower phi-1.309
+ 3 tower et :0.208957 tower eta -4.277 tower phi-1.13446
+ 3 tower et :0.296346 tower eta -4.277 tower phi-0.959931
+ 3 tower et :0.0692229 tower eta -4.277 tower phi-0.785398
+ 3 tower et :0.119268 tower eta -4.277 tower phi-0.610865
+ 3 tower et :0.424186 tower eta -4.277 tower phi-0.436332
+ 3 tower et :0.250023 tower eta -4.277 tower phi-0.261799
+ 3 tower et :0.819712 tower eta -4.277 tower phi-0.0872665
+ 3 tower et :0.0988878 tower eta -4.4505 tower phi0.261799
+ 3 tower et :0.161944 tower eta -4.4505 tower phi0.436332
+ 3 tower et :0.19609 tower eta -4.4505 tower phi0.785398
+ 3 tower et :0.0125575 tower eta -4.4505 tower phi0.959931
+ 3 tower et :0.503821 tower eta -4.4505 tower phi1.13446
+ 3 tower et :0.151402 tower eta -4.4505 tower phi1.309
+ 3 tower et :0.0811453 tower eta -4.4505 tower phi1.48353
+ 3 tower et :0.13552 tower eta -4.4505 tower phi1.65806
+ 3 tower et :0.616313 tower eta -4.4505 tower phi1.8326
+ 3 tower et :0.0822385 tower eta -4.4505 tower phi2.00713
+ 3 tower et :0.399 tower eta -4.4505 tower phi2.18166
+ 3 tower et :0.0637779 tower eta -4.4505 tower phi2.35619
+ 3 tower et :0.186144 tower eta -4.4505 tower phi2.53073
+ 3 tower et :0.426825 tower eta -4.4505 tower phi2.70526
+ 3 tower et :0.657486 tower eta -4.4505 tower phi2.87979
+ 3 tower et :0.21725 tower eta -4.4505 tower phi3.05433
+ 3 tower et :0.35354 tower eta -4.4505 tower phi-3.05433
+ 3 tower et :0.806181 tower eta -4.4505 tower phi-2.87979
+ 3 tower et :1.67164 tower eta -4.4505 tower phi-2.70526
+ 3 tower et :0.572507 tower eta -4.4505 tower phi-2.53073
+ 3 tower et :0.264031 tower eta -4.4505 tower phi-2.35619
+ 3 tower et :0.147797 tower eta -4.4505 tower phi-2.18166
+ 3 tower et :0.233876 tower eta -4.4505 tower phi-2.00713
+ 3 tower et :0.30646 tower eta -4.4505 tower phi-1.8326
+ 3 tower et :0.0488396 tower eta -4.4505 tower phi-1.65806
+ 3 tower et :0.369192 tower eta -4.4505 tower phi-1.48353
+ 3 tower et :0.228575 tower eta -4.4505 tower phi-1.309
+ 3 tower et :0.0182078 tower eta -4.4505 tower phi-0.959931
+ 3 tower et :0.191846 tower eta -4.4505 tower phi-0.610865
+ 3 tower et :0.13286 tower eta -4.4505 tower phi-0.261799
+ 3 tower et :0.275092 tower eta -4.4505 tower phi-0.0872667
+ 3 tower et :0.038867 tower eta -4.627 tower phi0.0872665
+ 3 tower et :0.198218 tower eta -4.627 tower phi0.610865
+ 3 tower et :0.259336 tower eta -4.627 tower phi0.785398
+ 3 tower et :0.230959 tower eta -4.627 tower phi0.959931
+ 3 tower et :0.765249 tower eta -4.627 tower phi1.13446
+ 3 tower et :0.20755 tower eta -4.627 tower phi1.309
+ 3 tower et :0.0740932 tower eta -4.627 tower phi1.48353
+ 3 tower et :0.10446 tower eta -4.627 tower phi1.65806
+ 3 tower et :0.0264381 tower eta -4.627 tower phi1.8326
+ 3 tower et :0.0414736 tower eta -4.627 tower phi2.18166
+ 3 tower et :0.180566 tower eta -4.627 tower phi2.35619
+ 3 tower et :0.171838 tower eta -4.627 tower phi2.53073
+ 3 tower et :0.732309 tower eta -4.627 tower phi2.70526
+ 3 tower et :0.356523 tower eta -4.627 tower phi2.87979
+ 3 tower et :0.655912 tower eta -4.627 tower phi3.05433
+ 3 tower et :0.794201 tower eta -4.627 tower phi-3.05433
+ 3 tower et :0.304127 tower eta -4.627 tower phi-2.87979
+ 3 tower et :0.58691 tower eta -4.627 tower phi-2.70526
+ 3 tower et :0.171887 tower eta -4.627 tower phi-2.53073
+ 3 tower et :0.0231388 tower eta -4.627 tower phi-2.35619
+ 3 tower et :0.190123 tower eta -4.627 tower phi-2.18166
+ 3 tower et :0.236644 tower eta -4.627 tower phi-2.00713
+ 3 tower et :0.280786 tower eta -4.627 tower phi-1.8326
+ 3 tower et :0.0123569 tower eta -4.627 tower phi-1.65806
+ 3 tower et :0.0678655 tower eta -4.627 tower phi-1.48353
+ 3 tower et :0.2003 tower eta -4.627 tower phi-1.309
+ 3 tower et :0.115345 tower eta -4.627 tower phi-1.13446
+ 3 tower et :0.243204 tower eta -4.627 tower phi-0.959931
+ 3 tower et :0.0985865 tower eta -4.627 tower phi-0.785398
+ 3 tower et :0.164894 tower eta -4.627 tower phi-0.610865
+ 3 tower et :0.265623 tower eta -4.627 tower phi-0.0872665
+ 3 tower et :0.164738 tower eta -4.8025 tower phi0.698132
+ 3 tower et :0.0267348 tower eta -4.8025 tower phi1.0472
+ 3 tower et :0.578811 tower eta -4.8025 tower phi1.39626
+ 3 tower et :0.0657643 tower eta -4.8025 tower phi1.74533
+ 3 tower et :0.354569 tower eta -4.8025 tower phi2.0944
+ 3 tower et :0.270789 tower eta -4.8025 tower phi2.44346
+ 3 tower et :0.617001 tower eta -4.8025 tower phi2.79253
+ 3 tower et :0.0640681 tower eta -4.8025 tower phi-3.14159
+ 3 tower et :0.290185 tower eta -4.8025 tower phi-2.79253
+ 3 tower et :0.567865 tower eta -4.8025 tower phi-2.44346
+ 3 tower et :0.345618 tower eta -4.8025 tower phi-2.09439
+ 3 tower et :0.115189 tower eta -4.8025 tower phi-1.74533
+ 3 tower et :0.193676 tower eta -4.8025 tower phi-1.39626
+ 3 tower et :0.0866126 tower eta -4.8025 tower phi-1.0472
+ 3 tower et :0.171273 tower eta -4.8025 tower phi-0.698132
+ 3 tower et :0.237117 tower eta -4.8025 tower phi-0.349066
+ 3 tower et :0.177031 tower eta -4.8025 tower phi6.8756e-08
+ 3 tower et :0.397589 tower eta -5.03999 tower phi0.349067
+ 3 tower et :0.316976 tower eta -5.03999 tower phi0.698132
+ 3 tower et :0.273622 tower eta -5.03999 tower phi1.0472
+ 3 tower et :1.68592 tower eta -5.03999 tower phi1.39626
+ 3 tower et :0.449312 tower eta -5.03999 tower phi1.74533
+ 3 tower et :0.284391 tower eta -5.03999 tower phi2.0944
+ 3 tower et :0.262345 tower eta -5.03999 tower phi2.44346
+ 3 tower et :0.623224 tower eta -5.03999 tower phi2.79253
+ 3 tower et :0.433032 tower eta -5.03999 tower phi-3.14159
+ 3 tower et :0.713834 tower eta -5.03999 tower phi-2.79253
+ 3 tower et :1.39802 tower eta -5.03999 tower phi-2.44346
+ 3 tower et :0.35828 tower eta -5.03999 tower phi-2.09439
+ 3 tower et :0.334933 tower eta -5.03999 tower phi-1.74533
+ 3 tower et :0.159287 tower eta -5.03999 tower phi-1.39626
+ 3 tower et :0.116383 tower eta -5.03999 tower phi-1.0472
+ 3 tower et :0.331232 tower eta -5.03999 tower phi-0.698131
+ 3 tower et :0.846669 tower eta -5.03999 tower phi-0.349065
+ 3 tower et :0.184445 tower eta -5.04001 tower phi-7.49932e-07
+ 3 tower et :0.263303 tower eta 0.0768018 tower phi0.370843
+ 3 tower et :0.229442 tower eta 0.0824219 tower phi3.05126
+ 3 tower et :0.262112 tower eta 0.0472706 tower phi-2.60339
+ 3 tower et :0.425629 tower eta 0.0472954 tower phi-2.48259
+ 3 tower et :0.41893 tower eta 0.0652923 tower phi-2.30993
+ 3 tower et :0.309387 tower eta 0.0116124 tower phi-1.9444
+ 3 tower et :0.623354 tower eta 0.0471313 tower phi-0.907458
+ 3 tower et :0.26519 tower eta 0.08323 tower phi-0.723168
+ 3 tower et :0.673557 tower eta 0.01125 tower phi-0.593493
+ 3 tower et :1.19563 tower eta 0.13057 tower phi0.392699
+ 3 tower et :0.765862 tower eta 0.125619 tower phi0.551654
+ 3 tower et :0.253292 tower eta 0.135609 tower phi0.81079
+ 3 tower et :0.235872 tower eta 0.100997 tower phi2.57763
+ 3 tower et :0.290162 tower eta 0.152221 tower phi3.10294
+ 3 tower et :0.849988 tower eta 0.158199 tower phi-2.45474
+ 3 tower et :0.461443 tower eta 0.140769 tower phi-1.95246
+ 3 tower et :0.35685 tower eta 0.153127 tower phi-1.36877
+ 3 tower et :0.67048 tower eta 0.166732 tower phi-0.792223
+ 3 tower et :0.367596 tower eta 0.134101 tower phi-0.210504
+ 3 tower et :0.304696 tower eta 0.239739 tower phi0.534115
+ 3 tower et :0.238929 tower eta 0.238938 tower phi-3.11125
+ 3 tower et :0.270061 tower eta 0.18783 tower phi-2.55164
+ 3 tower et :0.255067 tower eta 0.187495 tower phi-0.364491
+ 3 tower et :0.469217 tower eta 0.309594 tower phi0.271819
+ 3 tower et :0.272434 tower eta 0.309307 tower phi0.672426
+ 3 tower et :1.21576 tower eta 0.30466 tower phi2.57436
+ 3 tower et :0.723902 tower eta 0.30466 tower phi-3.09796
+ 3 tower et :1.52513 tower eta 0.30466 tower phi-1.78896
+ 3 tower et :0.673819 tower eta 0.30466 tower phi-1.26536
+ 3 tower et :0.228758 tower eta 0.291999 tower phi-0.844117
+ 3 tower et :0.630925 tower eta 0.297837 tower phi-0.313455
+ 3 tower et :0.35226 tower eta 0.28003 tower phi-0.146308
+ 3 tower et :0.400813 tower eta 0.372127 tower phi0.0675067
+ 3 tower et :0.291228 tower eta 0.415461 tower phi0.49164
+ 3 tower et :0.38631 tower eta 0.408906 tower phi2.65083
+ 3 tower et :1.19168 tower eta 0.391702 tower phi-2.74889
+ 3 tower et :0.564878 tower eta 0.42041 tower phi-2.46254
+ 3 tower et :0.210025 tower eta 0.361136 tower phi-2.32711
+ 3 tower et :0.258292 tower eta 0.430867 tower phi-0.898516
+ 3 tower et :0.277257 tower eta 0.370829 tower phi-0.792245
+ 3 tower et :0.208228 tower eta 0.361009 tower phi-0.339335
+ 3 tower et :1.38473 tower eta 0.478741 tower phi0.829032
+ 3 tower et :0.258369 tower eta 0.453341 tower phi0.987957
+ 3 tower et :0.421066 tower eta 0.469114 tower phi-2.64127
+ 3 tower et :0.789387 tower eta 0.479861 tower phi-2.58853
+ 3 tower et :0.645515 tower eta 0.4759 tower phi-2.4674
+ 3 tower et :0.387547 tower eta 0.50464 tower phi-2.32913
+ 3 tower et :0.300836 tower eta 0.487229 tower phi-1.53647
+ 3 tower et :0.465252 tower eta 0.602539 tower phi1.87885
+ 3 tower et :0.954115 tower eta 0.565777 tower phi2.13803
+ 3 tower et :2.20044 tower eta 0.55538 tower phi3.00131
+ 3 tower et :0.191641 tower eta 0.557145 tower phi3.08103
+ 3 tower et :0.269055 tower eta 0.572364 tower phi-2.77946
+ 3 tower et :0.242609 tower eta 0.5559 tower phi-2.66355
+ 3 tower et :0.233598 tower eta 0.539215 tower phi-2.5863
+ 3 tower et :0.210184 tower eta 0.538601 tower phi-2.3272
+ 3 tower et :1.88689 tower eta 0.565777 tower phi-0.305433
+ 3 tower et :1.24162 tower eta 0.565318 tower phi-0.225953
+ 3 tower et :0.203978 tower eta 0.692737 tower phi0.00897972
+ 3 tower et :0.196167 tower eta 0.632475 tower phi0.513579
+ 3 tower et :0.314496 tower eta 0.694696 tower phi1.23325
+ 3 tower et :0.268092 tower eta 0.626165 tower phi1.54532
+ 3 tower et :0.169286 tower eta 0.67829 tower phi1.7401
+ 3 tower et :0.281834 tower eta 0.641809 tower phi-2.37916
+ 3 tower et :0.164197 tower eta 0.675965 tower phi-1.85517
+ 3 tower et :0.702747 tower eta 0.65281 tower phi-1.26536
+ 3 tower et :0.451942 tower eta 0.686917 tower phi-0.55068
+ 3 tower et :0.692665 tower eta 0.676127 tower phi-0.287809
+ 3 tower et :0.180657 tower eta 0.770588 tower phi0.384997
+ 3 tower et :0.18677 tower eta 0.746262 tower phi1.07422
+ 3 tower et :0.226926 tower eta 0.746116 tower phi2.2371
+ 3 tower et :0.341422 tower eta 0.777183 tower phi-3.01534
+ 3 tower et :0.244165 tower eta 0.777898 tower phi-2.74509
+ 3 tower et :0.192647 tower eta 0.709858 tower phi-0.826989
+ 3 tower et :0.152801 tower eta 0.869664 tower phi0.288801
+ 3 tower et :0.437698 tower eta 0.847335 tower phi0.49458
+ 3 tower et :0.262748 tower eta 0.836306 tower phi0.799579
+ 3 tower et :0.20914 tower eta 0.853731 tower phi1.02227
+ 3 tower et :0.447653 tower eta 0.83716 tower phi1.07414
+ 3 tower et :2.10875 tower eta 0.839145 tower phi2.14062
+ 3 tower et :0.342134 tower eta 0.855971 tower phi2.3149
+ 3 tower et :0.18497 tower eta 0.868887 tower phi-2.8833
+ 3 tower et :0.25755 tower eta 0.810432 tower phi-2.77262
+ 3 tower et :0.218414 tower eta 0.868638 tower phi-2.67612
+ 3 tower et :0.255373 tower eta 0.862049 tower phi-2.44839
+ 3 tower et :0.322964 tower eta 0.869498 tower phi-1.82082
+ 3 tower et :0.19396 tower eta 0.852509 tower phi-1.40366
+ 3 tower et :0.337715 tower eta 0.858005 tower phi-1.27846
+ 3 tower et :0.207557 tower eta 0.852008 tower phi-0.827122
+ 3 tower et :0.407293 tower eta 0.907827 tower phi0.383662
+ 3 tower et :0.141485 tower eta 0.905319 tower phi0.827555
+ 3 tower et :0.194408 tower eta 0.920778 tower phi1.3684
+ 3 tower et :0.651825 tower eta 0.913891 tower phi2.39983
+ 3 tower et :0.234817 tower eta 0.95558 tower phi-2.06576
+ 3 tower et :0.219684 tower eta 0.920306 tower phi-1.73452
+ 3 tower et :0.266562 tower eta 0.886784 tower phi-1.57929
+ 3 tower et :0.180878 tower eta 0.912264 tower phi-0.792647
+ 3 tower et :0.128911 tower eta 1.02138 tower phi0.478638
+ 3 tower et :0.450811 tower eta 0.974958 tower phi1.27707
+ 3 tower et :0.521784 tower eta 1.00091 tower phi1.78896
+ 3 tower et :0.19537 tower eta 1.00891 tower phi2.1586
+ 3 tower et :0.210808 tower eta 0.979992 tower phi2.54257
+ 3 tower et :0.137844 tower eta 0.989038 tower phi-2.32758
+ 3 tower et :0.651839 tower eta 1.03079 tower phi-1.67047
+ 3 tower et :1.0473 tower eta 0.975318 tower phi-1.46988
+ 3 tower et :0.268654 tower eta 1.03406 tower phi-1.15111
+ 3 tower et :0.221205 tower eta 0.989523 tower phi-0.152009
+ 3 tower et :0.209152 tower eta 1.09214 tower phi0.112845
+ 3 tower et :0.171353 tower eta 1.10008 tower phi0.319588
+ 3 tower et :0.121062 tower eta 1.10999 tower phi0.602632
+ 3 tower et :0.489139 tower eta 1.07624 tower phi0.656186
+ 3 tower et :0.414044 tower eta 1.07871 tower phi1.60104
+ 3 tower et :0.17454 tower eta 1.0695 tower phi1.89682
+ 3 tower et :0.215954 tower eta 1.09481 tower phi2.08925
+ 3 tower et :0.244027 tower eta 1.05967 tower phi2.24522
+ 3 tower et :0.209825 tower eta 1.07397 tower phi3.09411
+ 3 tower et :0.412065 tower eta 1.11032 tower phi-3.02303
+ 3 tower et :0.192591 tower eta 1.10921 tower phi-2.32256
+ 3 tower et :0.17674 tower eta 1.10982 tower phi-2.06591
+ 3 tower et :0.131765 tower eta 1.05793 tower phi-1.82101
+ 3 tower et :0.994395 tower eta 1.09345 tower phi-1.49011
+ 3 tower et :0.206358 tower eta 1.09289 tower phi-1.44947
+ 3 tower et :0.158619 tower eta 1.12644 tower phi-0.620209
+ 3 tower et :0.227134 tower eta 1.12717 tower phi-0.603017
+ 3 tower et :0.134043 tower eta 1.20256 tower phi2.16514
+ 3 tower et :0.260974 tower eta 1.17804 tower phi2.57697
+ 3 tower et :0.166643 tower eta 1.19161 tower phi2.66405
+ 3 tower et :0.402914 tower eta 1.21147 tower phi3.07419
+ 3 tower et :0.169023 tower eta 1.17599 tower phi-2.57685
+ 3 tower et :0.273097 tower eta 1.16634 tower phi-2.10049
+ 3 tower et :0.250898 tower eta 1.1994 tower phi-1.76929
+ 3 tower et :0.413762 tower eta 1.17495 tower phi-1.61443
+ 3 tower et :0.468088 tower eta 1.18142 tower phi-1.29406
+ 3 tower et :0.40745 tower eta 1.17495 tower phi-0.741765
+ 3 tower et :0.150744 tower eta 1.23483 tower phi0.39211
+ 3 tower et :0.292269 tower eta 1.26096 tower phi0.821289
+ 3 tower et :0.238257 tower eta 1.30479 tower phi0.883323
+ 3 tower et :0.280406 tower eta 1.23784 tower phi1.35398
+ 3 tower et :0.166286 tower eta 1.27691 tower phi1.94518
+ 3 tower et :1.08254 tower eta 1.26196 tower phi2.05076
+ 3 tower et :0.555288 tower eta 1.26196 tower phi2.22529
+ 3 tower et :0.60182 tower eta 1.26196 tower phi2.48709
+ 3 tower et :0.57201 tower eta 1.26196 tower phi2.66163
+ 3 tower et :0.220402 tower eta 1.30348 tower phi-2.55239
+ 3 tower et :0.118931 tower eta 1.23404 tower phi-2.43139
+ 3 tower et :0.267975 tower eta 1.28962 tower phi-1.35223
+ 3 tower et :0.136709 tower eta 1.28641 tower phi-0.223403
+ 3 tower et :0.103991 tower eta 1.32046 tower phi0.357469
+ 3 tower et :0.299404 tower eta 1.37664 tower phi0.661964
+ 3 tower et :0.159178 tower eta 1.33342 tower phi1.695
+ 3 tower et :5.66794 tower eta 1.34837 tower phi1.87623
+ 3 tower et :0.415216 tower eta 1.37348 tower phi2.15621
+ 3 tower et :1.34105 tower eta 1.34912 tower phi2.31196
+ 3 tower et :0.105947 tower eta 1.322 tower phi2.43849
+ 3 tower et :0.151384 tower eta 1.32034 tower phi2.83969
+ 3 tower et :0.0996622 tower eta 1.38697 tower phi-3.12926
+ 3 tower et :0.759822 tower eta 1.38755 tower phi-3.00683
+ 3 tower et :0.284731 tower eta 1.32676 tower phi-2.20626
+ 3 tower et :0.148914 tower eta 1.3206 tower phi-2.16967
+ 3 tower et :0.562146 tower eta 1.38338 tower phi-2.04883
+ 3 tower et :0.4138 tower eta 1.34837 tower phi-1.9635
+ 3 tower et :1.13774 tower eta 1.35729 tower phi-1.89253
+ 3 tower et :0.984236 tower eta 1.34837 tower phi-1.7017
+ 3 tower et :0.450624 tower eta 1.34837 tower phi-1.09083
+ 3 tower et :0.485725 tower eta 1.34837 tower phi-0.916298
+ 3 tower et :0.126579 tower eta 1.37246 tower phi-0.184844
+ 3 tower et :0.148649 tower eta 1.45056 tower phi0.20343
+ 3 tower et :0.305887 tower eta 1.44931 tower phi0.475859
+ 3 tower et :0.165552 tower eta 1.40661 tower phi0.671507
+ 3 tower et :0.351224 tower eta 1.45248 tower phi0.887183
+ 3 tower et :0.114922 tower eta 1.42586 tower phi1.33656
+ 3 tower et :4.09897 tower eta 1.44614 tower phi2.1437
+ 3 tower et :11.2127 tower eta 1.44057 tower phi2.22583
+ 3 tower et :1.14697 tower eta 1.4429 tower phi2.3072
+ 3 tower et :0.577264 tower eta 1.4632 tower phi2.6735
+ 3 tower et :0.340343 tower eta 1.45576 tower phi-3.02
+ 3 tower et :0.13813 tower eta 1.43081 tower phi-2.16361
+ 3 tower et :0.190834 tower eta 1.40667 tower phi-1.9744
+ 3 tower et :0.170547 tower eta 1.42409 tower phi-1.69065
+ 3 tower et :0.127505 tower eta 1.42242 tower phi-1.55945
+ 3 tower et :0.226472 tower eta 1.42174 tower phi-1.27533
+ 3 tower et :0.0997629 tower eta 1.43342 tower phi-0.810496
+ 3 tower et :0.451472 tower eta 1.43833 tower phi-0.647069
+ 3 tower et :0.161099 tower eta 1.40638 tower phi-0.377595
+ 3 tower et :0.18951 tower eta 1.44066 tower phi-0.147823
+ 3 tower et :0.212001 tower eta 1.41358 tower phi-0.0580386
+ 3 tower et :0.438317 tower eta 1.52233 tower phi0.0436332
+ 3 tower et :1.99011 tower eta 1.52233 tower phi0.741765
+ 3 tower et :0.700607 tower eta 1.52233 tower phi2.05076
+ 3 tower et :0.346115 tower eta 1.52233 tower phi2.13803
+ 3 tower et :5.30177 tower eta 1.52442 tower phi2.2251
+ 3 tower et :1.9803 tower eta 1.52155 tower phi2.31633
+ 3 tower et :0.39337 tower eta 1.50064 tower phi-2.99021
+ 3 tower et :0.620497 tower eta 1.52233 tower phi-2.22529
+ 3 tower et :0.487345 tower eta 1.52233 tower phi-0.741765
+ 3 tower et :0.741797 tower eta 1.60936 tower phi0.0436332
+ 3 tower et :0.687006 tower eta 1.60936 tower phi0.218166
+ 3 tower et :0.432648 tower eta 1.60936 tower phi1.78896
+ 3 tower et :0.551966 tower eta 1.60936 tower phi2.05076
+ 3 tower et :1.66488 tower eta 1.59167 tower phi2.22634
+ 3 tower et :0.331172 tower eta 1.60936 tower phi2.39983
+ 3 tower et :0.774779 tower eta 1.60936 tower phi2.57436
+ 3 tower et :0.405092 tower eta 1.65765 tower phi2.92652
+ 3 tower et :0.18147 tower eta 1.63326 tower phi3.11398
+ 3 tower et :0.571723 tower eta 1.60588 tower phi-2.89456
+ 3 tower et :0.920765 tower eta 1.62741 tower phi-2.80746
+ 3 tower et :0.576985 tower eta 1.61873 tower phi-2.78107
+ 3 tower et :0.4402 tower eta 1.60936 tower phi-2.66163
+ 3 tower et :0.35907 tower eta 1.60936 tower phi-2.31256
+ 3 tower et :0.540104 tower eta 1.59635 tower phi-1.2428
+ 3 tower et :0.366979 tower eta 1.69638 tower phi0.567232
+ 3 tower et :0.168295 tower eta 1.67711 tower phi1.69926
+ 3 tower et :0.375449 tower eta 1.69638 tower phi1.87623
+ 3 tower et :1.85413 tower eta 1.69638 tower phi2.05076
+ 3 tower et :0.62481 tower eta 1.71149 tower phi2.17323
+ 3 tower et :0.173651 tower eta 1.66615 tower phi2.2754
+ 3 tower et :0.396867 tower eta 1.72088 tower phi-2.97003
+ 3 tower et :0.209842 tower eta 1.75764 tower phi-2.40365
+ 3 tower et :0.867498 tower eta 1.69638 tower phi-2.22529
+ 3 tower et :0.400107 tower eta 1.78615 tower phi0.436332
+ 3 tower et :0.518771 tower eta 1.78615 tower phi1.309
+ 3 tower et :0.325071 tower eta 1.80515 tower phi1.49753
+ 3 tower et :0.385043 tower eta 1.78615 tower phi1.65806
+ 3 tower et :0.518776 tower eta 1.78967 tower phi1.8023
+ 3 tower et :0.279022 tower eta 1.78615 tower phi2.35619
+ 3 tower et :0.273082 tower eta 1.76139 tower phi-0.257379
+ 3 tower et :0.309977 tower eta 1.78615 tower phi-0.0872668
+ 3 tower et :0.324102 tower eta 1.88106 tower phi0.0872664
+ 3 tower et :0.278601 tower eta 1.88106 tower phi0.436332
+ 3 tower et :0.16847 tower eta 1.93787 tower phi0.773053
+ 3 tower et :0.156541 tower eta 1.89983 tower phi0.969481
+ 3 tower et :0.252471 tower eta 1.85671 tower phi2.13096
+ 3 tower et :0.527861 tower eta 1.91039 tower phi2.56292
+ 3 tower et :0.279136 tower eta 1.88106 tower phi2.87979
+ 3 tower et :0.146938 tower eta 1.86634 tower phi-2.94135
+ 3 tower et :0.250411 tower eta 1.88106 tower phi-2.00713
+ 3 tower et :0.948777 tower eta 1.88106 tower phi-1.8326
+ 3 tower et :0.287489 tower eta 1.87467 tower phi-1.42551
+ 3 tower et :0.162159 tower eta 1.90049 tower phi-1.00388
+ 3 tower et :0.307757 tower eta 1.88106 tower phi-0.436333
+ 3 tower et :0.184062 tower eta 1.99183 tower phi0.106367
+ 3 tower et :0.145049 tower eta 2.04828 tower phi1.29595
+ 3 tower et :0.404565 tower eta 2.04371 tower phi1.67121
+ 3 tower et :0.375274 tower eta 1.99727 tower phi2.32708
+ 3 tower et :0.673125 tower eta 1.9874 tower phi2.53073
+ 3 tower et :1.04198 tower eta 2.00488 tower phi2.6919
+ 3 tower et :0.443787 tower eta 1.9874 tower phi-1.8326
+ 3 tower et :0.216068 tower eta 2.03311 tower phi-0.862094
+ 3 tower et :0.899642 tower eta 1.9874 tower phi-0.2618
+ 3 tower et :0.35509 tower eta 2.14884 tower phi0.0857561
+ 3 tower et :0.187241 tower eta 2.16405 tower phi0.331276
+ 3 tower et :0.199052 tower eta 2.10819 tower phi0.610865
+ 3 tower et :2.23205 tower eta 2.11691 tower phi0.787561
+ 3 tower et :1.60319 tower eta 2.11877 tower phi0.943157
+ 3 tower et :0.405713 tower eta 2.10819 tower phi1.13446
+ 3 tower et :0.376728 tower eta 2.1763 tower phi1.78896
+ 3 tower et :0.283354 tower eta 2.10819 tower phi2.53073
+ 3 tower et :0.839504 tower eta 2.10819 tower phi2.70526
+ 3 tower et :0.349694 tower eta 2.10819 tower phi2.87979
+ 3 tower et :0.623955 tower eta 2.10819 tower phi3.05433
+ 3 tower et :0.201596 tower eta 2.05761 tower phi-2.93282
+ 3 tower et :0.335325 tower eta 2.10819 tower phi-1.8326
+ 3 tower et :0.234218 tower eta 2.10819 tower phi-1.65806
+ 3 tower et :0.276769 tower eta 2.10819 tower phi-0.610865
+ 3 tower et :0.235875 tower eta 2.10819 tower phi-0.0872667
+ 3 tower et :0.183536 tower eta 2.21699 tower phi0.0505703
+ 3 tower et :0.231039 tower eta 2.24735 tower phi0.261799
+ 3 tower et :0.335911 tower eta 2.24735 tower phi0.436332
+ 3 tower et :0.457342 tower eta 2.24735 tower phi0.610865
+ 3 tower et :1.15497 tower eta 2.24809 tower phi0.783586
+ 3 tower et :0.447197 tower eta 2.24735 tower phi0.959931
+ 3 tower et :0.21202 tower eta 2.24735 tower phi1.48353
+ 3 tower et :0.214932 tower eta 2.24735 tower phi2.53073
+ 3 tower et :0.30084 tower eta 2.24735 tower phi2.70526
+ 3 tower et :0.29284 tower eta 2.26598 tower phi2.88892
+ 3 tower et :0.314428 tower eta 2.26985 tower phi-2.56984
+ 3 tower et :0.237789 tower eta 2.24735 tower phi-2.18166
+ 3 tower et :0.148293 tower eta 2.27956 tower phi-2.05374
+ 3 tower et :0.301906 tower eta 2.24735 tower phi-1.65806
+ 3 tower et :0.65067 tower eta 2.26169 tower phi-0.486342
+ 3 tower et :0.577033 tower eta 2.24735 tower phi-0.2618
+ 3 tower et :0.214865 tower eta 2.17705 tower phi-0.0340081
+ 3 tower et :0.369675 tower eta 2.41081 tower phi0.261799
+ 3 tower et :0.230264 tower eta 2.41081 tower phi0.436332
+ 3 tower et :0.253634 tower eta 2.39387 tower phi0.657615
+ 3 tower et :0.237715 tower eta 2.41081 tower phi0.785398
+ 3 tower et :0.168583 tower eta 2.41081 tower phi1.13446
+ 3 tower et :1.42117 tower eta 2.43556 tower phi1.31592
+ 3 tower et :0.739695 tower eta 2.41834 tower phi1.50539
+ 3 tower et :0.229354 tower eta 2.41081 tower phi1.65806
+ 3 tower et :1.68594 tower eta 2.43259 tower phi2.16238
+ 3 tower et :0.200125 tower eta 2.51345 tower phi2.52183
+ 3 tower et :0.118147 tower eta 2.3556 tower phi2.78546
+ 3 tower et :0.291224 tower eta 2.41081 tower phi2.87979
+ 3 tower et :0.172961 tower eta 2.41081 tower phi3.05433
+ 3 tower et :0.241312 tower eta 2.35188 tower phi-2.95822
+ 3 tower et :0.244233 tower eta 2.40044 tower phi-2.94784
+ 3 tower et :0.196103 tower eta 2.41081 tower phi-2.35619
+ 3 tower et :0.438808 tower eta 2.44686 tower phi-2.15383
+ 3 tower et :1.09519 tower eta 2.39854 tower phi-2.04413
+ 3 tower et :0.188191 tower eta 2.41081 tower phi-1.8326
+ 3 tower et :0.163313 tower eta 2.43954 tower phi-1.69474
+ 3 tower et :0.177021 tower eta 2.41081 tower phi-1.48353
+ 3 tower et :0.322293 tower eta 2.41081 tower phi-1.309
+ 3 tower et :0.21628 tower eta 2.41081 tower phi-1.13446
+ 3 tower et :0.314136 tower eta 2.41081 tower phi-0.959931
+ 3 tower et :0.377858 tower eta 2.38103 tower phi-0.628057
+ 3 tower et :0.68113 tower eta 2.40288 tower phi-0.417869
+ 3 tower et :0.437695 tower eta 2.41081 tower phi-0.2618
+ 3 tower et :0.25814 tower eta 2.41081 tower phi-0.0872667
+ 3 tower et :0.968325 tower eta 2.57422 tower phi0.0782927
+ 3 tower et :0.343338 tower eta 2.57541 tower phi0.261799
+ 3 tower et :0.351181 tower eta 2.58037 tower phi0.445504
+ 3 tower et :0.126875 tower eta 2.57541 tower phi0.610865
+ 3 tower et :0.699406 tower eta 2.57541 tower phi0.785398
+ 3 tower et :0.21377 tower eta 2.57541 tower phi1.13446
+ 3 tower et :0.57297 tower eta 2.6215 tower phi1.27597
+ 3 tower et :1.00228 tower eta 2.58821 tower phi1.51968
+ 3 tower et :1.16642 tower eta 2.59922 tower phi1.62745
+ 3 tower et :0.179197 tower eta 2.57541 tower phi2.00713
+ 3 tower et :1.52452 tower eta 2.61601 tower phi2.20443
+ 3 tower et :0.35334 tower eta 2.58138 tower phi2.36602
+ 3 tower et :0.272815 tower eta 2.57606 tower phi2.62248
+ 3 tower et :0.513869 tower eta 2.61243 tower phi2.6766
+ 3 tower et :0.0767318 tower eta 2.64693 tower phi3.12691
+ 3 tower et :1.01104 tower eta 2.5852 tower phi-3.05881
+ 3 tower et :0.758878 tower eta 2.57541 tower phi-2.87979
+ 3 tower et :0.133602 tower eta 2.57541 tower phi-2.70526
+ 3 tower et :0.114726 tower eta 2.57412 tower phi-2.50896
+ 3 tower et :0.157286 tower eta 2.54309 tower phi-2.37853
+ Burada 5
+16-May-2013 10:30:54 CEST  Closed file root://eoscms//eos/cms/store/user/ilknur/rootfiles_for_testing/2012_Data/Run2012A_MinimumBias_AOD_13Jul2012_v1.root
+
+=============================================
+
+MessageLogger Summary
+
+ type     category        sev    module        subroutine        count    total
+ ---- -------------------- -- ---------------- ----------------  -----    -----
+    1 fileAction           -s file_close                             1        1
+    2 fileAction           -s file_open                              2        2
+
+ type    category    Examples: run/evt        run/evt          run/evt
+ ---- -------------------- ---------------- ---------------- ----------------
+    1 fileAction           PostEndRun                        
+    2 fileAction           pre-events       pre-events       
+
+Severity    # Occurrences   Total Occurrences
+--------    -------------   -----------------
+System                  3                   3

@@ -1,0 +1,156 @@
+import FWCore.ParameterSet.Config as cms
+
+process = cms.Process("Ana")
+process.load('FWCore.MessageService.MessageLogger_cfi')
+##-------------------- Communicate with the DB -----------------------
+process.load('Configuration.StandardSequences.Services_cff')
+process.load('Configuration.StandardSequences.FrontierConditions_GlobalTag_cff')
+process.GlobalTag.globaltag = 'PHYS14_25_V4::All'
+process.load('Configuration.StandardSequences.MagneticField_38T_cff')
+##process.load('Configuration.StandardSequences.Geometry_cff')
+process.load('Configuration.Geometry.GeometryIdeal_cff')
+process.load('RecoJets.Configuration.RecoPFJets_cff')
+process.load('RecoJets.Configuration.RecoJets_cff')
+process.load('CommonTools/RecoAlgos/HBHENoiseFilterResultProducer_cfi')
+##-------------------- Import the JEC services -----------------------
+process.load('JetMETCorrections.Configuration.DefaultJEC_cff')
+#############   Set the number of events #############
+process.maxEvents = cms.untracked.PSet(
+    input = cms.untracked.int32(1000)
+)
+#############   Format MessageLogger #################
+process.MessageLogger.cerr.FwkReport.reportEvery = 100
+#############   Define the source file ###############
+process.source = cms.Source("PoolSource",
+                            fileNames = cms.untracked.vstring("root://eoscms//eos/cms/store/user/ilknur/rootfiles_for_testing/2012_Data/Run2012A_MinimumBias_AOD_13Jul2012_v1.root")
+                            
+)
+############# processed tree producer ##################
+process.TFileService = cms.Service("TFileService",fileName = cms.string('ProcessedTree_data.root'))
+
+process.ak7 = cms.EDAnalyzer('ProcessedTreeProducer',
+    ## jet collections ###########################
+    pfjets          = cms.InputTag('ak7PFJets'),
+    ##calojets        = cms.InputTag('ak7CaloJets'),
+    ## database entry for the uncertainties ######
+    PFPayloadName   = cms.string('AK7PF'),
+    ##CaloPayloadName = cms.string('AK7Calo'),
+    jecUncSrc       = cms.string('Winter14_V8_DATA_UncertaintySources_AK7PF.txt'),
+    ############# add for JEC 53X ##################
+
+    jecL1FastFile          = cms.string('Winter14_V8_DATA_L1FastJet_AK7PF.txt'),
+    jecL2RelativeFile      = cms.string('Winter14_V8_DATA_L2Relative_AK7PF.txt'),
+    jecL3AbsoluteFile      = cms.string('Winter14_V8_DATA_L3Absolute_AK7PF.txt'),
+    jecL2L3ResidualFile    = cms.string('Winter14_V8_DATA_L2L3Residual_AK7PF.txt'),
+    
+
+    jecUncSrcNames  = cms.vstring('AbsoluteStat','AbsoluteScale','AbsoluteFlavMap','AbsoluteMPFBias',
+                                  'Fragmentation','SinglePionECAL','SinglePionHCAL','FlavorQCD',
+                                  'TimeEta','TimePt','RelativeJEREC1','RelativeJEREC2',
+                                  'RelativeJERHF','RelativePtBB','RelativePtEC1','RelativePtEC2',
+                                  'RelativePtHF','RelativeFSR','RelativeStatFSR','RelativeStatEC2',
+                                  'RelativeStatHF','PileUpDataMC','PileUpPtRef','PileUpPtBB','PileUpPtEC1',
+                                  'PileUpPtEC2','PileUpPtHF','PileUpMuZero','PileUpEnvelope',
+                                  'SubTotalPileUp','SubTotalRelative','SubTotalPt','SubTotalScale','SubTotalAbsolute',
+                                  'SubTotalMC','Total','TotalNoFlavor','TotalNoTime','TotalNoFlavorNoTime','FlavorZJet',
+                                  'FlavorPhotonJet','FlavorPureGluon','FlavorPureQuark','FlavorPureCharm','FlavorPureBottom',
+                                  'TimeRunA','TimeRunB','TimeRunC','TimeRunD','CorrelationGroupMPFInSitu',
+                                  'CorrelationGroupIntercalibration','CorrelationGroupbJES','CorrelationGroupFlavor',
+                                  'CorrelationGroupUncorrelated'
+                                  
+                                  
+                                  ##52X JEC Uncertainty Sources
+                                  ##'Absolute','HighPtExtra','SinglePion','Flavor','Time',
+                                  ##'RelativeJEREC1','RelativeJEREC2','RelativeJERHF',
+                                  ##'RelativeStatEC2','RelativeStatHF','RelativeFSR',
+                                  ##'PileUpDataMC','PileUpOOT','PileUpPt','PileUpBias','PileUpJetRate'
+                                  
+                                  ),
+    
+    ## calojet ID and extender for the JTA #######
+    ##calojetID       = cms.InputTag('ak7JetID'),
+    ##calojetExtender = cms.InputTag('ak7JetExtender'),
+    ## set the conditions for good Vtx counting ##
+    offlineVertices = cms.InputTag('offlinePrimaryVertices'),
+    goodVtxNdof     = cms.double(4), 
+    goodVtxZ        = cms.double(24),
+    ## rho #######################################
+    ##srcCaloRho      = cms.InputTag('kt6CaloJets','rho'),
+    srcPFRho        = cms.InputTag('kt6PFJets','rho'),
+    ## preselection cuts #########################
+    maxY            = cms.double(5.0), 
+    minPFPt         = cms.double(5),
+    minPFFatPt      = cms.double(10),
+    maxPFFatEta     = cms.double(2.5),
+    minTwrEt        = cms.double(0.),
+    minTwrEta       = cms.double(0.0),
+    maxTwrEta       = cms.double(5.0),                         
+    ##minCaloPt       = cms.double(5),
+    minNPFJets      = cms.int32(1),
+    ##minNCaloJets    = cms.int32(1), 
+    minJJMass       = cms.double(-1),
+    ## trigger ###################################
+    printTriggerMenu = cms.untracked.bool(True),
+    processName     = cms.string('HLT'),
+    triggerName     = cms.vstring('HLT_L1SingleJet16_v1','HLT_L1SingleJet16_v2','HLT_L1SingleJet16_v3','HLT_L1SingleJet16_v4','HLT_L1SingleJet16_v5','HLT_L1SingleJet16_v6',
+                                  'HLT_L1SingleJet36_v1','HLT_L1SingleJet36_v2','HLT_L1SingleJet36_v3','HLT_L1SingleJet36_v4','HLT_L1SingleJet36_v5','HLT_L1SingleJet36_v6',
+                                  'HLT_SingleForJet15_v2','HLT_SingleForJet25_v2','HLT_ZeroBias_v6','HLT_ZeroBiasPixel_DoubleTrack_v1',
+                                  'HLT_PFJet40_v1','HLT_PFJet80_v1','HLT_PFJet140_v1','HLT_PFJet200_v1','HLT_PFJet260_v1','HLT_PFJet320_v1','HLT_PFJet400_v1',
+                                  'HLT_PFJet40_v2','HLT_PFJet80_v2','HLT_PFJet140_v2','HLT_PFJet200_v2','HLT_PFJet260_v2','HLT_PFJet320_v2','HLT_PFJet400_v2',
+                                  'HLT_PFJet40_v3','HLT_PFJet80_v3','HLT_PFJet140_v3','HLT_PFJet200_v3','HLT_PFJet260_v3','HLT_PFJet320_v3','HLT_PFJet400_v3',
+                                  'HLT_PFJet40_v4','HLT_PFJet80_v4','HLT_PFJet140_v4','HLT_PFJet200_v4','HLT_PFJet260_v4','HLT_PFJet320_v4','HLT_PFJet400_v4',
+                                  'HLT_PFJet40_v5','HLT_PFJet80_v5','HLT_PFJet140_v5','HLT_PFJet200_v5','HLT_PFJet260_v5','HLT_PFJet320_v5','HLT_PFJet400_v5'
+    ),
+    triggerResults  = cms.InputTag("TriggerResults","","HLT"),
+    triggerEvent    = cms.InputTag("hltTriggerSummaryAOD","","HLT")
+    ## jec services ##############################
+    ##pfjecService    = cms.string('ak7PFL1FastL2L3Residual'),
+    ##calojecService  = cms.string('ak7CaloL1L2L3Residual')
+)
+
+process.ak5 = process.ak7.clone(
+    pfjets           = 'ak5PFJets',
+    ##calojets         = 'ak5CaloJets',
+    PFPayloadName    = 'AK5PF',
+    ##CaloPayloadName  = 'AK5Calo',
+    jecUncSrc        = 'Winter14_V8_DATA_UncertaintySources_AK5PF.txt',
+    ##calojetID        = 'ak5JetID',
+    ##calojetExtender  = 'ak5JetExtender',
+    ## Add JEC 53X Winter ##############################        
+    jecL1FastFile          = cms.string('Winter14_V8_DATA_L1FastJet_AK5PF.txt'),
+    jecL2RelativeFile      = cms.string('Winter14_V8_DATA_L2Relative_AK5PF.txt'),
+    jecL3AbsoluteFile      = cms.string('Winter14_V8_DATA_L3Absolute_AK5PF.txt'),
+    jecL2L3ResidualFile    = cms.string('Winter14_V8_DATA_L2L3Residual_AK5PF.txt'),
+    ##pfjecService     = 'ak5PFL1FastL2L3Residual',
+    ##calojecService   = 'ak5CaloL1L2L3Residual',
+    printTriggerMenu = False 
+)
+
+############# hlt filter #########################
+process.hltFilter = cms.EDFilter('HLTHighLevel',
+    TriggerResultsTag  = cms.InputTag('TriggerResults','','HLT'),
+    HLTPaths           = cms.vstring('HLT_L1SingleJet16_v*',
+                                     'HLT_L1SingleJet36_v*',
+                                     'HLT_SingleForJet15_v*',
+                                     'HLT_SingleForJet25_v*',
+                                     'HLT_ZeroBias_v*',
+                                     'HLT_ZeroBiasPixel_DoubleTrack_v*',
+                                     'HLT_PFJet40_v*',
+                                     'HLT_PFJet80_v*',
+                                     'HLT_PFJet140_v*',
+                                     'HLT_PFJet200_v*',
+                                     'HLT_PFJet260_v*',
+                                     'HLT_PFJet320_v*',
+                                     'HLT_PFJet400_v*'
+    ),
+    eventSetupPathsKey = cms.string(''),
+    andOr              = cms.bool(True), #----- True = OR, False = AND between the HLTPaths
+    throw              = cms.bool(False)
+)
+
+
+
+
+process.path = cms.Path(process.hltFilter * process.HBHENoiseFilterResultProducer * process.ak5 * process.ak7)
+
+
